@@ -1,0 +1,3001 @@
+id_paciente,nombre,edad,sexo,distrito,servicio,fecha_atencion,monto
+P0001,Luis Pérez,74,F,Callao,Pediatría,2023-09-07,434.85
+P0002,Sofía Díaz,79,M,San Isidro,Pediatría,2024-09-13,71.6
+P0003,Sofía Díaz,69,F,Surco,Odontología,2025-06-09,404.65
+P0004,Luis Pérez,49,F,San Isidro,Cardiología,2025-09-07,288.81
+P0005,María Gómez,78,M,Miraflores,Odontología,2024-10-19,241.18
+P0006,Luis Pérez,77,M,La Molina,Pediatría,2020-11-16,359.35
+P0007,Carlos Ruiz,13,F,Callao,Cardiología,2025-07-23,397.27
+P0008,Luis Pérez,8,M,Surco,Cardiología,2020-05-26,228.53
+P0009,Carlos Ruiz,10,M,Cajamarca,Odontología,2018-04-05,376.78
+P0010,Sofía Díaz,64,M,Callao,Cardiología,2023-07-01,452.91
+P0011,Luis Pérez,88,M,Miraflores,Pediatría,2019-01-02,313.4
+P0012,Luis Pérez,63,M,Callao,Pediatría,2025-08-04,419.5
+P0013,María Gómez,58,M,Surco,Ginecología,2021-01-20,58.75
+P0014,Ana Torres,3,M,Cajamarca,Odontología,2019-03-27,310.42
+P0015,Ana Torres,47,M,Miraflores,Odontología,2022-10-12,313.61
+P0016,María Gómez,65,F,Cajamarca,Pediatría,2018-08-26,492.94
+P0017,Luis Pérez,59,F,Surco,Cardiología,2022-05-15,324.3
+P0018,Sofía Díaz,0,F,Callao,Cardiología,2020-10-08,395.95
+P0019,María Gómez,57,F,San Isidro,Pediatría,2021-04-09,320.58
+P0020,Sofía Díaz,54,F,Miraflores,Ginecología,2018-12-24,493.98
+P0021,María Gómez,8,M,Surco,Medicina General,2019-04-28,107.41
+P0022,Sofía Díaz,16,M,Surco,Odontología,2025-10-30,418.46
+P0023,Carlos Ruiz,59,F,Miraflores,Cardiología,2025-01-16,407.1
+P0024,Ana Torres,61,F,Callao,Ginecología,2023-08-26,60.4
+P0025,Sofía Díaz,81,F,San Isidro,Cardiología,2024-01-17,190.75
+P0026,María Gómez,66,F,Surco,Odontología,2020-11-23,327.78
+P0027,Carlos Ruiz,25,M,Callao,Pediatría,2019-08-21,324.25
+P0028,Luis Pérez,39,M,La Molina,Cardiología,2023-01-30,197.91
+P0029,Ana Torres,17,F,San Isidro,Cardiología,2024-02-02,117.56
+P0030,Sofía Díaz,82,F,Cajamarca,Ginecología,2025-06-12,118.56
+P0031,Carlos Ruiz,1,M,San Isidro,Odontología,2021-05-08,114.81
+P0032,Luis Pérez,64,M,San Isidro,Odontología,2022-02-27,392.85
+P0033,Ana Torres,81,F,San Isidro,Cardiología,2024-01-04,318.95
+P0034,Carlos Ruiz,79,F,Miraflores,Medicina General,2019-04-22,484.28
+P0035,María Gómez,19,F,Cajamarca,Medicina General,2018-06-05,248.09
+P0036,María Gómez,10,M,Miraflores,Odontología,2019-03-02,438.73
+P0037,Ana Torres,72,F,Callao,Pediatría,2020-07-19,53.62
+P0038,María Gómez,0,F,Cajamarca,Odontología,2018-07-25,157.55
+P0039,Luis Pérez,15,M,San Isidro,Odontología,2018-07-10,127.04
+P0040,Ana Torres,60,M,Cajamarca,Cardiología,2019-04-01,95.87
+P0041,Carlos Ruiz,67,F,Miraflores,Medicina General,2019-02-23,258.54
+P0042,Sofía Díaz,89,M,Callao,Pediatría,2025-09-09,485.19
+P0043,María Gómez,5,M,Callao,Cardiología,2020-11-23,434.87
+P0044,Luis Pérez,90,F,La Molina,Ginecología,2023-06-10,250.17
+P0045,María Gómez,16,F,Miraflores,Ginecología,2020-05-13,212.36
+P0046,Luis Pérez,55,F,Callao,Pediatría,2024-03-28,238.78
+P0047,María Gómez,4,M,San Isidro,Cardiología,2020-12-01,129.26
+P0048,María Gómez,26,M,Surco,Odontología,2021-01-07,206.68
+P0049,María Gómez,74,M,Callao,Pediatría,2018-10-19,244.41
+P0050,SIN_NOMBRE,22,F,Cajamarca,Pediatría,2024-05-21,493.03
+P0051,Carlos Ruiz,34,M,Callao,Odontología,2023-11-12,456.29
+P0052,SIN_NOMBRE,45,F,Surco,Cardiología,2019-07-07,95.54
+P0053,María Gómez,43,M,La Molina,Cardiología,2023-11-18,381.5
+P0054,María Gómez,72,F,San Isidro,Cardiología,2018-10-01,235.23
+P0055,María Gómez,70,F,San Isidro,Pediatría,2025-02-01,443.32
+P0056,María Gómez,25,F,San Isidro,Medicina General,2025-04-28,360.35
+P0057,María Gómez,86,F,San Isidro,Pediatría,2019-03-12,229.76
+P0058,Sofía Díaz,81,F,La Molina,Odontología,2022-11-14,322.8
+P0059,Sofía Díaz,68,M,La Molina,Ginecología,2021-10-17,280.77
+P0060,Ana Torres,33,M,Surco,Pediatría,2019-01-07,0.0
+P0061,Carlos Ruiz,17,M,La Molina,Odontología,2020-04-27,75.63
+P0062,Luis Pérez,9,M,La Molina,Ginecología,2023-08-06,242.91
+P0063,Ana Torres,9,F,Surco,Ginecología,2022-08-29,0.0
+P0064,Ana Torres,9,F,San Isidro,Odontología,2022-12-07,279.18
+P0065,Ana Torres,67,M,Miraflores,Ginecología,2022-04-17,232.43
+P0066,Sofía Díaz,56,M,San Isidro,Pediatría,2022-02-11,396.74
+P0067,Luis Pérez,79,F,San Isidro,Medicina General,2019-06-21,283.22
+P0068,Carlos Ruiz,6,M,Miraflores,Odontología,2019-12-30,432.81
+P0069,María Gómez,87,F,Surco,Ginecología,2018-05-19,254.23
+P0070,Sofía Díaz,17,M,La Molina,Cardiología,2021-10-06,294.31
+P0071,Sofía Díaz,47,M,San Isidro,Medicina General,2025-05-19,260.64
+P0072,Sofía Díaz,15,M,La Molina,Ginecología,2023-02-23,186.61
+P0073,Luis Pérez,41,F,Surco,Odontología,2018-07-31,95.81
+P0074,Sofía Díaz,76,M,Callao,Pediatría,2021-10-15,281.53
+P0075,María Gómez,84,F,Callao,Medicina General,2020-10-30,0.0
+P0076,Sofía Díaz,72,M,Surco,Medicina General,2022-11-12,129.7
+P0077,María Gómez,56,F,Surco,Ginecología,2021-06-09,140.24
+P0078,Sofía Díaz,19,F,Cajamarca,Cardiología,2022-08-01,294.79
+P0079,Luis Pérez,7,F,Miraflores,Pediatría,2024-12-14,453.61
+P0080,Carlos Ruiz,82,F,Cajamarca,Pediatría,2025-08-04,142.35
+P0081,Ana Torres,71,F,Cajamarca,Pediatría,2022-04-10,428.9
+P0082,Ana Torres,15,ND,La Molina,Medicina General,2024-06-11,492.29
+P0083,María Gómez,29,M,Cajamarca,Pediatría,2020-12-04,472.6
+P0084,María Gómez,25,M,Cajamarca,Medicina General,2020-12-21,81.48
+P0085,María Gómez,76,F,Surco,Ginecología,2022-07-21,209.42
+P0086,María Gómez,66,M,Surco,Pediatría,2019-08-06,178.23
+P0087,María Gómez,6,F,La Molina,Medicina General,2018-09-16,326.4
+P0088,María Gómez,7,F,Surco,Odontología,2022-10-21,455.82
+P0089,Luis Pérez,31,F,Surco,Medicina General,2021-07-25,275.1
+P0090,María Gómez,36,M,Miraflores,Medicina General,2021-09-30,75.99
+P0091,Sofía Díaz,39,M,Miraflores,Odontología,2024-04-06,91.23
+P0092,María Gómez,5,M,San Isidro,Pediatría,2025-11-19,0.0
+P0093,Luis Pérez,14,M,Surco,Cardiología,2019-07-24,261.32
+P0094,María Gómez,37,M,Callao,Ginecología,2022-10-15,109.97
+P0095,Ana Torres,19,M,San Isidro,Pediatría,2018-10-19,62.07
+P0096,Sofía Díaz,13,F,Callao,Pediatría,2023-05-23,438.79
+P0097,Ana Torres,42,M,Miraflores,Ginecología,2023-02-05,166.33
+P0098,María Gómez,54,M,La Molina,Medicina General,2025-05-21,254.66
+P0099,Ana Torres,76,M,San Isidro,Odontología,2019-11-30,338.47
+P0100,Carlos Ruiz,36,M,San Isidro,Odontología,2025-06-10,152.56
+P0101,Carlos Ruiz,6,M,Miraflores,Medicina General,2020-05-14,183.47
+P0102,Carlos Ruiz,33,M,Miraflores,Odontología,2021-10-17,388.14
+P0103,Carlos Ruiz,62,F,Miraflores,Pediatría,2022-07-03,307.05
+P0104,Sofía Díaz,72,F,Cajamarca,Ginecología,2021-09-29,201.05
+P0105,María Gómez,78,F,San Isidro,Odontología,2023-08-17,78.06
+P0106,María Gómez,2,M,La Molina,Medicina General,2020-07-11,448.71
+P0107,Ana Torres,3,F,La Molina,Medicina General,2023-07-28,326.87
+P0108,Luis Pérez,77,M,Miraflores,Pediatría,2019-06-14,174.52
+P0109,Sofía Díaz,67,ND,La Molina,Medicina General,2025-06-08,240.21
+P0110,Carlos Ruiz,90,F,La Molina,Odontología,2021-08-25,492.45
+P0111,Carlos Ruiz,21,F,Cajamarca,Medicina General,2024-06-24,71.16
+P0112,Luis Pérez,7,M,Callao,Medicina General,2025-11-08,345.65
+P0113,Ana Torres,66,M,Surco,Medicina General,2019-11-30,284.56
+P0114,Sofía Díaz,12,F,San Isidro,Cardiología,2021-08-09,156.62
+P0115,Ana Torres,9,M,Callao,Medicina General,2025-02-04,93.17
+P0116,María Gómez,5,M,Cajamarca,Odontología,2018-07-29,497.2
+P0117,Ana Torres,0,F,Surco,Ginecología,2025-05-25,474.56
+P0118,Ana Torres,71,M,Surco,Odontología,2023-06-17,106.8
+P0119,Luis Pérez,59,F,Callao,Pediatría,2023-03-12,489.11
+P0120,SIN_NOMBRE,26,M,Cajamarca,Cardiología,2022-12-11,81.73
+P0121,Carlos Ruiz,36,M,Cajamarca,Medicina General,2025-09-21,367.44
+P0122,María Gómez,9,M,Miraflores,Odontología,2020-10-06,442.21
+P0123,Carlos Ruiz,85,F,Surco,Pediatría,2025-04-23,452.59
+P0124,Luis Pérez,39,M,Cajamarca,Cardiología,2020-07-28,160.13
+P0125,Carlos Ruiz,4,F,Cajamarca,Ginecología,2021-06-23,139.99
+P0126,Luis Pérez,69,F,La Molina,Ginecología,2019-04-08,216.03
+P0127,Sofía Díaz,53,F,San Isidro,Cardiología,2025-01-06,221.22
+P0128,Luis Pérez,60,M,Surco,Medicina General,2022-07-13,174.21
+P0129,María Gómez,55,M,Cajamarca,Pediatría,2022-02-10,383.65
+P0130,Luis Pérez,50,F,Surco,Odontología,2020-03-02,221.13
+P0131,Luis Pérez,73,M,Surco,Ginecología,2024-09-02,280.92
+P0132,Ana Torres,37,F,San Isidro,Ginecología,2022-02-24,466.13
+P0133,Luis Pérez,71,M,Surco,Pediatría,2020-03-27,485.17
+P0134,María Gómez,68,F,San Isidro,Pediatría,2019-06-09,405.49
+P0135,Carlos Ruiz,20,M,Cajamarca,Odontología,2018-12-03,323.16
+P0136,Luis Pérez,51,M,Cajamarca,Medicina General,2023-08-08,54.86
+P0137,Ana Torres,64,F,Cajamarca,Odontología,2021-06-08,204.35
+P0138,Luis Pérez,31,F,San Isidro,Cardiología,2023-01-28,0.0
+P0139,Ana Torres,85,M,Miraflores,Ginecología,2024-07-23,275.72
+P0140,Luis Pérez,77,F,Miraflores,Cardiología,2023-04-19,305.98
+P0141,Carlos Ruiz,43,F,Callao,Ginecología,2023-10-04,480.7
+P0142,Ana Torres,21,F,Callao,Pediatría,2018-10-11,470.13
+P0143,Sofía Díaz,32,F,Callao,Cardiología,2020-05-24,250.29
+P0144,Carlos Ruiz,64,M,San Isidro,Pediatría,2022-09-11,353.79
+P0145,Carlos Ruiz,80,F,Callao,Pediatría,2022-05-23,491.5
+P0146,Sofía Díaz,28,M,San Isidro,Odontología,2020-11-27,436.39
+P0147,María Gómez,28,F,Callao,Ginecología,2020-08-12,225.29
+P0148,Sofía Díaz,89,F,San Isidro,Cardiología,2023-04-10,96.19
+P0149,María Gómez,40,F,Cajamarca,Cardiología,2022-02-24,337.04
+P0150,Ana Torres,73,F,Miraflores,Odontología,2021-09-09,54.74
+P0151,Sofía Díaz,50,F,La Molina,Medicina General,2021-05-13,393.8
+P0152,Carlos Ruiz,32,M,Surco,Medicina General,2020-08-07,84.12
+P0153,María Gómez,53,M,Miraflores,Ginecología,2019-02-12,130.89
+P0154,Sofía Díaz,51,F,San Isidro,Cardiología,2024-05-11,422.76
+P0155,María Gómez,23,F,San Isidro,Odontología,2020-07-24,88.06
+P0156,María Gómez,48,M,La Molina,Odontología,2022-03-20,466.74
+P0157,Ana Torres,56,F,San Isidro,Odontología,2018-02-01,393.43
+P0158,María Gómez,24,F,Miraflores,Cardiología,2018-02-16,217.96
+P0159,Luis Pérez,15,F,Miraflores,Cardiología,2023-04-28,413.71
+P0160,Luis Pérez,79,M,Cajamarca,Ginecología,2022-09-29,143.37
+P0161,Ana Torres,73,M,Cajamarca,Ginecología,2018-02-07,498.67
+P0162,Sofía Díaz,37,F,Surco,Odontología,2022-01-27,315.3
+P0163,Sofía Díaz,19,F,Surco,Odontología,2021-08-23,421.27
+P0164,Sofía Díaz,79,F,San Isidro,Ginecología,2025-06-05,382.91
+P0165,Carlos Ruiz,35,F,Cajamarca,Medicina General,2023-02-21,150.96
+P0166,Carlos Ruiz,74,M,La Molina,Ginecología,2021-09-22,244.11
+P0167,Sofía Díaz,63,M,Surco,Medicina General,2018-12-31,454.74
+P0168,Carlos Ruiz,76,M,Callao,Medicina General,2020-01-16,166.24
+P0169,Ana Torres,74,F,Cajamarca,Odontología,2024-05-23,143.68
+P0170,María Gómez,69,F,Callao,Ginecología,2022-06-24,220.1
+P0171,Carlos Ruiz,32,M,La Molina,Odontología,2024-02-23,71.36
+P0172,Carlos Ruiz,31,ND,La Molina,Ginecología,2019-03-19,86.28
+P0173,María Gómez,52,F,Miraflores,Odontología,2025-06-16,264.32
+P0174,María Gómez,15,M,Miraflores,Cardiología,2022-07-15,319.27
+P0175,María Gómez,47,M,Cajamarca,Cardiología,2018-10-05,158.83
+P0176,Ana Torres,83,F,La Molina,Pediatría,2019-04-17,324.2
+P0177,Carlos Ruiz,83,F,La Molina,Pediatría,2020-11-25,466.72
+P0178,Ana Torres,41,M,Cajamarca,Ginecología,2021-05-14,219.25
+P0179,Ana Torres,19,M,Cajamarca,Pediatría,2025-06-09,273.92
+P0180,Ana Torres,50,ND,Surco,Cardiología,2018-07-23,444.66
+P0181,María Gómez,21,M,Cajamarca,Ginecología,2023-01-21,312.99
+P0182,María Gómez,74,M,Miraflores,Cardiología,2024-05-26,187.11
+P0183,Luis Pérez,47,M,Surco,Ginecología,2024-02-02,353.4
+P0184,María Gómez,39,F,San Isidro,Pediatría,2023-05-20,287.37
+P0185,SIN_NOMBRE,41,F,La Molina,Ginecología,2025-10-14,219.17
+P0186,Luis Pérez,27,M,Surco,Medicina General,2023-09-07,311.26
+P0187,Ana Torres,12,F,La Molina,Pediatría,2022-05-16,313.67
+P0188,Luis Pérez,50,F,Cajamarca,Pediatría,2024-11-03,185.95
+P0189,Ana Torres,5,F,Surco,Pediatría,2019-06-24,300.3
+P0190,Sofía Díaz,87,F,Cajamarca,Odontología,2024-03-16,152.58
+P0191,Luis Pérez,34,M,Cajamarca,Ginecología,2022-09-19,53.78
+P0192,María Gómez,70,M,Surco,Medicina General,2023-02-06,241.4
+P0193,Ana Torres,81,M,Callao,Pediatría,2022-11-03,334.52
+P0194,María Gómez,18,M,Miraflores,Pediatría,2023-10-16,312.7
+P0195,Luis Pérez,9,F,Miraflores,Odontología,2018-05-01,212.55
+P0001,Sofía Díaz,81,M,La Molina,Pediatría,2018-01-08,151.06
+P0197,María Gómez,68,M,La Molina,Ginecología,2022-02-23,227.3
+P0198,Ana Torres,24,M,Surco,Medicina General,2025-11-21,261.8
+P0199,Luis Pérez,87,M,Cajamarca,Odontología,2021-02-10,455.22
+P0200,Luis Pérez,72,M,Cajamarca,Medicina General,2019-07-08,479.63
+P0201,SIN_NOMBRE,45,F,San Isidro,Odontología,2020-09-19,154.71
+P0202,María Gómez,54,F,Cajamarca,Pediatría,2023-11-14,181.48
+P0203,Sofía Díaz,36,M,La Molina,Pediatría,2019-12-13,133.3
+P0204,Sofía Díaz,33,M,Surco,Odontología,2018-05-05,286.7
+P0205,Luis Pérez,17,F,Callao,Odontología,2022-06-14,370.18
+P0206,Carlos Ruiz,7,F,Cajamarca,Odontología,2021-03-19,284.87
+P0207,María Gómez,7,M,La Molina,Odontología,2025-02-19,394.64
+P0208,María Gómez,20,F,La Molina,Medicina General,2024-06-28,0.0
+P0209,Luis Pérez,41,F,Surco,Odontología,2018-11-19,107.47
+P0210,Ana Torres,20,M,Cajamarca,Cardiología,2020-01-27,404.89
+P0211,María Gómez,88,F,San Isidro,Ginecología,2022-12-24,93.61
+P0212,María Gómez,32,F,Cajamarca,Medicina General,2023-08-20,244.5
+P0213,Carlos Ruiz,16,F,Cajamarca,Cardiología,2023-05-28,132.81
+P0214,María Gómez,25,F,Callao,Odontología,2023-12-09,260.05
+P0215,María Gómez,89,M,San Isidro,Odontología,2024-04-28,224.64
+P0216,Luis Pérez,37,ND,Miraflores,Cardiología,2020-01-24,211.43
+P0217,María Gómez,23,M,Cajamarca,Ginecología,2020-12-27,132.71
+P0218,Sofía Díaz,48,F,La Molina,Pediatría,2024-06-06,64.4
+P0219,Sofía Díaz,71,F,Surco,Pediatría,2019-07-07,154.13
+P0220,Ana Torres,20,F,Callao,Medicina General,2018-04-15,325.88
+P0221,Ana Torres,35,F,Surco,Pediatría,2023-01-06,78.84
+P0222,María Gómez,19,F,La Molina,Cardiología,2025-03-02,124.9
+P0223,Ana Torres,72,F,La Molina,Ginecología,2024-03-15,147.25
+P0224,Carlos Ruiz,89,M,Miraflores,Cardiología,2023-07-26,484.14
+P0225,Sofía Díaz,36,M,Cajamarca,Odontología,2022-08-11,341.31
+P0226,Carlos Ruiz,0,F,Miraflores,Pediatría,2022-06-04,104.02
+P0227,Carlos Ruiz,84,F,La Molina,Ginecología,2019-08-27,192.37
+P0228,SIN_NOMBRE,59,M,San Isidro,Medicina General,2023-09-11,383.45
+P0229,Carlos Ruiz,20,F,Callao,Ginecología,2019-11-09,323.58
+P0230,Ana Torres,77,M,Surco,Odontología,2025-01-09,360.11
+P0231,María Gómez,1,M,Surco,Cardiología,2019-12-22,381.25
+P0232,Luis Pérez,87,M,Callao,Ginecología,2018-11-01,345.42
+P0233,Sofía Díaz,64,F,Cajamarca,Pediatría,2024-12-02,417.03
+P0234,Carlos Ruiz,49,F,Callao,Ginecología,2025-08-07,104.86
+P0235,Sofía Díaz,65,F,Miraflores,Medicina General,2025-07-05,101.81
+P0236,Sofía Díaz,47,F,Miraflores,Odontología,2024-12-18,109.3
+P0237,Luis Pérez,78,M,Miraflores,Ginecología,2020-11-03,470.34
+P0238,Ana Torres,53,M,La Molina,Ginecología,2025-05-14,251.3
+P0239,Luis Pérez,27,F,Surco,Cardiología,2019-10-11,280.96
+P0240,Ana Torres,40,F,Surco,Odontología,2024-10-15,427.15
+P0241,María Gómez,66,M,Callao,Medicina General,2019-08-14,296.22
+P0242,Luis Pérez,6,ND,Miraflores,Odontología,2022-08-29,87.07
+P0243,Carlos Ruiz,82,F,Callao,Ginecología,2018-07-29,403.65
+P0244,Ana Torres,62,ND,Miraflores,Pediatría,2020-01-05,307.91
+P0245,Ana Torres,76,M,Cajamarca,Cardiología,2022-01-22,340.14
+P0246,Luis Pérez,16,F,Miraflores,Cardiología,2024-06-28,458.56
+P0247,Carlos Ruiz,2,M,Surco,Cardiología,2020-12-06,88.45
+P0248,Ana Torres,85,M,San Isidro,Medicina General,2025-03-17,481.5
+P0249,María Gómez,16,M,Surco,Pediatría,2021-12-14,477.87
+P0250,Luis Pérez,80,F,Cajamarca,Cardiología,2022-06-13,380.75
+P0251,Ana Torres,50,M,Surco,Ginecología,2023-05-13,290.42
+P0252,Sofía Díaz,20,M,Surco,Odontología,2020-02-07,332.65
+P0253,María Gómez,51,M,Surco,Ginecología,2024-04-01,485.1
+P0254,María Gómez,68,M,San Isidro,Ginecología,2018-11-24,475.16
+P0255,Luis Pérez,8,F,San Isidro,Cardiología,2025-12-04,336.27
+P0256,Luis Pérez,35,F,San Isidro,Medicina General,2025-11-10,492.06
+P0257,Carlos Ruiz,29,M,Callao,Medicina General,2018-06-10,177.35
+P0258,Luis Pérez,34,F,Cajamarca,Medicina General,2022-03-19,268.03
+P0259,María Gómez,45,M,Callao,Ginecología,2024-03-03,80.47
+P0260,Sofía Díaz,22,F,Callao,Pediatría,2018-04-29,431.07
+P0261,Luis Pérez,67,M,La Molina,Odontología,2024-12-10,284.43
+P0262,Ana Torres,12,F,La Molina,Cardiología,2022-01-09,379.52
+P0263,Ana Torres,4,M,Miraflores,Medicina General,2024-10-30,427.91
+P0264,Ana Torres,39,ND,Callao,Ginecología,2019-03-05,496.82
+P0265,SIN_NOMBRE,66,ND,Cajamarca,Pediatría,2024-11-06,414.35
+P0266,Sofía Díaz,20,ND,Miraflores,Ginecología,2021-12-28,459.88
+P0267,María Gómez,25,M,San Isidro,Pediatría,2020-03-01,144.51
+P0268,Luis Pérez,2,ND,Surco,Pediatría,2023-01-20,414.13
+P0269,Carlos Ruiz,18,M,Surco,Pediatría,2019-08-03,438.01
+P0270,Ana Torres,45,M,Surco,Cardiología,2025-11-17,315.94
+P0271,Ana Torres,47,M,La Molina,Medicina General,2020-05-15,253.56
+P0272,Luis Pérez,7,ND,La Molina,Odontología,2024-08-31,200.9
+P0273,Ana Torres,10,M,Callao,Odontología,2020-06-01,154.17
+P0274,María Gómez,89,M,Surco,Cardiología,2021-09-28,417.88
+P0275,Ana Torres,0,M,Callao,Cardiología,2021-07-04,158.04
+P0276,Sofía Díaz,14,F,Cajamarca,Pediatría,2018-07-26,199.2
+P0277,Luis Pérez,78,F,San Isidro,Cardiología,2020-11-20,457.23
+P0278,Ana Torres,22,F,Callao,Odontología,2023-02-13,455.84
+P0279,Luis Pérez,43,F,Cajamarca,Odontología,2019-11-01,62.68
+P0280,Sofía Díaz,30,F,Surco,Cardiología,2019-01-23,388.29
+P0281,Sofía Díaz,89,M,San Isidro,Pediatría,2020-09-07,202.26
+P0282,Luis Pérez,9,F,Callao,Odontología,2021-11-10,53.63
+P0283,Sofía Díaz,69,F,Surco,Odontología,2022-10-15,259.99
+P0284,Ana Torres,80,M,San Isidro,Ginecología,2021-06-11,254.96
+P0285,Carlos Ruiz,68,M,Cajamarca,Ginecología,2024-04-25,225.41
+P0286,Ana Torres,89,F,Cajamarca,Ginecología,2024-04-26,415.9
+P0287,María Gómez,52,F,Surco,Cardiología,2025-03-24,254.71
+P0288,Carlos Ruiz,74,M,Surco,Odontología,2024-08-26,381.71
+P0289,Carlos Ruiz,62,M,La Molina,Medicina General,2021-01-07,449.18
+P0290,Luis Pérez,78,F,San Isidro,Odontología,2020-11-03,325.18
+P0291,María Gómez,5,M,San Isidro,Odontología,2019-05-26,493.07
+P0292,Luis Pérez,12,F,Callao,Ginecología,2023-08-25,429.9
+P0293,Ana Torres,2,F,Miraflores,Pediatría,2025-11-14,347.51
+P0294,Sofía Díaz,61,F,Miraflores,Odontología,2019-01-26,281.33
+P0295,Ana Torres,26,M,La Molina,Ginecología,2021-04-21,385.25
+P0296,María Gómez,46,M,Cajamarca,Pediatría,2025-02-10,481.07
+P0297,Sofía Díaz,84,M,San Isidro,Medicina General,2025-04-15,143.3
+P0298,Carlos Ruiz,75,F,Cajamarca,Pediatría,2024-04-24,300.05
+P0299,Sofía Díaz,78,M,Cajamarca,Medicina General,2018-08-29,83.08
+P0300,María Gómez,82,F,Miraflores,Medicina General,2020-10-26,432.63
+P0301,Carlos Ruiz,12,M,Surco,Pediatría,2020-11-12,176.96
+P0302,Carlos Ruiz,17,M,Callao,Medicina General,2025-05-06,466.8
+P0303,Luis Pérez,48,M,San Isidro,Ginecología,2021-08-09,479.37
+P0304,María Gómez,6,F,La Molina,Odontología,2022-04-28,259.54
+P0305,Ana Torres,22,F,San Isidro,Odontología,2024-09-03,93.46
+P0306,Luis Pérez,43,M,San Isidro,Cardiología,2021-07-31,248.76
+P0307,Ana Torres,70,M,San Isidro,Ginecología,2019-06-13,484.08
+P0308,SIN_NOMBRE,80,ND,Miraflores,Odontología,2021-07-25,376.28
+P0309,María Gómez,32,M,Callao,Ginecología,2022-07-26,496.31
+P0310,Sofía Díaz,79,F,Miraflores,Pediatría,2021-02-05,262.45
+P0311,María Gómez,42,F,San Isidro,Pediatría,2019-06-28,431.99
+P0312,Luis Pérez,36,M,Cajamarca,Cardiología,2024-03-03,259.04
+P0313,María Gómez,60,M,Miraflores,Odontología,2024-02-27,226.42
+P0314,Sofía Díaz,12,M,Miraflores,Pediatría,2021-04-26,297.29
+P0315,Carlos Ruiz,55,F,La Molina,Medicina General,2025-01-22,253.03
+P0316,María Gómez,66,M,Callao,Ginecología,2020-04-24,363.73
+P0317,Luis Pérez,75,M,Cajamarca,Ginecología,2024-01-06,143.04
+P0318,Luis Pérez,54,M,Miraflores,Ginecología,2023-05-04,186.1
+P0319,Ana Torres,25,F,Cajamarca,Odontología,2021-12-18,176.64
+P0320,Sofía Díaz,29,F,La Molina,Medicina General,2019-02-24,189.82
+P0321,Luis Pérez,5,M,San Isidro,Pediatría,2021-06-12,476.08
+P0322,Luis Pérez,49,M,Cajamarca,Ginecología,2021-02-08,128.6
+P0323,Carlos Ruiz,65,ND,San Isidro,Cardiología,2025-04-02,135.82
+P0324,Ana Torres,27,M,Callao,Cardiología,2023-07-01,119.07
+P0325,Luis Pérez,49,F,Callao,Pediatría,2019-01-28,458.07
+P0326,Carlos Ruiz,5,M,San Isidro,Medicina General,2025-02-07,440.25
+P0327,Ana Torres,30,F,Cajamarca,Ginecología,2023-06-16,342.31
+P0328,María Gómez,75,M,San Isidro,Cardiología,2018-07-18,262.5
+P0329,María Gómez,88,F,La Molina,Ginecología,2024-03-05,311.42
+P0330,Carlos Ruiz,56,F,Surco,Odontología,2020-04-08,287.67
+P0331,María Gómez,49,ND,Miraflores,Medicina General,2025-05-14,161.07
+P0332,María Gómez,67,M,Miraflores,Ginecología,2025-07-19,0.0
+P0333,Ana Torres,72,M,Cajamarca,Pediatría,2020-02-18,280.23
+P0334,Ana Torres,82,M,Miraflores,Pediatría,2020-01-28,68.9
+P0335,Luis Pérez,68,F,Miraflores,Cardiología,2025-02-14,436.88
+P0336,Sofía Díaz,65,M,San Isidro,Odontología,2019-07-15,214.47
+P0337,María Gómez,32,M,San Isidro,Cardiología,2020-02-07,162.63
+P0338,María Gómez,19,M,Surco,Pediatría,2022-02-09,291.11
+P0339,María Gómez,88,F,Cajamarca,Odontología,2018-02-02,433.84
+P0340,Ana Torres,39,F,La Molina,Odontología,2020-04-30,334.87
+P0341,Carlos Ruiz,58,M,Cajamarca,Pediatría,2021-07-07,391.22
+P0342,Ana Torres,1,M,Callao,Pediatría,2018-09-27,223.35
+P0343,Carlos Ruiz,31,M,Callao,Odontología,2024-04-23,177.54
+P0344,Carlos Ruiz,33,M,San Isidro,Medicina General,2022-09-15,114.45
+P0345,Sofía Díaz,21,M,San Isidro,Odontología,2022-03-29,448.32
+P0346,Sofía Díaz,64,M,Surco,Odontología,2019-10-19,257.26
+P0347,Sofía Díaz,9,M,Callao,Ginecología,2019-01-16,481.0
+P0348,Luis Pérez,27,M,Miraflores,Medicina General,2022-08-21,425.78
+P0349,Ana Torres,43,F,La Molina,Ginecología,2023-08-21,475.11
+P0350,Luis Pérez,75,F,San Isidro,Ginecología,2023-06-02,245.62
+P0351,Carlos Ruiz,39,M,San Isidro,Cardiología,2021-07-21,52.83
+P0352,María Gómez,17,F,Miraflores,Ginecología,2023-01-19,232.96
+P0353,María Gómez,68,F,Miraflores,Odontología,2020-06-19,214.67
+P0354,Sofía Díaz,53,M,Surco,Odontología,2023-09-13,224.99
+P0355,Luis Pérez,32,F,Callao,Ginecología,2025-06-26,400.72
+P0001,Carlos Ruiz,62,M,Callao,Odontología,2018-07-04,393.24
+P0357,Luis Pérez,71,M,La Molina,Pediatría,2025-06-08,330.36
+P0358,Luis Pérez,48,F,San Isidro,Ginecología,2023-09-07,226.03
+P0359,Carlos Ruiz,90,F,San Isidro,Cardiología,2021-04-16,324.48
+P0360,Ana Torres,21,M,San Isidro,Cardiología,2023-12-29,393.2
+P0361,Ana Torres,38,F,Miraflores,Medicina General,2021-07-23,125.0
+P0362,Sofía Díaz,49,F,San Isidro,Medicina General,2023-12-08,305.51
+P0363,Luis Pérez,43,M,Surco,Odontología,2025-03-31,411.58
+P0364,Luis Pérez,36,M,Miraflores,Pediatría,2022-01-30,314.49
+P0365,María Gómez,33,M,La Molina,Medicina General,2020-09-28,324.9
+P0366,Sofía Díaz,59,F,La Molina,Odontología,2023-10-01,61.69
+P0367,Carlos Ruiz,78,M,Callao,Odontología,2019-07-27,72.42
+P0368,Carlos Ruiz,4,F,Callao,Cardiología,2024-03-27,278.45
+P0369,Luis Pérez,81,F,Surco,Cardiología,2018-08-21,305.6
+P0370,Carlos Ruiz,41,F,La Molina,Medicina General,2025-10-20,477.08
+P0371,Carlos Ruiz,39,M,Surco,Pediatría,2019-12-06,63.78
+P0372,Sofía Díaz,21,M,La Molina,Cardiología,2018-06-16,399.14
+P0373,Ana Torres,14,M,Miraflores,Pediatría,2025-05-12,328.18
+P0374,Luis Pérez,55,M,Surco,Cardiología,2018-12-26,381.77
+P0375,Carlos Ruiz,60,F,San Isidro,Cardiología,2024-02-10,256.58
+P0376,María Gómez,78,F,San Isidro,Odontología,2020-10-23,77.33
+P0377,Carlos Ruiz,85,F,Surco,Odontología,2023-01-02,407.94
+P0378,Carlos Ruiz,33,F,Callao,Pediatría,2018-11-22,162.53
+P0379,María Gómez,82,M,Surco,Odontología,2018-01-19,162.78
+P0380,Carlos Ruiz,13,M,San Isidro,Pediatría,2022-06-25,391.37
+P0381,Sofía Díaz,44,M,Callao,Ginecología,2021-01-27,164.34
+P0382,María Gómez,34,M,San Isidro,Medicina General,2024-09-14,137.7
+P0383,Ana Torres,47,M,Callao,Odontología,2023-06-23,127.2
+P0384,Luis Pérez,59,M,San Isidro,Cardiología,2020-10-27,380.7
+P0385,Sofía Díaz,2,M,Cajamarca,Medicina General,2018-05-02,324.42
+P0386,Sofía Díaz,28,F,Surco,Pediatría,2022-02-25,487.36
+P0387,Luis Pérez,63,M,La Molina,Ginecología,2020-04-13,300.45
+P0388,María Gómez,69,F,Cajamarca,Medicina General,2021-02-03,260.04
+P0389,María Gómez,9,M,Callao,Medicina General,2022-06-11,469.92
+P0390,María Gómez,69,M,Surco,Medicina General,2023-09-09,398.71
+P0391,María Gómez,16,F,Miraflores,Ginecología,2019-09-09,499.11
+P0392,María Gómez,25,F,San Isidro,Medicina General,2019-01-04,273.1
+P0393,Luis Pérez,60,M,Cajamarca,Cardiología,2018-12-31,89.37
+P0394,SIN_NOMBRE,9,M,San Isidro,Medicina General,2022-09-22,243.57
+P0395,Sofía Díaz,13,F,Callao,Odontología,2018-06-21,419.96
+P0396,Carlos Ruiz,72,F,Surco,Medicina General,2023-10-28,361.83
+P0397,Ana Torres,55,F,Surco,Ginecología,2018-02-28,58.58
+P0398,Ana Torres,68,M,Surco,Ginecología,2020-05-02,287.18
+P0399,Sofía Díaz,76,F,Cajamarca,Ginecología,2020-02-22,407.07
+P0400,Ana Torres,21,F,San Isidro,Cardiología,2023-04-26,423.09
+P0401,María Gómez,87,F,Callao,Cardiología,2018-11-27,206.36
+P0402,Carlos Ruiz,65,M,Miraflores,Ginecología,2018-02-12,211.04
+P0403,Ana Torres,24,F,Surco,Pediatría,2021-08-13,77.4
+P0404,Carlos Ruiz,14,M,Miraflores,Cardiología,2021-06-07,236.14
+P0405,SIN_NOMBRE,87,M,Miraflores,Odontología,2023-03-30,166.62
+P0406,Carlos Ruiz,58,M,Miraflores,Pediatría,2018-04-16,58.83
+P0407,Luis Pérez,37,M,Cajamarca,Pediatría,2024-12-03,246.49
+P0408,Ana Torres,7,M,Cajamarca,Odontología,2023-03-04,345.9
+P0409,María Gómez,28,M,Surco,Medicina General,2025-07-21,267.5
+P0410,Carlos Ruiz,54,M,Callao,Medicina General,2019-03-20,316.33
+P0411,María Gómez,16,M,Callao,Medicina General,2020-03-21,152.31
+P0412,María Gómez,62,M,La Molina,Medicina General,2021-04-15,369.92
+P0413,María Gómez,29,F,San Isidro,Cardiología,2023-09-10,328.87
+P0414,Sofía Díaz,44,M,La Molina,Ginecología,2024-12-22,267.29
+P0415,María Gómez,27,F,Cajamarca,Odontología,2025-06-28,248.44
+P0416,Sofía Díaz,84,M,Cajamarca,Pediatría,2018-08-11,269.11
+P0417,Carlos Ruiz,1,M,La Molina,Cardiología,2018-05-05,492.62
+P0418,Ana Torres,23,M,Cajamarca,Pediatría,2020-05-10,278.69
+P0419,María Gómez,83,M,San Isidro,Odontología,2024-02-26,382.18
+P0420,Ana Torres,16,M,La Molina,Odontología,2022-03-06,433.46
+P0421,María Gómez,38,F,La Molina,Ginecología,2019-04-27,400.33
+P0422,Carlos Ruiz,62,F,Callao,Pediatría,2018-01-09,115.35
+P0423,Sofía Díaz,25,F,San Isidro,Odontología,2020-03-09,481.54
+P0424,Ana Torres,9,F,Surco,Medicina General,2020-04-23,412.36
+P0425,Carlos Ruiz,88,F,Cajamarca,Medicina General,2023-08-12,385.26
+P0426,Carlos Ruiz,8,F,Miraflores,Odontología,2019-04-28,268.9
+P0427,Ana Torres,56,M,La Molina,Odontología,2018-01-11,420.49
+P0428,Carlos Ruiz,51,F,Miraflores,Cardiología,2018-09-09,308.73
+P0429,Sofía Díaz,1,M,Miraflores,Ginecología,2022-06-13,267.68
+P0430,María Gómez,4,M,Cajamarca,Ginecología,2018-08-16,484.3
+P0431,Ana Torres,79,F,Cajamarca,Pediatría,2020-08-13,236.21
+P0432,Ana Torres,21,M,Callao,Odontología,2020-05-04,146.12
+P0433,Luis Pérez,18,F,Miraflores,Ginecología,2024-01-02,230.94
+P0434,Ana Torres,13,M,Surco,Odontología,2020-08-14,412.69
+P0435,Ana Torres,42,M,Cajamarca,Odontología,2024-07-20,286.3
+P0436,Ana Torres,47,F,Cajamarca,Medicina General,2021-11-09,104.16
+P0437,Ana Torres,21,ND,La Molina,Cardiología,2018-08-05,249.76
+P0438,Ana Torres,24,M,La Molina,Medicina General,2022-09-26,234.92
+P0439,Sofía Díaz,61,F,Callao,Odontología,2019-04-17,99.13
+P0440,Carlos Ruiz,65,F,San Isidro,Pediatría,2021-10-06,353.35
+P0441,Carlos Ruiz,57,M,La Molina,Cardiología,2018-11-12,77.96
+P0442,Carlos Ruiz,36,F,La Molina,Cardiología,2020-04-29,117.95
+P0443,Sofía Díaz,29,F,San Isidro,Pediatría,2020-09-19,137.84
+P0444,Luis Pérez,0,M,Cajamarca,Pediatría,2023-08-18,465.4
+P0445,Ana Torres,23,F,San Isidro,Pediatría,2020-06-26,134.65
+P0446,Sofía Díaz,7,F,Surco,Medicina General,2024-04-15,51.26
+P0447,Ana Torres,12,F,La Molina,Cardiología,2018-07-26,394.74
+P0448,Luis Pérez,56,M,La Molina,Ginecología,2021-09-03,291.45
+P0449,Ana Torres,53,F,Miraflores,Pediatría,2023-06-19,400.91
+P0450,Luis Pérez,13,F,San Isidro,Pediatría,2020-02-12,347.02
+P0451,Sofía Díaz,40,M,Surco,Pediatría,2020-02-22,470.37
+P0452,Carlos Ruiz,23,F,Miraflores,Pediatría,2021-09-05,122.81
+P0453,Carlos Ruiz,65,M,Callao,Medicina General,2019-08-23,269.74
+P0454,Ana Torres,28,F,Cajamarca,Cardiología,2022-10-02,486.09
+P0455,Ana Torres,43,F,La Molina,Cardiología,2021-04-08,251.95
+P0456,Sofía Díaz,15,F,Cajamarca,Cardiología,2020-07-01,119.3
+P0457,María Gómez,90,M,Callao,Medicina General,2021-08-10,262.85
+P0458,Ana Torres,64,ND,Miraflores,Medicina General,2021-03-06,267.06
+P0459,Carlos Ruiz,23,F,La Molina,Pediatría,2019-10-03,340.16
+P0460,Luis Pérez,39,F,Callao,Medicina General,2025-11-20,466.87
+P0461,Carlos Ruiz,68,M,Surco,Ginecología,2024-08-29,215.89
+P0462,Carlos Ruiz,6,F,Surco,Pediatría,2019-01-20,473.81
+P0463,Ana Torres,87,F,Cajamarca,Pediatría,2025-09-23,268.71
+P0464,Carlos Ruiz,20,F,Cajamarca,Cardiología,2018-11-30,451.51
+P0465,Carlos Ruiz,72,M,Surco,Pediatría,2022-07-06,447.79
+P0466,Carlos Ruiz,90,M,San Isidro,Medicina General,2018-11-23,401.2
+P0467,SIN_NOMBRE,9,F,Miraflores,Odontología,2024-11-02,392.22
+P0468,Luis Pérez,3,F,La Molina,Odontología,2019-08-26,148.03
+P0469,María Gómez,24,F,Surco,Medicina General,2025-01-01,142.73
+P0470,Carlos Ruiz,77,F,La Molina,Medicina General,2021-10-27,282.91
+P0471,Luis Pérez,7,M,San Isidro,Pediatría,2023-02-23,164.76
+P0472,Luis Pérez,70,F,Surco,Pediatría,2020-09-18,196.59
+P0473,María Gómez,22,F,Cajamarca,Odontología,2022-02-15,443.2
+P0474,Luis Pérez,90,M,Miraflores,Cardiología,2025-11-09,309.3
+P0475,Sofía Díaz,83,M,San Isidro,Pediatría,2021-03-07,140.77
+P0476,Carlos Ruiz,44,M,San Isidro,Medicina General,2022-04-16,254.11
+P0477,Sofía Díaz,6,F,Surco,Ginecología,2019-05-04,287.6
+P0478,Carlos Ruiz,25,M,La Molina,Ginecología,2025-02-11,359.75
+P0479,Sofía Díaz,76,F,San Isidro,Cardiología,2023-04-10,267.41
+P0480,Carlos Ruiz,33,F,Miraflores,Medicina General,2025-08-30,143.73
+P0481,Sofía Díaz,32,M,Surco,Medicina General,2018-09-29,153.42
+P0482,Ana Torres,60,F,Surco,Pediatría,2023-01-16,255.11
+P0483,María Gómez,63,M,San Isidro,Cardiología,2023-10-07,181.39
+P0484,Ana Torres,87,M,Cajamarca,Cardiología,2024-04-25,495.02
+P0485,Luis Pérez,0,M,La Molina,Medicina General,2022-04-21,133.23
+P0486,María Gómez,54,F,Cajamarca,Odontología,2022-01-28,157.53
+P0487,Luis Pérez,38,F,San Isidro,Medicina General,2024-10-12,278.91
+P0488,Carlos Ruiz,50,F,Miraflores,Pediatría,2020-02-18,118.92
+P0489,Luis Pérez,75,M,San Isidro,Ginecología,2019-07-05,235.49
+P0490,María Gómez,8,M,San Isidro,Pediatría,2025-02-12,82.85
+P0491,Sofía Díaz,80,F,Surco,Medicina General,2021-01-21,249.01
+P0492,Sofía Díaz,36,M,Cajamarca,Odontología,2018-07-28,177.6
+P0493,Carlos Ruiz,64,F,Cajamarca,Ginecología,2021-07-12,270.67
+P0494,Carlos Ruiz,73,F,San Isidro,Odontología,2019-10-28,348.52
+P0495,Luis Pérez,32,F,La Molina,Ginecología,2021-08-09,356.51
+P0496,Ana Torres,21,F,Cajamarca,Medicina General,2024-05-14,260.69
+P0497,María Gómez,22,F,Surco,Odontología,2024-06-03,125.39
+P0498,Carlos Ruiz,40,F,Cajamarca,Ginecología,2020-11-29,105.31
+P0499,Carlos Ruiz,68,F,La Molina,Odontología,2019-07-12,212.58
+P0500,Ana Torres,84,F,Surco,Cardiología,2024-12-08,444.56
+P0501,María Gómez,34,M,San Isidro,Cardiología,2020-11-03,181.48
+P0502,Sofía Díaz,87,F,Surco,Medicina General,2022-02-10,303.45
+P0503,María Gómez,90,F,La Molina,Pediatría,2024-12-06,75.46
+P0504,María Gómez,6,F,Callao,Medicina General,2023-12-18,190.92
+P0505,Carlos Ruiz,38,F,La Molina,Pediatría,2021-09-13,424.45
+P0506,SIN_NOMBRE,84,F,La Molina,Pediatría,2022-06-20,311.06
+P0507,Sofía Díaz,47,F,Cajamarca,Cardiología,2021-10-02,364.3
+P0508,Ana Torres,65,F,Callao,Ginecología,2025-05-26,147.56
+P0509,María Gómez,33,M,Miraflores,Medicina General,2025-11-24,138.67
+P0510,Luis Pérez,20,M,Surco,Odontología,2019-07-14,109.78
+P0511,Luis Pérez,62,M,Surco,Medicina General,2025-07-15,184.4
+P0512,Carlos Ruiz,34,F,Callao,Pediatría,2018-12-31,351.46
+P0513,Ana Torres,58,M,Callao,Cardiología,2025-12-31,339.38
+P0514,Luis Pérez,64,M,Cajamarca,Odontología,2023-01-17,415.24
+P0515,Sofía Díaz,88,M,Miraflores,Cardiología,2021-05-31,397.17
+P0516,Ana Torres,87,M,Miraflores,Odontología,2019-01-09,248.66
+P0517,Luis Pérez,71,F,San Isidro,Cardiología,2025-06-20,438.71
+P0518,Sofía Díaz,36,F,Cajamarca,Cardiología,2022-07-01,95.3
+P0519,Sofía Díaz,73,F,San Isidro,Cardiología,2025-02-27,250.86
+P0520,Luis Pérez,15,F,Callao,Cardiología,2020-04-26,251.72
+P0521,Sofía Díaz,61,F,La Molina,Odontología,2018-05-10,376.12
+P0522,María Gómez,12,M,San Isidro,Ginecología,2020-12-29,415.04
+P0523,Sofía Díaz,66,F,La Molina,Pediatría,2021-05-23,480.46
+P0524,Luis Pérez,41,M,Miraflores,Odontología,2022-10-30,421.36
+P0525,Luis Pérez,83,F,Miraflores,Pediatría,2023-06-02,384.25
+P0526,Ana Torres,58,F,Surco,Cardiología,2021-01-19,228.48
+P0527,Luis Pérez,57,M,Callao,Pediatría,2024-10-11,276.32
+P0528,Carlos Ruiz,81,F,Cajamarca,Pediatría,2024-04-26,231.8
+P0529,María Gómez,61,M,Surco,Odontología,2024-04-28,55.27
+P0530,Carlos Ruiz,42,F,Surco,Odontología,2019-01-29,428.01
+P0531,María Gómez,34,M,Miraflores,Cardiología,2025-01-26,163.05
+P0532,Ana Torres,36,F,La Molina,Pediatría,2020-09-18,488.94
+P0533,Carlos Ruiz,74,F,Miraflores,Odontología,2021-09-26,265.19
+P0534,Ana Torres,0,M,La Molina,Cardiología,2023-10-18,491.25
+P0535,María Gómez,34,F,Miraflores,Ginecología,2021-06-04,114.84
+P0536,Ana Torres,52,F,Callao,Odontología,2024-07-20,283.03
+P0537,Carlos Ruiz,39,M,Surco,Cardiología,2018-03-25,290.56
+P0538,Luis Pérez,40,M,Callao,Pediatría,2020-05-26,106.79
+P0539,Carlos Ruiz,90,M,La Molina,Cardiología,2025-06-20,437.83
+P0540,Carlos Ruiz,88,M,Miraflores,Odontología,2019-11-07,109.15
+P0541,Ana Torres,19,M,Surco,Pediatría,2023-02-04,174.94
+P0542,Sofía Díaz,16,M,Miraflores,Cardiología,2018-05-04,261.6
+P0543,Luis Pérez,42,F,San Isidro,Pediatría,2020-03-22,282.82
+P0544,Carlos Ruiz,30,F,Surco,Medicina General,2018-07-25,136.08
+P0545,Carlos Ruiz,12,M,San Isidro,Pediatría,2019-09-25,450.7
+P0546,Sofía Díaz,79,F,Callao,Medicina General,2022-11-14,119.61
+P0547,María Gómez,55,M,Cajamarca,Medicina General,2019-07-29,173.67
+P0548,Ana Torres,29,M,San Isidro,Pediatría,2021-04-09,327.8
+P0549,Ana Torres,34,F,Surco,Odontología,2023-05-27,413.44
+P0550,Luis Pérez,44,F,San Isidro,Odontología,2019-06-12,398.97
+P0551,Carlos Ruiz,62,F,Callao,Odontología,2024-06-05,226.42
+P0552,María Gómez,0,F,San Isidro,Medicina General,2018-06-26,264.77
+P0553,María Gómez,0,M,San Isidro,Odontología,2019-07-09,425.28
+P0554,Carlos Ruiz,23,F,Callao,Ginecología,2023-06-03,93.58
+P0555,Ana Torres,51,M,Cajamarca,Ginecología,2025-04-26,157.48
+P0556,Ana Torres,33,M,Surco,Pediatría,2022-12-05,407.44
+P0557,María Gómez,62,F,Miraflores,Ginecología,2019-11-28,290.85
+P0558,Sofía Díaz,57,ND,Callao,Medicina General,2018-08-04,353.79
+P0559,María Gómez,62,F,Miraflores,Cardiología,2025-08-22,112.74
+P0560,Ana Torres,38,F,Surco,Odontología,2025-09-02,476.91
+P0561,Luis Pérez,6,M,San Isidro,Pediatría,2024-07-26,0.0
+P0562,Sofía Díaz,54,M,San Isidro,Pediatría,2023-06-18,210.75
+P0563,Ana Torres,50,M,La Molina,Pediatría,2018-10-20,125.54
+P0564,Sofía Díaz,72,F,Cajamarca,Odontología,2025-07-03,483.73
+P0565,Carlos Ruiz,76,M,Miraflores,Pediatría,2020-02-27,346.11
+P0566,Sofía Díaz,53,F,Callao,Odontología,2021-08-20,331.68
+P0567,Ana Torres,89,F,La Molina,Ginecología,2020-07-01,310.79
+P0568,Carlos Ruiz,36,F,Callao,Odontología,2020-12-18,421.93
+P0569,María Gómez,6,F,Surco,Medicina General,2021-09-15,173.87
+P0570,Carlos Ruiz,78,M,San Isidro,Cardiología,2023-04-17,179.85
+P0571,Carlos Ruiz,40,F,La Molina,Medicina General,2020-04-01,119.92
+P0572,Ana Torres,89,M,Callao,Ginecología,2025-03-27,405.85
+P0573,Sofía Díaz,80,M,Miraflores,Cardiología,2022-08-04,119.73
+P0574,Luis Pérez,54,M,Surco,Cardiología,2022-05-08,187.59
+P0575,María Gómez,28,M,Callao,Medicina General,2025-12-22,120.54
+P0001,Sofía Díaz,61,F,Surco,Pediatría,2025-11-22,160.53
+P0577,Luis Pérez,83,F,Surco,Odontología,2025-05-04,67.93
+P0578,Carlos Ruiz,78,F,La Molina,Cardiología,2022-10-15,83.54
+P0579,Carlos Ruiz,25,F,La Molina,Cardiología,2024-10-05,237.03
+P0580,Ana Torres,19,M,Miraflores,Odontología,2022-02-28,397.36
+P0581,Luis Pérez,44,M,Cajamarca,Ginecología,2023-11-27,474.33
+P0582,María Gómez,22,F,La Molina,Medicina General,2024-08-19,479.38
+P0583,María Gómez,4,F,San Isidro,Medicina General,2021-11-28,457.21
+P0584,María Gómez,35,M,Callao,Pediatría,2023-12-27,355.2
+P0585,Sofía Díaz,37,F,Cajamarca,Cardiología,2021-08-07,55.25
+P0586,Luis Pérez,37,ND,Surco,Pediatría,2024-07-24,313.46
+P0587,Carlos Ruiz,4,M,Miraflores,Ginecología,2019-01-13,68.89
+P0588,Ana Torres,73,M,Callao,Cardiología,2020-02-06,443.98
+P0589,Carlos Ruiz,46,F,La Molina,Ginecología,2021-12-20,0.0
+P0590,Luis Pérez,69,M,Cajamarca,Ginecología,2023-11-28,357.9
+P0591,Ana Torres,58,M,Surco,Medicina General,2020-11-22,142.09
+P0592,Sofía Díaz,12,M,Cajamarca,Ginecología,2022-04-04,169.55
+P0593,Sofía Díaz,63,ND,Surco,Pediatría,2022-05-20,475.41
+P0594,Luis Pérez,1,M,Miraflores,Medicina General,2022-01-13,220.02
+P0595,Sofía Díaz,17,F,La Molina,Ginecología,2018-09-06,496.04
+P0596,Ana Torres,48,M,La Molina,Cardiología,2021-12-25,205.87
+P0597,Luis Pérez,9,M,Miraflores,Odontología,2025-09-20,345.37
+P0598,María Gómez,87,M,Surco,Ginecología,2021-09-07,418.58
+P0599,Ana Torres,5,M,Surco,Pediatría,2025-09-29,92.76
+P0600,Carlos Ruiz,90,F,San Isidro,Cardiología,2018-03-20,346.38
+P0601,Sofía Díaz,81,M,La Molina,Pediatría,2025-05-02,273.18
+P0602,Ana Torres,0,F,La Molina,Cardiología,2021-06-04,138.41
+P0603,María Gómez,12,F,Cajamarca,Ginecología,2024-06-20,181.11
+P0604,Luis Pérez,65,F,Cajamarca,Odontología,2025-06-29,306.3
+P0605,María Gómez,50,M,Cajamarca,Pediatría,2019-11-24,458.39
+P0606,María Gómez,44,F,Miraflores,Ginecología,2018-01-09,378.37
+P0607,Ana Torres,85,F,Surco,Cardiología,2023-05-24,360.2
+P0608,Sofía Díaz,58,ND,Cajamarca,Pediatría,2022-11-03,97.23
+P0609,Luis Pérez,24,F,San Isidro,Cardiología,2024-09-29,215.83
+P0610,Ana Torres,30,F,Cajamarca,Ginecología,2025-10-07,296.41
+P0611,SIN_NOMBRE,35,F,Cajamarca,Odontología,2021-07-04,159.91
+P0612,Sofía Díaz,83,M,San Isidro,Ginecología,2025-05-15,228.81
+P0613,Ana Torres,16,M,Callao,Pediatría,2025-01-30,279.36
+P0001,María Gómez,64,M,Callao,Medicina General,2019-11-21,421.88
+P0615,Ana Torres,1,F,San Isidro,Cardiología,2020-04-23,64.5
+P0616,María Gómez,58,M,La Molina,Odontología,2022-11-17,99.6
+P0617,Carlos Ruiz,62,ND,La Molina,Pediatría,2025-02-14,229.27
+P0618,Luis Pérez,18,M,Callao,Medicina General,2025-10-10,113.67
+P0619,María Gómez,30,F,Miraflores,Cardiología,2023-03-17,227.18
+P0620,Luis Pérez,15,M,Miraflores,Cardiología,2025-12-19,144.02
+P0001,Sofía Díaz,16,M,Cajamarca,Cardiología,2021-05-04,461.75
+P0622,Luis Pérez,51,F,Surco,Pediatría,2023-05-08,143.1
+P0623,Luis Pérez,8,M,La Molina,Cardiología,2022-09-20,412.58
+P0624,Carlos Ruiz,8,F,Miraflores,Odontología,2019-11-10,313.64
+P0625,Sofía Díaz,29,F,San Isidro,Medicina General,2024-01-10,0.0
+P0626,Sofía Díaz,30,F,La Molina,Odontología,2018-07-06,175.68
+P0627,Carlos Ruiz,48,F,San Isidro,Cardiología,2024-03-09,206.42
+P0628,Sofía Díaz,90,F,Cajamarca,Pediatría,2025-11-16,408.85
+P0629,María Gómez,59,M,Surco,Cardiología,2020-04-16,66.55
+P0630,Ana Torres,22,F,San Isidro,Pediatría,2020-09-01,147.73
+P0631,Sofía Díaz,82,F,Surco,Pediatría,2024-01-02,307.87
+P0632,María Gómez,14,M,Cajamarca,Pediatría,2018-01-15,451.56
+P0633,Sofía Díaz,66,F,Cajamarca,Cardiología,2023-12-17,305.04
+P0634,Ana Torres,0,F,Callao,Medicina General,2024-05-15,322.32
+P0635,María Gómez,53,M,Cajamarca,Pediatría,2021-12-10,231.56
+P0636,María Gómez,55,M,Cajamarca,Medicina General,2024-09-12,459.42
+P0637,Carlos Ruiz,69,F,Surco,Medicina General,2023-01-11,363.72
+P0638,Carlos Ruiz,81,M,Surco,Odontología,2019-01-27,134.24
+P0639,Sofía Díaz,66,F,Surco,Medicina General,2020-05-27,158.46
+P0640,María Gómez,0,F,Callao,Cardiología,2018-03-19,158.77
+P0641,María Gómez,4,M,Surco,Ginecología,2022-03-20,382.76
+P0642,Ana Torres,11,M,Callao,Pediatría,2023-04-28,445.51
+P0643,Sofía Díaz,38,F,Callao,Pediatría,2018-12-04,0.0
+P0644,Carlos Ruiz,75,F,Cajamarca,Cardiología,2019-01-13,308.86
+P0645,María Gómez,2,F,La Molina,Pediatría,2018-02-09,264.83
+P0646,Ana Torres,43,M,Surco,Odontología,2025-10-10,450.09
+P0647,Ana Torres,66,F,Miraflores,Pediatría,2022-11-23,412.27
+P0648,Carlos Ruiz,87,F,Miraflores,Ginecología,2024-06-30,372.16
+P0649,Sofía Díaz,60,M,Miraflores,Ginecología,2025-04-07,461.12
+P0650,Luis Pérez,25,F,San Isidro,Cardiología,2019-12-29,444.49
+P0651,Carlos Ruiz,31,M,Surco,Odontología,2022-03-18,357.05
+P0652,Sofía Díaz,10,M,Miraflores,Pediatría,2023-08-11,55.15
+P0653,Luis Pérez,43,M,Cajamarca,Odontología,2023-04-22,252.89
+P0654,Sofía Díaz,84,F,Surco,Medicina General,2022-08-01,216.11
+P0655,Luis Pérez,57,M,Callao,Odontología,2025-12-22,309.65
+P0656,Sofía Díaz,13,F,La Molina,Medicina General,2023-08-10,170.17
+P0657,Sofía Díaz,86,F,La Molina,Medicina General,2019-05-19,317.33
+P0658,Luis Pérez,24,F,Miraflores,Odontología,2021-07-08,397.58
+P0659,Sofía Díaz,61,M,San Isidro,Cardiología,2019-01-06,154.63
+P0660,María Gómez,44,F,San Isidro,Odontología,2020-12-31,366.06
+P0661,Carlos Ruiz,80,F,San Isidro,Medicina General,2018-02-20,451.73
+P0662,María Gómez,19,M,Cajamarca,Pediatría,2022-10-28,352.17
+P0663,María Gómez,63,F,San Isidro,Odontología,2019-03-20,438.41
+P0001,Ana Torres,55,F,La Molina,Cardiología,2019-05-15,225.51
+P0665,Luis Pérez,13,M,La Molina,Medicina General,2018-11-08,217.43
+P0666,Ana Torres,72,M,San Isidro,Odontología,2025-08-05,172.03
+P0667,Carlos Ruiz,73,M,La Molina,Odontología,2019-09-22,389.64
+P0668,Luis Pérez,40,F,San Isidro,Medicina General,2018-03-23,132.51
+P0669,Luis Pérez,31,F,La Molina,Odontología,2023-07-21,385.69
+P0670,Sofía Díaz,63,M,Miraflores,Medicina General,2023-05-09,211.14
+P0671,María Gómez,13,M,Callao,Odontología,2025-01-22,489.3
+P0672,Sofía Díaz,31,M,Callao,Odontología,2021-12-09,285.37
+P0673,Sofía Díaz,68,M,Surco,Pediatría,2018-10-08,376.67
+P0674,Carlos Ruiz,75,F,Cajamarca,Medicina General,2018-03-26,171.44
+P0675,Sofía Díaz,48,M,San Isidro,Odontología,2020-12-28,284.3
+P0676,Ana Torres,78,F,Surco,Pediatría,2018-10-20,399.31
+P0677,María Gómez,79,F,Callao,Cardiología,2020-08-02,77.13
+P0678,Sofía Díaz,10,M,Surco,Medicina General,2020-12-14,232.34
+P0679,Sofía Díaz,75,F,Cajamarca,Odontología,2024-05-27,377.62
+P0680,María Gómez,12,F,La Molina,Odontología,2019-04-26,346.24
+P0681,Sofía Díaz,57,M,Surco,Pediatría,2025-07-11,271.7
+P0682,Sofía Díaz,14,F,Surco,Medicina General,2024-02-12,392.21
+P0683,Luis Pérez,0,F,Callao,Ginecología,2022-10-28,187.89
+P0684,Luis Pérez,9,F,Cajamarca,Pediatría,2022-12-25,124.6
+P0685,Luis Pérez,22,M,Surco,Odontología,2022-09-11,107.2
+P0686,Sofía Díaz,73,F,Cajamarca,Odontología,2020-11-15,146.94
+P0687,Luis Pérez,48,M,Surco,Ginecología,2024-06-08,215.13
+P0688,María Gómez,26,F,Miraflores,Pediatría,2020-10-07,336.23
+P0689,Ana Torres,54,F,La Molina,Cardiología,2024-03-30,420.98
+P0690,Sofía Díaz,59,M,Callao,Pediatría,2025-07-14,480.9
+P0691,Carlos Ruiz,66,M,Callao,Pediatría,2020-02-08,141.65
+P0692,Luis Pérez,52,F,Callao,Ginecología,2022-07-18,0.0
+P0693,Luis Pérez,0,M,Callao,Pediatría,2019-02-21,435.08
+P0694,Sofía Díaz,68,F,La Molina,Odontología,2024-11-27,483.04
+P0695,Ana Torres,71,F,San Isidro,Pediatría,2018-07-30,265.93
+P0696,Carlos Ruiz,78,M,Surco,Cardiología,2021-06-10,153.71
+P0697,María Gómez,84,F,Callao,Odontología,2018-11-05,352.33
+P0698,Ana Torres,73,ND,Miraflores,Odontología,2018-02-02,390.45
+P0699,Luis Pérez,81,M,Surco,Cardiología,2025-05-19,92.37
+P0700,Sofía Díaz,44,M,Cajamarca,Ginecología,2019-11-04,297.46
+P0701,SIN_NOMBRE,30,M,Callao,Medicina General,2023-06-30,261.56
+P0702,Sofía Díaz,5,M,Cajamarca,Ginecología,2025-02-21,395.32
+P0703,Ana Torres,20,F,San Isidro,Cardiología,2019-07-09,483.76
+P0704,Ana Torres,86,F,San Isidro,Ginecología,2023-08-08,499.43
+P0705,Luis Pérez,36,M,Surco,Medicina General,2024-10-16,406.05
+P0706,Sofía Díaz,27,F,Cajamarca,Ginecología,2023-12-25,345.95
+P0707,Luis Pérez,90,M,San Isidro,Medicina General,2022-02-02,183.76
+P0708,Carlos Ruiz,26,F,Callao,Cardiología,2019-09-21,273.4
+P0709,Carlos Ruiz,84,F,Cajamarca,Cardiología,2018-01-03,315.5
+P0710,Sofía Díaz,66,M,Callao,Ginecología,2025-07-15,377.66
+P0711,María Gómez,7,F,Surco,Pediatría,2020-04-22,372.69
+P0712,Luis Pérez,18,M,Callao,Cardiología,2022-10-12,257.04
+P0713,Carlos Ruiz,36,F,Cajamarca,Pediatría,2022-06-23,233.35
+P0714,María Gómez,56,M,Callao,Cardiología,2023-01-25,58.14
+P0715,María Gómez,44,F,Cajamarca,Pediatría,2022-07-07,307.8
+P0716,Ana Torres,7,F,Callao,Ginecología,2025-11-14,203.55
+P0001,Luis Pérez,10,M,La Molina,Cardiología,2020-08-11,0.0
+P0718,Ana Torres,51,F,La Molina,Pediatría,2019-08-23,277.05
+P0719,Sofía Díaz,77,M,La Molina,Medicina General,2020-04-02,469.05
+P0720,Ana Torres,10,F,Cajamarca,Medicina General,2024-02-11,468.48
+P0721,María Gómez,36,M,Miraflores,Cardiología,2025-10-16,321.71
+P0722,Carlos Ruiz,31,F,Surco,Ginecología,2019-06-23,193.39
+P0723,Sofía Díaz,10,F,Callao,Medicina General,2024-04-14,282.26
+P0724,Ana Torres,77,M,Cajamarca,Medicina General,2024-01-25,95.59
+P0725,Carlos Ruiz,8,M,Surco,Cardiología,2023-11-17,296.36
+P0726,Carlos Ruiz,39,M,La Molina,Cardiología,2019-05-23,333.54
+P0727,María Gómez,8,M,San Isidro,Pediatría,2019-01-16,400.86
+P0728,Sofía Díaz,1,M,San Isidro,Pediatría,2023-05-30,154.36
+P0729,Ana Torres,11,M,Surco,Ginecología,2020-03-07,301.88
+P0730,Carlos Ruiz,35,M,Cajamarca,Odontología,2024-09-05,234.01
+P0731,Carlos Ruiz,40,F,La Molina,Pediatría,2019-12-25,206.12
+P0732,Carlos Ruiz,61,M,Cajamarca,Odontología,2025-03-20,138.17
+P0733,Sofía Díaz,80,ND,San Isidro,Odontología,2024-06-06,107.29
+P0734,María Gómez,74,F,La Molina,Medicina General,2025-10-26,407.96
+P0735,Ana Torres,31,F,La Molina,Pediatría,2018-06-16,293.97
+P0736,Ana Torres,65,F,Callao,Pediatría,2021-07-27,130.86
+P0737,María Gómez,33,M,Callao,Pediatría,2025-06-17,356.67
+P0738,Carlos Ruiz,27,M,Cajamarca,Odontología,2024-12-05,408.27
+P0739,SIN_NOMBRE,2,M,La Molina,Cardiología,2018-04-29,260.45
+P0740,Luis Pérez,46,F,San Isidro,Medicina General,2019-08-21,151.34
+P0741,Carlos Ruiz,79,M,Miraflores,Odontología,2023-04-24,210.47
+P0742,María Gómez,19,M,La Molina,Ginecología,2020-06-10,498.54
+P0743,María Gómez,84,F,Cajamarca,Medicina General,2025-01-17,191.98
+P0744,María Gómez,21,M,Cajamarca,Odontología,2019-03-06,401.37
+P0745,Sofía Díaz,34,M,Cajamarca,Cardiología,2023-05-18,210.73
+P0746,Sofía Díaz,42,F,Callao,Medicina General,2025-04-20,97.74
+P0747,Carlos Ruiz,17,F,Miraflores,Ginecología,2023-06-01,379.52
+P0748,Sofía Díaz,1,F,San Isidro,Cardiología,2021-04-20,431.68
+P0749,Luis Pérez,64,M,Surco,Ginecología,2024-04-01,180.17
+P0750,Carlos Ruiz,89,M,Cajamarca,Pediatría,2023-12-20,481.71
+P0751,María Gómez,7,F,Callao,Cardiología,2023-08-21,436.99
+P0752,María Gómez,73,M,Miraflores,Odontología,2023-10-05,66.7
+P0753,Sofía Díaz,26,F,Surco,Ginecología,2018-12-13,187.71
+P0754,María Gómez,30,F,Miraflores,Medicina General,2024-09-18,261.15
+P0755,Sofía Díaz,57,F,Surco,Ginecología,2020-06-17,491.81
+P0756,Sofía Díaz,88,F,Miraflores,Pediatría,2022-08-06,301.05
+P0757,María Gómez,70,M,Surco,Pediatría,2021-06-12,198.74
+P0758,María Gómez,61,M,Cajamarca,Odontología,2025-06-17,429.88
+P0759,Carlos Ruiz,9,F,La Molina,Medicina General,2022-05-09,477.52
+P0760,Carlos Ruiz,74,F,La Molina,Cardiología,2025-05-11,397.94
+P0761,Ana Torres,58,ND,Cajamarca,Odontología,2019-10-19,445.63
+P0762,Carlos Ruiz,76,F,San Isidro,Odontología,2025-04-02,0.0
+P0763,Carlos Ruiz,26,M,Surco,Pediatría,2020-05-24,51.79
+P0764,Luis Pérez,13,M,Miraflores,Pediatría,2022-12-04,449.87
+P0765,Sofía Díaz,41,F,La Molina,Medicina General,2024-09-15,225.38
+P0766,Sofía Díaz,69,F,San Isidro,Odontología,2023-09-08,85.49
+P0767,Sofía Díaz,50,M,La Molina,Ginecología,2024-08-26,286.8
+P0768,Luis Pérez,24,ND,Cajamarca,Ginecología,2025-09-11,101.28
+P0769,Luis Pérez,42,F,La Molina,Cardiología,2025-08-11,145.13
+P0770,Carlos Ruiz,54,F,Callao,Medicina General,2023-04-07,88.85
+P0771,Ana Torres,83,F,San Isidro,Odontología,2025-06-25,263.18
+P0772,Carlos Ruiz,20,M,Surco,Pediatría,2022-10-04,83.66
+P0773,Carlos Ruiz,5,M,Cajamarca,Pediatría,2018-04-21,89.45
+P0774,Ana Torres,85,M,Miraflores,Cardiología,2021-06-03,77.73
+P0775,Ana Torres,49,M,Miraflores,Pediatría,2018-01-22,475.23
+P0776,Ana Torres,83,M,Callao,Odontología,2018-06-29,409.58
+P0777,María Gómez,74,M,San Isidro,Medicina General,2021-06-11,212.95
+P0778,Ana Torres,3,ND,Callao,Pediatría,2018-05-27,147.49
+P0779,Carlos Ruiz,56,F,La Molina,Odontología,2018-10-21,452.37
+P0780,Luis Pérez,35,F,Surco,Pediatría,2022-04-20,143.02
+P0781,Luis Pérez,45,M,Miraflores,Odontología,2021-08-25,195.03
+P0782,Ana Torres,12,F,Surco,Ginecología,2024-06-26,392.56
+P0783,Ana Torres,74,M,Callao,Medicina General,2019-01-12,208.27
+P0784,Ana Torres,73,M,Callao,Pediatría,2025-12-11,195.68
+P0785,Ana Torres,10,M,La Molina,Medicina General,2022-12-02,312.75
+P0786,Sofía Díaz,36,M,Cajamarca,Ginecología,2022-11-01,187.88
+P0787,Ana Torres,70,M,Callao,Medicina General,2024-04-17,215.78
+P0788,Carlos Ruiz,22,F,La Molina,Cardiología,2020-08-18,388.64
+P0789,Luis Pérez,64,M,Surco,Ginecología,2020-08-09,126.29
+P0790,María Gómez,69,F,Cajamarca,Pediatría,2019-08-02,180.44
+P0791,Sofía Díaz,22,F,La Molina,Cardiología,2018-10-15,209.44
+P0792,Carlos Ruiz,78,M,Callao,Cardiología,2024-04-29,122.65
+P0793,María Gómez,28,F,Cajamarca,Pediatría,2024-06-15,345.34
+P0794,Carlos Ruiz,0,F,San Isidro,Cardiología,2025-01-23,228.7
+P0795,Ana Torres,38,F,Cajamarca,Cardiología,2021-07-09,51.29
+P0796,Sofía Díaz,80,F,Miraflores,Ginecología,2018-05-07,50.62
+P0797,Carlos Ruiz,38,M,La Molina,Ginecología,2021-01-23,476.18
+P0798,Carlos Ruiz,54,M,Miraflores,Pediatría,2020-07-29,174.58
+P0799,Luis Pérez,28,M,Miraflores,Pediatría,2024-01-04,451.39
+P0800,María Gómez,24,F,La Molina,Pediatría,2018-11-11,111.95
+P0801,Ana Torres,23,F,Callao,Ginecología,2019-11-10,198.02
+P0802,Luis Pérez,39,ND,La Molina,Odontología,2023-12-22,191.59
+P0803,Carlos Ruiz,39,F,La Molina,Ginecología,2020-11-16,258.83
+P0804,Sofía Díaz,21,M,San Isidro,Ginecología,2021-04-10,167.72
+P0805,SIN_NOMBRE,37,F,Surco,Ginecología,2021-03-10,479.56
+P0806,Luis Pérez,6,F,Cajamarca,Ginecología,2020-11-10,335.03
+P0807,Sofía Díaz,44,ND,San Isidro,Ginecología,2024-06-04,84.95
+P0808,Ana Torres,5,M,San Isidro,Cardiología,2018-03-11,222.13
+P0809,Ana Torres,5,M,Surco,Odontología,2025-03-09,422.65
+P0810,Ana Torres,33,M,Callao,Cardiología,2019-03-01,200.61
+P0811,Sofía Díaz,16,F,Cajamarca,Cardiología,2020-02-02,275.23
+P0812,María Gómez,50,M,Miraflores,Ginecología,2022-06-06,245.7
+P0813,Luis Pérez,16,F,Callao,Medicina General,2023-02-05,268.68
+P0814,María Gómez,90,F,Callao,Medicina General,2021-02-14,69.03
+P0815,Ana Torres,60,F,La Molina,Cardiología,2019-05-17,186.55
+P0816,Luis Pérez,50,M,Miraflores,Ginecología,2018-06-10,356.54
+P0817,Carlos Ruiz,7,M,Cajamarca,Ginecología,2018-09-04,406.54
+P0818,Ana Torres,56,M,Callao,Medicina General,2020-05-12,271.3
+P0819,Carlos Ruiz,85,F,Callao,Odontología,2020-11-06,414.23
+P0820,Carlos Ruiz,23,F,Surco,Odontología,2018-03-29,194.35
+P0821,Sofía Díaz,2,F,Miraflores,Pediatría,2024-05-18,271.63
+P0822,Sofía Díaz,22,M,Cajamarca,Cardiología,2018-03-05,240.26
+P0823,María Gómez,84,M,Surco,Cardiología,2024-11-28,382.05
+P0824,Carlos Ruiz,68,F,San Isidro,Medicina General,2020-12-29,356.67
+P0825,SIN_NOMBRE,60,M,La Molina,Ginecología,2020-01-27,66.5
+P0826,Luis Pérez,82,F,San Isidro,Pediatría,2022-04-26,141.19
+P0827,Ana Torres,15,M,Miraflores,Cardiología,2019-12-29,461.39
+P0828,Carlos Ruiz,81,M,Callao,Pediatría,2023-05-11,75.71
+P0829,Carlos Ruiz,65,F,Cajamarca,Cardiología,2023-09-27,282.49
+P0830,SIN_NOMBRE,32,F,Cajamarca,Medicina General,2019-07-31,356.3
+P0831,María Gómez,56,ND,La Molina,Cardiología,2024-01-21,151.42
+P0832,María Gómez,20,M,Surco,Odontología,2019-08-17,157.42
+P0833,Carlos Ruiz,19,F,Callao,Ginecología,2024-02-20,140.37
+P0834,María Gómez,13,M,Miraflores,Odontología,2018-02-12,469.89
+P0835,Sofía Díaz,13,F,Cajamarca,Cardiología,2024-11-02,421.1
+P0836,María Gómez,58,M,La Molina,Medicina General,2021-05-06,212.04
+P0837,Sofía Díaz,85,F,Surco,Medicina General,2020-08-13,166.71
+P0838,María Gómez,77,F,Callao,Odontología,2024-12-22,213.58
+P0839,Ana Torres,50,M,Surco,Ginecología,2025-01-08,171.6
+P0840,Sofía Díaz,79,F,Cajamarca,Ginecología,2018-08-07,149.16
+P0841,Carlos Ruiz,69,M,La Molina,Ginecología,2020-10-09,259.04
+P0842,Ana Torres,7,F,Callao,Ginecología,2023-01-04,225.56
+P0843,María Gómez,65,F,San Isidro,Pediatría,2023-07-05,187.9
+P0844,Carlos Ruiz,64,M,Surco,Pediatría,2021-09-11,485.27
+P0845,Luis Pérez,28,F,La Molina,Ginecología,2022-06-29,76.74
+P0846,María Gómez,11,F,Surco,Medicina General,2023-03-31,50.79
+P0847,Luis Pérez,29,M,Miraflores,Ginecología,2023-11-26,439.5
+P0848,Carlos Ruiz,45,F,Callao,Pediatría,2024-02-19,406.92
+P0849,María Gómez,1,M,Miraflores,Ginecología,2018-04-09,139.28
+P0850,Ana Torres,2,F,Miraflores,Ginecología,2021-08-30,281.07
+P0851,Ana Torres,21,M,Miraflores,Odontología,2018-03-09,156.59
+P0852,Sofía Díaz,44,F,Surco,Pediatría,2019-07-06,93.65
+P0853,Carlos Ruiz,66,M,La Molina,Odontología,2025-03-16,134.65
+P0854,Ana Torres,12,M,Cajamarca,Medicina General,2021-03-25,312.24
+P0855,Sofía Díaz,73,F,Surco,Odontología,2025-11-10,356.29
+P0856,Luis Pérez,10,M,Surco,Pediatría,2024-11-28,92.17
+P0857,Luis Pérez,60,F,La Molina,Cardiología,2022-02-11,243.73
+P0858,María Gómez,77,F,Callao,Ginecología,2025-06-18,265.5
+P0859,Sofía Díaz,11,F,Surco,Cardiología,2025-12-30,431.29
+P0860,Carlos Ruiz,22,F,Surco,Ginecología,2019-03-19,497.8
+P0861,María Gómez,70,F,Cajamarca,Cardiología,2021-05-12,402.18
+P0862,Sofía Díaz,8,M,La Molina,Odontología,2021-12-16,171.39
+P0863,Carlos Ruiz,1,F,Surco,Odontología,2024-12-18,205.05
+P0864,Luis Pérez,66,F,Surco,Odontología,2019-06-04,71.46
+P0865,Carlos Ruiz,48,F,Cajamarca,Odontología,2024-12-16,282.41
+P0866,SIN_NOMBRE,89,F,La Molina,Medicina General,2025-10-14,477.47
+P0867,Carlos Ruiz,46,M,Cajamarca,Medicina General,2022-03-14,124.24
+P0868,Carlos Ruiz,9,F,Miraflores,Odontología,2021-04-14,85.58
+P0869,Sofía Díaz,57,M,Miraflores,Cardiología,2019-05-23,154.36
+P0870,María Gómez,13,F,Cajamarca,Medicina General,2021-02-04,397.16
+P0871,Sofía Díaz,4,M,Cajamarca,Medicina General,2024-05-21,300.91
+P0872,Sofía Díaz,30,F,Miraflores,Odontología,2022-02-20,97.45
+P0873,Sofía Díaz,20,M,Callao,Ginecología,2019-11-29,275.67
+P0874,Carlos Ruiz,60,M,San Isidro,Ginecología,2024-12-16,268.8
+P0875,Ana Torres,87,F,Cajamarca,Ginecología,2024-03-08,495.87
+P0876,María Gómez,27,M,Callao,Cardiología,2018-06-17,125.23
+P0877,Ana Torres,88,M,Surco,Ginecología,2018-08-28,230.8
+P0878,Ana Torres,0,F,Cajamarca,Pediatría,2025-06-10,278.04
+P0879,Luis Pérez,49,M,Surco,Medicina General,2024-06-25,309.76
+P0880,Sofía Díaz,25,M,Miraflores,Cardiología,2021-08-16,165.12
+P0881,María Gómez,48,M,La Molina,Odontología,2020-04-11,170.33
+P0882,María Gómez,1,M,Cajamarca,Cardiología,2020-07-24,85.36
+P0883,Carlos Ruiz,78,F,Callao,Medicina General,2025-02-24,117.81
+P0884,Ana Torres,62,M,Callao,Ginecología,2025-01-15,355.22
+P0885,Carlos Ruiz,53,F,Cajamarca,Ginecología,2020-09-17,233.76
+P0886,Sofía Díaz,80,M,La Molina,Medicina General,2022-12-04,373.63
+P0887,María Gómez,9,M,Cajamarca,Odontología,2021-03-28,305.91
+P0888,Carlos Ruiz,32,F,Callao,Cardiología,2024-07-25,209.6
+P0889,Luis Pérez,69,F,San Isidro,Medicina General,2025-07-16,105.18
+P0890,Carlos Ruiz,19,F,Surco,Medicina General,2019-01-09,293.4
+P0891,Sofía Díaz,15,M,Cajamarca,Pediatría,2019-05-26,200.6
+P0892,Sofía Díaz,25,M,San Isidro,Pediatría,2025-03-11,77.73
+P0893,Carlos Ruiz,63,M,Miraflores,Odontología,2025-05-23,275.91
+P0894,Carlos Ruiz,90,M,Callao,Odontología,2022-01-21,69.24
+P0895,Ana Torres,61,M,San Isidro,Ginecología,2024-01-10,236.62
+P0896,Carlos Ruiz,75,M,Miraflores,Odontología,2025-01-13,466.63
+P0897,Carlos Ruiz,81,F,Cajamarca,Cardiología,2023-07-18,248.65
+P0898,Carlos Ruiz,74,F,Cajamarca,Pediatría,2018-07-27,319.2
+P0899,Sofía Díaz,69,M,Cajamarca,Medicina General,2023-01-21,232.63
+P0001,Carlos Ruiz,82,M,Surco,Medicina General,2020-03-01,172.85
+P0901,María Gómez,6,M,Cajamarca,Pediatría,2022-05-17,305.78
+P0902,Luis Pérez,4,F,San Isidro,Odontología,2020-03-20,432.13
+P0903,Ana Torres,35,F,San Isidro,Odontología,2023-06-25,148.3
+P0904,Carlos Ruiz,74,M,Cajamarca,Ginecología,2021-07-23,334.09
+P0905,Ana Torres,79,M,Miraflores,Medicina General,2020-06-07,335.13
+P0906,Sofía Díaz,65,F,La Molina,Ginecología,2025-10-28,135.5
+P0907,Sofía Díaz,90,M,Miraflores,Odontología,2024-05-05,91.51
+P0908,Luis Pérez,71,F,Surco,Ginecología,2024-01-28,100.68
+P0909,Luis Pérez,52,F,La Molina,Cardiología,2023-01-20,366.54
+P0910,Luis Pérez,89,M,Cajamarca,Medicina General,2025-10-18,84.58
+P0911,Carlos Ruiz,30,F,Cajamarca,Ginecología,2024-03-18,138.42
+P0912,Sofía Díaz,26,M,La Molina,Odontología,2021-07-15,149.06
+P0913,Luis Pérez,77,F,Surco,Cardiología,2023-06-16,438.95
+P0914,Luis Pérez,12,M,Callao,Odontología,2019-06-21,328.33
+P0915,Carlos Ruiz,29,F,Surco,Ginecología,2019-11-19,297.21
+P0916,Luis Pérez,75,M,San Isidro,Cardiología,2023-12-27,310.64
+P0917,Luis Pérez,30,M,Callao,Ginecología,2018-10-21,270.75
+P0918,Sofía Díaz,18,F,San Isidro,Pediatría,2025-07-01,447.7
+P0919,Sofía Díaz,1,M,Surco,Cardiología,2021-09-05,417.19
+P0920,Luis Pérez,90,M,Callao,Medicina General,2024-06-11,371.15
+P0921,María Gómez,38,ND,San Isidro,Medicina General,2022-01-22,372.06
+P0922,Sofía Díaz,40,M,La Molina,Odontología,2018-05-09,437.61
+P0923,Sofía Díaz,0,F,Cajamarca,Medicina General,2023-11-25,165.64
+P0924,Ana Torres,80,F,Cajamarca,Cardiología,2024-05-14,91.81
+P0925,María Gómez,36,M,San Isidro,Pediatría,2021-03-14,337.01
+P0926,Luis Pérez,59,F,Callao,Medicina General,2020-05-29,304.85
+P0927,Sofía Díaz,46,F,Surco,Pediatría,2019-11-02,448.74
+P0928,María Gómez,20,M,La Molina,Pediatría,2023-02-22,190.89
+P0929,María Gómez,60,F,Callao,Pediatría,2019-01-13,354.32
+P0930,Ana Torres,63,F,San Isidro,Ginecología,2022-09-09,403.98
+P0931,Ana Torres,24,M,Miraflores,Cardiología,2023-03-18,111.32
+P0932,María Gómez,18,ND,Surco,Medicina General,2018-10-10,341.4
+P0933,Luis Pérez,35,M,Miraflores,Cardiología,2020-11-10,142.8
+P0934,María Gómez,30,M,Cajamarca,Cardiología,2023-10-19,299.31
+P0935,Carlos Ruiz,34,F,Surco,Ginecología,2018-05-13,443.88
+P0936,SIN_NOMBRE,33,M,Surco,Medicina General,2024-12-12,358.15
+P0937,Ana Torres,11,F,Cajamarca,Medicina General,2022-05-11,323.45
+P0938,Ana Torres,39,M,Cajamarca,Ginecología,2023-05-03,66.32
+P0939,Carlos Ruiz,0,M,Surco,Ginecología,2024-05-02,233.85
+P0940,Luis Pérez,8,M,Surco,Pediatría,2023-07-26,481.17
+P0941,Carlos Ruiz,86,F,La Molina,Pediatría,2020-02-14,163.82
+P0942,Carlos Ruiz,60,M,Cajamarca,Pediatría,2022-08-05,281.22
+P0943,Sofía Díaz,38,M,La Molina,Pediatría,2020-03-12,173.87
+P0944,María Gómez,41,M,San Isidro,Odontología,2023-10-03,429.41
+P0945,Sofía Díaz,81,F,San Isidro,Pediatría,2025-08-28,170.15
+P0946,Luis Pérez,47,ND,Callao,Medicina General,2025-07-18,79.44
+P0947,Luis Pérez,43,F,Cajamarca,Cardiología,2024-01-06,319.02
+P0948,Sofía Díaz,58,F,La Molina,Pediatría,2025-03-01,270.81
+P0949,Luis Pérez,54,M,Cajamarca,Ginecología,2022-10-24,142.69
+P0950,Carlos Ruiz,9,F,Cajamarca,Pediatría,2021-11-28,289.6
+P0951,Sofía Díaz,27,M,Surco,Pediatría,2019-11-15,127.49
+P0952,Luis Pérez,31,F,Surco,Ginecología,2025-06-23,492.75
+P0953,María Gómez,28,M,La Molina,Cardiología,2023-03-12,453.36
+P0954,Sofía Díaz,30,M,La Molina,Pediatría,2018-12-03,298.55
+P0955,Luis Pérez,12,M,Callao,Medicina General,2023-10-03,381.84
+P0956,Luis Pérez,68,F,Callao,Ginecología,2021-11-11,142.5
+P0957,Carlos Ruiz,87,F,San Isidro,Odontología,2019-11-21,130.14
+P0958,María Gómez,1,M,San Isidro,Pediatría,2022-02-09,291.58
+P0959,Ana Torres,28,F,Cajamarca,Ginecología,2025-02-10,395.25
+P0960,Sofía Díaz,0,M,La Molina,Pediatría,2022-04-02,180.21
+P0961,Sofía Díaz,3,F,Miraflores,Medicina General,2025-07-24,96.9
+P0962,Ana Torres,49,M,Cajamarca,Medicina General,2019-05-20,462.82
+P0963,Carlos Ruiz,17,M,La Molina,Odontología,2025-12-06,134.24
+P0964,María Gómez,71,M,Callao,Ginecología,2021-08-06,309.23
+P0965,Luis Pérez,8,ND,Callao,Medicina General,2023-05-13,63.92
+P0966,Ana Torres,72,F,Surco,Cardiología,2020-07-21,491.42
+P0967,Luis Pérez,10,M,La Molina,Pediatría,2019-03-08,81.43
+P0968,Sofía Díaz,20,M,Miraflores,Cardiología,2022-04-20,139.91
+P0969,Sofía Díaz,48,F,La Molina,Medicina General,2021-12-27,445.23
+P0970,Sofía Díaz,43,F,Callao,Ginecología,2023-07-25,61.21
+P0971,Luis Pérez,82,F,Miraflores,Pediatría,2021-09-16,192.77
+P0972,Ana Torres,26,F,Miraflores,Medicina General,2018-03-23,461.49
+P0973,Luis Pérez,82,F,Cajamarca,Cardiología,2023-02-03,322.98
+P0974,Luis Pérez,7,F,Callao,Medicina General,2020-10-11,179.44
+P0975,Luis Pérez,80,M,Cajamarca,Cardiología,2024-08-11,486.98
+P0976,María Gómez,47,M,Miraflores,Ginecología,2022-12-02,62.12
+P0977,Luis Pérez,67,M,Miraflores,Medicina General,2023-08-29,434.87
+P0978,Carlos Ruiz,79,F,Callao,Ginecología,2020-05-29,263.02
+P0979,María Gómez,52,M,Miraflores,Ginecología,2020-05-05,328.87
+P0980,María Gómez,2,F,Cajamarca,Pediatría,2020-04-15,481.85
+P0981,Ana Torres,56,M,San Isidro,Cardiología,2025-01-03,242.57
+P0982,Carlos Ruiz,88,ND,Surco,Pediatría,2018-01-25,307.45
+P0983,Luis Pérez,26,F,Callao,Cardiología,2019-11-21,68.56
+P0984,Carlos Ruiz,44,M,San Isidro,Cardiología,2019-08-31,201.14
+P0985,Ana Torres,0,F,Surco,Odontología,2018-10-27,91.99
+P0986,Ana Torres,14,F,Miraflores,Pediatría,2025-07-05,0.0
+P0987,María Gómez,21,ND,Surco,Medicina General,2022-06-11,363.06
+P0988,Sofía Díaz,56,F,La Molina,Ginecología,2025-03-18,271.59
+P0989,Luis Pérez,70,F,Callao,Pediatría,2022-02-20,235.75
+P0990,Carlos Ruiz,71,M,La Molina,Odontología,2020-03-30,66.6
+P0991,Ana Torres,44,F,La Molina,Medicina General,2020-05-02,178.28
+P0992,Ana Torres,33,F,San Isidro,Medicina General,2024-08-07,111.53
+P0993,María Gómez,37,F,San Isidro,Ginecología,2022-05-25,165.34
+P0994,Sofía Díaz,1,M,Cajamarca,Odontología,2025-01-17,497.6
+P0995,Luis Pérez,15,M,Callao,Odontología,2023-04-25,383.86
+P0996,Luis Pérez,79,F,San Isidro,Odontología,2018-05-13,433.96
+P0997,Sofía Díaz,15,F,La Molina,Odontología,2024-01-22,104.62
+P0998,Carlos Ruiz,87,F,La Molina,Ginecología,2024-01-24,148.37
+P0999,María Gómez,23,M,Cajamarca,Cardiología,2019-12-13,98.69
+P1000,Carlos Ruiz,89,F,Callao,Medicina General,2023-09-10,494.42
+P1001,Sofía Díaz,23,F,Callao,Odontología,2019-02-01,403.7
+P1002,Sofía Díaz,2,F,Callao,Ginecología,2023-03-24,487.32
+P1003,Ana Torres,72,M,Callao,Ginecología,2023-10-19,294.62
+P1004,Ana Torres,15,M,La Molina,Pediatría,2024-07-14,296.81
+P1005,María Gómez,5,F,San Isidro,Medicina General,2021-04-23,467.07
+P1006,María Gómez,34,F,Miraflores,Cardiología,2025-07-06,483.51
+P1007,Sofía Díaz,30,M,Callao,Odontología,2018-05-29,233.21
+P1008,Ana Torres,84,M,La Molina,Cardiología,2023-11-21,204.97
+P1009,SIN_NOMBRE,87,M,La Molina,Ginecología,2023-08-26,354.6
+P1010,Carlos Ruiz,53,F,Surco,Pediatría,2021-02-01,423.65
+P1011,María Gómez,56,M,Cajamarca,Cardiología,2023-01-16,55.4
+P1012,Carlos Ruiz,43,ND,San Isidro,Pediatría,2025-10-23,161.85
+P1013,Sofía Díaz,28,ND,La Molina,Ginecología,2018-01-05,285.81
+P1014,Carlos Ruiz,47,F,Callao,Medicina General,2019-09-13,482.97
+P1015,Carlos Ruiz,60,M,Miraflores,Medicina General,2023-07-15,167.44
+P1016,María Gómez,24,ND,La Molina,Odontología,2020-10-28,232.47
+P1017,Sofía Díaz,58,F,Miraflores,Ginecología,2024-11-17,91.63
+P1018,Sofía Díaz,57,M,Cajamarca,Odontología,2021-08-21,281.45
+P1019,Ana Torres,78,M,Miraflores,Ginecología,2022-02-06,278.43
+P1020,Luis Pérez,60,M,Surco,Ginecología,2024-03-09,69.26
+P1021,Luis Pérez,15,M,La Molina,Medicina General,2018-03-11,322.35
+P1022,Carlos Ruiz,24,F,San Isidro,Ginecología,2023-09-27,54.0
+P1023,Ana Torres,85,M,La Molina,Medicina General,2022-04-30,403.58
+P1024,Carlos Ruiz,36,M,Callao,Medicina General,2021-09-25,101.98
+P1025,María Gómez,14,F,Surco,Odontología,2018-10-03,498.14
+P1026,Luis Pérez,56,F,Callao,Medicina General,2021-03-23,255.96
+P1027,María Gómez,75,F,Cajamarca,Medicina General,2020-11-18,387.06
+P1028,Ana Torres,0,F,Miraflores,Medicina General,2020-06-29,102.81
+P1029,Carlos Ruiz,24,M,Surco,Pediatría,2021-02-23,134.65
+P1030,Ana Torres,39,F,Callao,Medicina General,2024-12-21,277.07
+P1031,Luis Pérez,67,M,La Molina,Ginecología,2019-08-16,465.36
+P1032,María Gómez,61,M,Surco,Cardiología,2025-01-16,491.84
+P1033,Ana Torres,0,M,La Molina,Cardiología,2018-09-24,446.81
+P1034,Carlos Ruiz,43,M,San Isidro,Cardiología,2019-07-18,355.78
+P1035,Carlos Ruiz,21,F,San Isidro,Medicina General,2022-12-14,152.61
+P1036,Carlos Ruiz,32,M,Cajamarca,Ginecología,2018-06-02,310.09
+P1037,Ana Torres,6,M,Callao,Ginecología,2021-08-29,103.99
+P1038,Carlos Ruiz,83,M,Miraflores,Cardiología,2024-09-19,59.48
+P1039,Carlos Ruiz,28,F,San Isidro,Medicina General,2022-06-20,248.07
+P1040,María Gómez,62,M,La Molina,Odontología,2019-01-03,215.85
+P1041,Ana Torres,62,M,Surco,Ginecología,2024-05-12,86.28
+P1042,SIN_NOMBRE,20,F,San Isidro,Cardiología,2020-07-02,421.82
+P1043,Sofía Díaz,29,M,Callao,Cardiología,2021-11-13,365.06
+P1044,Sofía Díaz,59,M,La Molina,Pediatría,2022-12-05,357.06
+P1045,Ana Torres,29,M,San Isidro,Ginecología,2020-03-20,51.3
+P1046,María Gómez,26,M,Callao,Odontología,2021-06-25,479.57
+P1047,Luis Pérez,36,M,Cajamarca,Odontología,2025-10-10,91.88
+P1048,Carlos Ruiz,78,M,Callao,Cardiología,2021-12-30,483.78
+P1049,María Gómez,28,F,La Molina,Ginecología,2020-12-14,445.23
+P1050,Luis Pérez,43,F,Cajamarca,Odontología,2018-12-31,473.99
+P1051,Luis Pérez,52,F,Cajamarca,Ginecología,2020-11-19,91.38
+P1052,Sofía Díaz,41,F,La Molina,Cardiología,2021-02-14,253.13
+P1053,Carlos Ruiz,22,F,Cajamarca,Ginecología,2023-10-28,106.4
+P1054,Carlos Ruiz,36,F,San Isidro,Ginecología,2024-08-30,435.54
+P1055,Ana Torres,7,M,Cajamarca,Pediatría,2019-06-17,114.9
+P1056,Sofía Díaz,48,F,Miraflores,Ginecología,2023-10-24,197.78
+P1057,María Gómez,40,M,Callao,Odontología,2019-02-24,201.47
+P1058,Carlos Ruiz,22,F,Miraflores,Pediatría,2021-10-22,90.93
+P1059,María Gómez,57,F,San Isidro,Medicina General,2022-07-28,194.72
+P1060,Ana Torres,79,F,Callao,Pediatría,2024-07-11,412.37
+P1061,Luis Pérez,60,M,La Molina,Cardiología,2023-11-07,268.73
+P1062,Ana Torres,49,F,Callao,Cardiología,2020-02-03,212.47
+P1063,María Gómez,85,M,Cajamarca,Medicina General,2023-02-19,254.12
+P1064,Sofía Díaz,74,F,Miraflores,Odontología,2023-12-19,77.44
+P1065,Carlos Ruiz,32,M,Surco,Medicina General,2019-04-27,236.68
+P1066,María Gómez,50,M,Miraflores,Pediatría,2020-12-30,434.15
+P1067,Luis Pérez,35,ND,Miraflores,Pediatría,2023-10-14,181.37
+P1068,Ana Torres,55,M,Callao,Cardiología,2018-07-11,130.2
+P1069,María Gómez,59,F,La Molina,Odontología,2025-01-05,392.31
+P1070,Luis Pérez,66,F,San Isidro,Odontología,2019-06-28,211.3
+P1071,Ana Torres,46,M,San Isidro,Pediatría,2024-01-26,214.56
+P1072,Luis Pérez,28,F,La Molina,Cardiología,2024-10-10,341.62
+P1073,Luis Pérez,69,F,Miraflores,Ginecología,2021-10-11,85.92
+P1074,María Gómez,63,M,Surco,Pediatría,2020-06-07,408.01
+P1075,Ana Torres,50,M,Callao,Cardiología,2022-09-27,129.33
+P1076,Ana Torres,52,F,San Isidro,Ginecología,2021-02-24,380.32
+P1077,Luis Pérez,10,F,Surco,Ginecología,2018-09-08,409.92
+P1078,SIN_NOMBRE,66,F,Cajamarca,Medicina General,2023-12-27,195.28
+P1079,Sofía Díaz,46,F,La Molina,Pediatría,2023-05-23,147.61
+P1080,María Gómez,75,F,Surco,Odontología,2019-03-20,87.7
+P1081,Ana Torres,46,M,Miraflores,Medicina General,2022-02-12,272.85
+P1082,Luis Pérez,5,F,Surco,Cardiología,2022-01-02,73.29
+P1083,Carlos Ruiz,6,M,Callao,Medicina General,2018-07-23,80.51
+P1084,Carlos Ruiz,43,F,San Isidro,Ginecología,2023-08-16,451.94
+P1085,SIN_NOMBRE,57,M,Miraflores,Cardiología,2019-08-27,216.25
+P1086,Carlos Ruiz,24,M,Miraflores,Medicina General,2023-01-26,377.16
+P1087,María Gómez,29,M,Callao,Ginecología,2021-04-29,475.16
+P1088,Luis Pérez,5,M,San Isidro,Cardiología,2022-08-31,486.06
+P1089,Luis Pérez,38,M,Miraflores,Medicina General,2025-01-20,291.0
+P1090,Ana Torres,33,F,Surco,Pediatría,2023-07-28,384.17
+P1091,María Gómez,51,M,Callao,Medicina General,2019-09-22,438.83
+P1092,Luis Pérez,50,M,Callao,Medicina General,2021-11-26,262.0
+P1093,María Gómez,76,M,Cajamarca,Cardiología,2022-08-13,85.43
+P1094,Ana Torres,67,F,Miraflores,Pediatría,2023-08-02,297.77
+P0001,María Gómez,49,M,Callao,Medicina General,2024-12-07,316.1
+P1096,María Gómez,66,M,Cajamarca,Cardiología,2025-03-11,377.81
+P1097,Sofía Díaz,59,M,Callao,Medicina General,2024-05-21,302.72
+P1098,Carlos Ruiz,61,M,La Molina,Medicina General,2021-11-10,381.29
+P1099,Luis Pérez,5,F,Cajamarca,Odontología,2023-09-26,382.87
+P1100,María Gómez,16,M,Miraflores,Medicina General,2018-07-18,496.01
+P1101,María Gómez,90,M,Cajamarca,Ginecología,2022-12-04,183.06
+P1102,Sofía Díaz,7,F,Miraflores,Medicina General,2022-05-02,0.0
+P1103,Sofía Díaz,80,F,Surco,Medicina General,2023-08-02,392.75
+P1104,María Gómez,54,F,Cajamarca,Pediatría,2020-12-16,307.55
+P1105,María Gómez,7,F,Surco,Cardiología,2022-07-29,419.39
+P1106,Carlos Ruiz,40,M,Surco,Ginecología,2020-08-21,462.31
+P1107,Ana Torres,68,F,Surco,Cardiología,2019-02-17,427.09
+P1108,María Gómez,74,M,Miraflores,Cardiología,2023-03-28,164.62
+P1109,Ana Torres,48,F,Miraflores,Ginecología,2022-07-13,306.66
+P1110,María Gómez,7,M,La Molina,Ginecología,2019-02-11,238.93
+P1111,María Gómez,34,M,Cajamarca,Cardiología,2025-03-24,498.13
+P1112,Ana Torres,80,M,La Molina,Pediatría,2025-10-30,409.9
+P1113,Luis Pérez,70,F,Surco,Odontología,2024-09-15,286.81
+P1114,Luis Pérez,15,M,Callao,Cardiología,2025-09-18,250.95
+P1115,María Gómez,69,M,San Isidro,Ginecología,2025-05-20,109.77
+P1116,Sofía Díaz,25,M,San Isidro,Pediatría,2024-06-11,478.04
+P1117,Sofía Díaz,10,F,La Molina,Ginecología,2018-06-13,216.48
+P1118,Luis Pérez,44,F,San Isidro,Cardiología,2018-01-22,423.76
+P1119,María Gómez,70,F,San Isidro,Pediatría,2022-12-07,308.2
+P1120,María Gómez,41,M,La Molina,Odontología,2020-01-02,82.0
+P1121,Carlos Ruiz,42,M,La Molina,Ginecología,2025-08-18,0.0
+P1122,Carlos Ruiz,38,F,Miraflores,Ginecología,2025-01-21,275.68
+P1123,Luis Pérez,36,F,Cajamarca,Odontología,2020-07-04,176.23
+P1124,María Gómez,15,M,Surco,Odontología,2018-04-02,177.21
+P1125,Luis Pérez,53,F,La Molina,Cardiología,2020-12-24,206.75
+P1126,Ana Torres,62,M,Surco,Ginecología,2020-06-18,490.69
+P1127,Luis Pérez,76,M,Callao,Ginecología,2021-07-23,262.4
+P1128,Luis Pérez,77,F,San Isidro,Odontología,2019-12-08,267.47
+P1129,Carlos Ruiz,87,M,Miraflores,Ginecología,2022-04-12,119.07
+P1130,Sofía Díaz,28,F,Miraflores,Pediatría,2018-12-15,181.77
+P1131,Sofía Díaz,5,F,Miraflores,Odontología,2018-07-19,161.63
+P1132,Luis Pérez,81,F,La Molina,Ginecología,2021-04-11,188.17
+P1133,Carlos Ruiz,60,M,Callao,Ginecología,2019-11-29,62.89
+P1134,María Gómez,19,F,La Molina,Odontología,2019-05-12,316.66
+P1135,Luis Pérez,57,M,La Molina,Pediatría,2021-03-03,374.45
+P1136,Ana Torres,90,M,Surco,Odontología,2022-08-16,310.79
+P1137,María Gómez,70,F,Surco,Medicina General,2019-04-30,352.58
+P1138,Carlos Ruiz,32,F,Cajamarca,Ginecología,2022-01-08,0.0
+P1139,María Gómez,49,F,Callao,Cardiología,2018-05-07,58.49
+P1140,María Gómez,32,F,San Isidro,Cardiología,2021-12-19,121.19
+P1141,Carlos Ruiz,31,F,Miraflores,Cardiología,2024-09-16,379.34
+P1142,Carlos Ruiz,77,F,Surco,Pediatría,2019-10-22,265.84
+P1143,María Gómez,87,M,Callao,Odontología,2025-10-25,269.7
+P1144,Carlos Ruiz,25,F,Miraflores,Medicina General,2021-11-20,487.91
+P1145,María Gómez,22,F,Callao,Ginecología,2019-11-20,306.86
+P1146,Carlos Ruiz,27,M,Cajamarca,Odontología,2023-08-27,206.12
+P1147,María Gómez,9,F,Surco,Medicina General,2023-10-15,336.84
+P1148,María Gómez,22,M,Surco,Odontología,2021-03-22,470.16
+P1149,María Gómez,34,F,Cajamarca,Cardiología,2023-07-17,237.43
+P1150,Sofía Díaz,82,M,Cajamarca,Cardiología,2024-01-02,208.2
+P1151,Luis Pérez,17,F,Miraflores,Medicina General,2018-04-09,341.94
+P1152,Luis Pérez,81,F,San Isidro,Medicina General,2023-10-07,424.12
+P1153,Sofía Díaz,59,M,Cajamarca,Cardiología,2024-11-16,309.82
+P1154,María Gómez,53,M,San Isidro,Odontología,2024-08-24,353.97
+P1155,Ana Torres,34,F,Cajamarca,Cardiología,2020-07-22,386.09
+P1156,Ana Torres,56,M,Surco,Pediatría,2019-04-12,96.14
+P1157,Carlos Ruiz,67,F,San Isidro,Pediatría,2022-09-15,347.95
+P1158,Carlos Ruiz,34,F,La Molina,Medicina General,2020-06-05,155.76
+P1159,Luis Pérez,21,M,Surco,Pediatría,2022-07-17,125.31
+P1160,Carlos Ruiz,84,M,San Isidro,Cardiología,2023-10-05,236.27
+P1161,Luis Pérez,2,M,San Isidro,Ginecología,2024-04-06,362.04
+P1162,Ana Torres,90,F,Cajamarca,Medicina General,2019-07-05,80.83
+P1163,Carlos Ruiz,41,M,Surco,Pediatría,2022-08-30,118.78
+P1164,María Gómez,81,M,Cajamarca,Cardiología,2023-08-19,96.38
+P1165,Ana Torres,22,M,San Isidro,Odontología,2023-06-07,492.82
+P1166,Luis Pérez,60,M,La Molina,Cardiología,2018-12-17,116.91
+P1167,Carlos Ruiz,11,F,Callao,Ginecología,2020-08-06,153.81
+P1168,Luis Pérez,38,F,Miraflores,Medicina General,2018-03-28,207.98
+P1169,Sofía Díaz,84,M,Callao,Odontología,2023-08-19,52.53
+P1170,Luis Pérez,44,F,San Isidro,Ginecología,2020-04-30,89.65
+P1171,Luis Pérez,38,M,Cajamarca,Odontología,2024-09-03,207.89
+P1172,María Gómez,47,F,Surco,Odontología,2021-05-20,152.96
+P1173,María Gómez,81,M,Cajamarca,Odontología,2018-12-27,0.0
+P1174,Ana Torres,34,M,Callao,Ginecología,2021-07-27,213.45
+P1175,Carlos Ruiz,9,M,Callao,Odontología,2020-10-27,359.3
+P1176,Luis Pérez,86,F,Surco,Pediatría,2020-07-05,84.46
+P1177,Luis Pérez,63,M,Miraflores,Medicina General,2023-01-17,284.63
+P1178,Carlos Ruiz,3,M,Surco,Medicina General,2025-03-16,449.25
+P1179,Ana Torres,89,M,Miraflores,Odontología,2022-03-10,86.44
+P1180,María Gómez,88,F,Miraflores,Medicina General,2024-03-16,392.27
+P1181,Luis Pérez,15,M,Surco,Medicina General,2025-11-14,163.24
+P1182,María Gómez,17,F,Callao,Medicina General,2024-03-21,404.66
+P1183,Ana Torres,16,M,Surco,Pediatría,2018-01-06,242.79
+P1184,Sofía Díaz,47,F,La Molina,Cardiología,2021-10-31,303.5
+P1185,Sofía Díaz,87,F,Callao,Ginecología,2020-03-15,216.36
+P1186,Carlos Ruiz,34,M,La Molina,Cardiología,2024-06-26,419.25
+P1187,María Gómez,12,M,La Molina,Ginecología,2025-09-02,376.02
+P1188,Carlos Ruiz,43,M,Callao,Ginecología,2020-10-19,254.23
+P1189,Sofía Díaz,16,M,Cajamarca,Ginecología,2018-01-01,157.87
+P1190,Luis Pérez,38,F,Callao,Ginecología,2024-03-13,81.36
+P1191,María Gómez,33,M,Callao,Medicina General,2020-07-21,89.67
+P1192,María Gómez,77,F,La Molina,Cardiología,2024-03-01,161.68
+P1193,Carlos Ruiz,23,M,Callao,Odontología,2025-02-16,368.52
+P1194,Ana Torres,79,M,La Molina,Medicina General,2023-01-13,318.62
+P1195,María Gómez,35,F,Miraflores,Medicina General,2024-10-31,71.11
+P1196,Sofía Díaz,77,M,Cajamarca,Ginecología,2019-08-10,320.39
+P1197,María Gómez,25,M,Miraflores,Ginecología,2019-09-20,490.24
+P1198,Luis Pérez,62,M,La Molina,Medicina General,2021-09-10,87.06
+P1199,Luis Pérez,28,M,Callao,Pediatría,2021-08-02,108.27
+P1200,Sofía Díaz,83,M,Cajamarca,Pediatría,2019-12-14,221.57
+P1201,Luis Pérez,69,F,Miraflores,Medicina General,2025-02-22,97.35
+P1202,Luis Pérez,79,F,Surco,Pediatría,2025-05-27,363.25
+P1203,Luis Pérez,82,ND,Miraflores,Odontología,2019-01-21,208.99
+P1204,Carlos Ruiz,66,M,La Molina,Ginecología,2019-09-30,485.02
+P1205,Sofía Díaz,87,M,Callao,Pediatría,2023-05-20,179.03
+P1206,Carlos Ruiz,61,F,Callao,Pediatría,2023-11-12,342.97
+P1207,María Gómez,3,F,Cajamarca,Cardiología,2020-04-06,234.88
+P1208,Carlos Ruiz,72,F,Cajamarca,Cardiología,2018-02-21,200.18
+P1209,SIN_NOMBRE,52,F,Cajamarca,Pediatría,2025-02-26,392.8
+P1210,María Gómez,25,F,Miraflores,Pediatría,2025-10-01,157.03
+P1211,SIN_NOMBRE,6,M,Miraflores,Odontología,2022-06-04,364.55
+P1212,Carlos Ruiz,66,F,La Molina,Medicina General,2023-02-25,227.54
+P1213,Ana Torres,72,F,Callao,Cardiología,2022-08-27,176.65
+P1214,María Gómez,6,F,La Molina,Odontología,2020-02-17,179.93
+P1215,Ana Torres,12,F,Cajamarca,Pediatría,2025-02-13,260.48
+P1216,Ana Torres,14,F,Miraflores,Cardiología,2024-07-04,178.01
+P1217,María Gómez,2,F,Surco,Pediatría,2022-10-24,256.04
+P1218,María Gómez,8,M,Surco,Cardiología,2019-10-24,444.09
+P1219,Sofía Díaz,41,F,Callao,Cardiología,2025-01-26,499.06
+P1220,María Gómez,52,M,La Molina,Medicina General,2019-04-18,316.27
+P1221,Ana Torres,79,M,La Molina,Odontología,2023-08-08,224.7
+P1222,Carlos Ruiz,23,F,Miraflores,Ginecología,2021-03-23,465.15
+P1223,Luis Pérez,58,M,San Isidro,Pediatría,2023-06-06,442.88
+P1224,Sofía Díaz,61,M,Miraflores,Ginecología,2018-10-19,138.16
+P1225,Sofía Díaz,73,F,Miraflores,Medicina General,2018-06-02,425.39
+P1226,Luis Pérez,17,F,Callao,Ginecología,2025-02-23,331.37
+P1227,Luis Pérez,51,F,Cajamarca,Ginecología,2025-07-19,262.12
+P1228,María Gómez,58,F,Miraflores,Pediatría,2025-12-12,110.27
+P1229,Ana Torres,63,F,La Molina,Medicina General,2021-08-19,104.53
+P1230,Sofía Díaz,37,F,Miraflores,Pediatría,2018-10-03,489.46
+P1231,Carlos Ruiz,18,M,Callao,Ginecología,2019-10-31,422.49
+P1232,Sofía Díaz,72,F,Callao,Cardiología,2018-10-06,69.49
+P1233,Ana Torres,81,F,Callao,Odontología,2020-01-07,344.93
+P1234,María Gómez,23,M,Callao,Cardiología,2020-11-12,421.36
+P1235,Luis Pérez,45,M,Miraflores,Odontología,2020-09-24,406.61
+P1236,María Gómez,30,F,Miraflores,Pediatría,2019-10-05,299.42
+P1237,Luis Pérez,13,M,Cajamarca,Odontología,2018-03-31,75.74
+P1238,María Gómez,36,M,Callao,Cardiología,2025-02-15,93.65
+P1239,Carlos Ruiz,79,F,San Isidro,Cardiología,2019-11-24,360.1
+P1240,Luis Pérez,67,M,Cajamarca,Pediatría,2021-12-29,444.98
+P1241,Carlos Ruiz,58,F,Cajamarca,Cardiología,2018-09-06,360.35
+P1242,Sofía Díaz,66,F,Callao,Cardiología,2024-02-05,259.8
+P1243,Sofía Díaz,16,M,Miraflores,Pediatría,2019-12-23,153.06
+P1244,Sofía Díaz,51,M,La Molina,Medicina General,2022-07-05,435.79
+P1245,Sofía Díaz,55,F,Cajamarca,Pediatría,2022-11-16,132.92
+P1246,María Gómez,63,M,Surco,Pediatría,2022-02-05,76.98
+P1247,María Gómez,55,M,Callao,Cardiología,2023-11-02,406.57
+P1248,Sofía Díaz,53,M,La Molina,Cardiología,2018-06-13,140.25
+P1249,María Gómez,58,F,Miraflores,Pediatría,2020-08-03,148.84
+P1250,Sofía Díaz,17,F,Miraflores,Cardiología,2025-08-15,423.09
+P1251,Ana Torres,3,F,San Isidro,Medicina General,2019-03-17,209.11
+P1252,Ana Torres,23,M,Miraflores,Cardiología,2023-03-14,454.22
+P1253,Sofía Díaz,66,F,La Molina,Ginecología,2023-04-21,63.52
+P1254,Carlos Ruiz,80,M,Callao,Cardiología,2023-09-07,0.0
+P1255,Luis Pérez,9,M,Cajamarca,Ginecología,2021-08-10,80.42
+P1256,Luis Pérez,4,F,Miraflores,Pediatría,2024-07-17,442.64
+P1257,Luis Pérez,43,M,San Isidro,Ginecología,2021-01-31,312.03
+P1258,Ana Torres,42,F,Callao,Cardiología,2021-01-15,453.06
+P1259,Carlos Ruiz,18,M,Miraflores,Odontología,2020-02-24,0.0
+P1260,Luis Pérez,15,F,Surco,Odontología,2018-10-14,340.21
+P1261,Sofía Díaz,18,F,San Isidro,Ginecología,2024-03-31,486.75
+P0001,Carlos Ruiz,44,F,Surco,Ginecología,2024-02-21,385.8
+P1263,Carlos Ruiz,27,F,San Isidro,Odontología,2025-10-16,490.04
+P0001,Carlos Ruiz,8,M,Surco,Medicina General,2025-11-02,469.26
+P1265,María Gómez,88,M,Callao,Medicina General,2020-07-22,247.31
+P1266,Ana Torres,2,F,Callao,Medicina General,2022-09-25,172.54
+P1267,Luis Pérez,45,M,La Molina,Cardiología,2024-04-25,370.0
+P1268,María Gómez,45,F,Surco,Ginecología,2021-10-31,59.6
+P1269,Sofía Díaz,51,F,Miraflores,Odontología,2019-08-15,210.24
+P1270,Sofía Díaz,5,F,Surco,Ginecología,2020-12-19,52.8
+P1271,SIN_NOMBRE,67,F,La Molina,Odontología,2021-09-03,254.11
+P1272,Sofía Díaz,85,F,Callao,Cardiología,2024-01-14,465.2
+P1273,María Gómez,79,M,Surco,Odontología,2019-10-03,91.7
+P1274,Sofía Díaz,68,M,Surco,Ginecología,2021-10-07,291.08
+P1275,Sofía Díaz,4,M,La Molina,Pediatría,2021-05-21,376.35
+P1276,Carlos Ruiz,56,M,Miraflores,Cardiología,2024-01-07,129.88
+P1277,Carlos Ruiz,69,M,Surco,Medicina General,2019-05-24,73.57
+P1278,Luis Pérez,52,F,Cajamarca,Odontología,2020-03-12,206.69
+P1279,María Gómez,57,M,Cajamarca,Pediatría,2021-12-06,389.56
+P1280,María Gómez,36,M,Surco,Cardiología,2020-01-03,145.32
+P1281,Carlos Ruiz,62,M,La Molina,Medicina General,2025-12-17,419.37
+P1282,Carlos Ruiz,24,F,La Molina,Medicina General,2019-09-02,88.35
+P1283,Ana Torres,68,M,Cajamarca,Medicina General,2021-06-01,109.82
+P1284,María Gómez,39,F,Callao,Pediatría,2022-02-07,162.87
+P1285,Ana Torres,72,M,Surco,Medicina General,2025-11-17,406.76
+P1286,Luis Pérez,78,F,Cajamarca,Medicina General,2020-02-18,380.82
+P1287,María Gómez,8,ND,La Molina,Cardiología,2025-07-10,67.64
+P1288,Ana Torres,18,F,Miraflores,Medicina General,2023-04-29,65.36
+P1289,Carlos Ruiz,70,F,Surco,Ginecología,2019-03-03,278.06
+P1290,María Gómez,49,F,Callao,Pediatría,2023-12-08,221.43
+P1291,Luis Pérez,44,M,La Molina,Cardiología,2024-10-18,488.16
+P1292,Ana Torres,13,M,Miraflores,Medicina General,2024-05-20,78.99
+P1293,Carlos Ruiz,37,M,La Molina,Medicina General,2023-03-26,121.66
+P1294,Sofía Díaz,20,M,Miraflores,Pediatría,2021-03-12,81.18
+P1295,María Gómez,6,M,Cajamarca,Ginecología,2020-02-13,317.97
+P1296,Carlos Ruiz,41,M,Surco,Cardiología,2023-10-30,161.64
+P1297,María Gómez,55,M,La Molina,Cardiología,2018-08-15,151.03
+P1298,Luis Pérez,3,M,La Molina,Medicina General,2021-05-27,304.04
+P1299,SIN_NOMBRE,33,M,San Isidro,Pediatría,2023-02-01,370.98
+P1300,Ana Torres,81,F,Surco,Ginecología,2021-08-25,264.92
+P1301,Luis Pérez,79,F,San Isidro,Ginecología,2018-04-07,201.1
+P1302,Carlos Ruiz,72,F,Cajamarca,Cardiología,2018-09-13,439.66
+P1303,Carlos Ruiz,66,M,Cajamarca,Ginecología,2025-11-20,294.71
+P1304,Luis Pérez,19,F,Surco,Cardiología,2023-03-21,397.92
+P1305,SIN_NOMBRE,1,F,Callao,Cardiología,2025-11-28,124.54
+P1306,María Gómez,5,M,Surco,Medicina General,2021-08-06,212.08
+P1307,Ana Torres,36,F,La Molina,Odontología,2024-01-01,445.15
+P1308,Carlos Ruiz,43,M,La Molina,Odontología,2019-03-09,426.96
+P1309,Carlos Ruiz,31,M,Cajamarca,Ginecología,2018-12-23,228.49
+P1310,Sofía Díaz,61,M,La Molina,Odontología,2019-11-19,320.78
+P1311,María Gómez,10,M,Surco,Odontología,2022-05-16,337.63
+P1312,Sofía Díaz,32,M,Callao,Ginecología,2018-07-03,73.16
+P1313,Carlos Ruiz,72,M,Cajamarca,Odontología,2019-05-05,492.07
+P1314,Carlos Ruiz,36,M,La Molina,Cardiología,2022-06-05,188.61
+P1315,Luis Pérez,58,F,Miraflores,Medicina General,2023-01-30,197.73
+P1316,María Gómez,89,ND,Surco,Ginecología,2019-05-31,279.19
+P1317,Sofía Díaz,32,ND,La Molina,Odontología,2022-03-05,226.33
+P1318,Ana Torres,30,F,Callao,Ginecología,2019-01-03,307.34
+P1319,Sofía Díaz,49,M,Callao,Cardiología,2019-12-09,180.02
+P1320,Carlos Ruiz,23,M,Surco,Ginecología,2019-11-09,378.48
+P1321,María Gómez,37,F,Cajamarca,Cardiología,2021-04-07,129.17
+P1322,María Gómez,51,M,Surco,Odontología,2024-12-21,97.0
+P1323,Sofía Díaz,56,M,Cajamarca,Odontología,2022-11-01,461.61
+P1324,Ana Torres,77,ND,San Isidro,Odontología,2021-01-22,135.95
+P1325,María Gómez,85,M,Cajamarca,Medicina General,2020-10-18,220.49
+P1326,Luis Pérez,26,F,Miraflores,Odontología,2018-03-06,261.61
+P1327,Ana Torres,63,M,Cajamarca,Medicina General,2022-04-11,185.24
+P1328,Sofía Díaz,35,M,Cajamarca,Pediatría,2020-07-30,321.88
+P1329,Carlos Ruiz,56,F,Miraflores,Odontología,2022-10-27,332.71
+P1330,Carlos Ruiz,29,M,Miraflores,Odontología,2019-04-19,447.35
+P1331,María Gómez,50,M,La Molina,Ginecología,2018-08-18,249.36
+P1332,Carlos Ruiz,43,M,Surco,Medicina General,2019-09-16,449.6
+P1333,Luis Pérez,2,M,Miraflores,Odontología,2024-03-03,323.17
+P1334,Ana Torres,88,M,Surco,Cardiología,2020-05-29,447.84
+P1335,Luis Pérez,72,F,Cajamarca,Medicina General,2024-03-28,201.46
+P1336,María Gómez,81,F,La Molina,Medicina General,2023-08-08,140.17
+P1337,Sofía Díaz,76,F,Surco,Ginecología,2021-05-02,68.89
+P1338,María Gómez,28,F,La Molina,Pediatría,2019-01-09,136.32
+P1339,Carlos Ruiz,60,M,San Isidro,Ginecología,2025-06-11,278.94
+P1340,María Gómez,86,F,Miraflores,Ginecología,2018-05-07,98.63
+P1341,Ana Torres,31,F,La Molina,Odontología,2024-06-17,318.39
+P1342,Carlos Ruiz,39,M,La Molina,Odontología,2021-10-02,468.88
+P1343,Ana Torres,19,F,Cajamarca,Cardiología,2020-10-21,171.51
+P1344,María Gómez,0,M,Surco,Ginecología,2019-04-13,147.15
+P1345,Luis Pérez,22,F,Miraflores,Odontología,2022-08-11,338.47
+P1346,María Gómez,27,F,Callao,Medicina General,2019-07-13,204.22
+P1347,María Gómez,30,M,Miraflores,Pediatría,2018-11-09,459.86
+P1348,Sofía Díaz,0,M,Callao,Odontología,2024-11-13,466.24
+P1349,María Gómez,66,M,Callao,Medicina General,2022-02-18,76.87
+P1350,Ana Torres,84,F,Cajamarca,Odontología,2023-04-07,492.8
+P1351,Carlos Ruiz,15,F,Cajamarca,Medicina General,2020-06-04,305.41
+P1352,María Gómez,63,M,La Molina,Odontología,2019-06-13,422.91
+P1353,Carlos Ruiz,28,F,La Molina,Pediatría,2018-02-03,349.41
+P1354,Ana Torres,37,F,Miraflores,Pediatría,2022-05-27,397.45
+P1355,Luis Pérez,50,F,San Isidro,Medicina General,2020-04-19,440.2
+P1356,María Gómez,76,M,Miraflores,Medicina General,2018-07-31,81.57
+P1357,Carlos Ruiz,60,F,Callao,Ginecología,2019-07-25,322.88
+P1358,Luis Pérez,28,M,Surco,Medicina General,2023-09-02,193.06
+P1359,Carlos Ruiz,87,ND,Surco,Odontología,2025-03-08,58.96
+P1360,Sofía Díaz,26,M,Miraflores,Medicina General,2019-12-04,112.39
+P1361,María Gómez,45,F,Miraflores,Cardiología,2020-09-16,62.36
+P1362,Ana Torres,2,F,La Molina,Cardiología,2018-07-11,467.63
+P1363,Sofía Díaz,81,M,San Isidro,Ginecología,2021-07-31,494.06
+P1364,Carlos Ruiz,83,F,San Isidro,Cardiología,2023-08-02,303.82
+P1365,Ana Torres,15,F,San Isidro,Medicina General,2024-11-17,257.32
+P1366,Carlos Ruiz,15,M,Surco,Pediatría,2022-11-10,490.07
+P1367,Luis Pérez,59,ND,Callao,Odontología,2018-09-27,458.48
+P1368,Carlos Ruiz,17,F,Cajamarca,Ginecología,2022-10-11,90.43
+P1369,María Gómez,0,M,Miraflores,Ginecología,2023-03-31,287.52
+P1370,Carlos Ruiz,38,M,La Molina,Cardiología,2025-03-30,66.62
+P1371,Luis Pérez,31,F,Callao,Cardiología,2023-04-25,398.61
+P1372,Luis Pérez,63,F,Cajamarca,Medicina General,2024-12-27,139.96
+P1373,SIN_NOMBRE,70,F,La Molina,Odontología,2025-03-04,437.15
+P1374,Luis Pérez,89,M,Surco,Pediatría,2022-11-05,374.21
+P1375,Sofía Díaz,34,M,Surco,Pediatría,2023-12-29,118.82
+P1376,Ana Torres,45,F,La Molina,Ginecología,2019-05-26,174.1
+P1377,María Gómez,37,M,Miraflores,Cardiología,2020-10-07,442.54
+P1378,Luis Pérez,85,M,Callao,Cardiología,2019-04-12,213.49
+P1379,Luis Pérez,13,ND,Surco,Odontología,2021-07-15,237.79
+P1380,Ana Torres,45,F,San Isidro,Pediatría,2021-10-01,162.41
+P1381,María Gómez,7,F,Cajamarca,Pediatría,2025-02-13,177.35
+P1382,Luis Pérez,49,F,Surco,Odontología,2019-03-20,174.19
+P1383,Carlos Ruiz,84,M,Miraflores,Medicina General,2022-04-01,483.94
+P1384,Luis Pérez,39,F,Callao,Pediatría,2024-09-05,326.64
+P1385,María Gómez,70,F,Cajamarca,Ginecología,2021-02-11,183.42
+P1386,Ana Torres,10,F,Callao,Pediatría,2025-10-11,118.47
+P1387,Ana Torres,70,F,San Isidro,Pediatría,2025-11-07,324.18
+P1388,Carlos Ruiz,19,F,Surco,Odontología,2020-04-09,202.25
+P1389,Luis Pérez,83,M,Callao,Cardiología,2020-03-17,227.05
+P1390,Ana Torres,87,F,Cajamarca,Cardiología,2022-01-02,111.89
+P1391,María Gómez,33,ND,San Isidro,Odontología,2018-03-15,104.74
+P1392,Carlos Ruiz,4,M,Miraflores,Ginecología,2025-11-06,415.35
+P1393,Carlos Ruiz,47,M,Callao,Cardiología,2024-02-05,279.67
+P1394,Sofía Díaz,89,F,Miraflores,Cardiología,2022-01-16,472.02
+P1395,Carlos Ruiz,83,M,Callao,Medicina General,2019-07-01,267.92
+P1396,Sofía Díaz,69,F,Surco,Cardiología,2020-04-01,475.11
+P1397,Luis Pérez,27,M,Miraflores,Cardiología,2020-10-02,168.49
+P1398,María Gómez,89,F,San Isidro,Cardiología,2020-06-01,145.55
+P1399,Luis Pérez,61,M,Callao,Ginecología,2023-05-26,118.23
+P1400,Luis Pérez,43,M,Cajamarca,Medicina General,2018-06-04,161.19
+P1401,Luis Pérez,0,M,Callao,Odontología,2018-10-17,267.75
+P1402,Ana Torres,62,M,La Molina,Odontología,2018-04-18,64.19
+P1403,Carlos Ruiz,15,F,La Molina,Medicina General,2019-06-07,270.35
+P1404,Sofía Díaz,53,M,Cajamarca,Pediatría,2023-08-24,465.22
+P1405,Sofía Díaz,23,F,Miraflores,Ginecología,2020-03-16,380.1
+P1406,Ana Torres,59,F,Surco,Cardiología,2020-11-14,98.81
+P1407,Sofía Díaz,45,F,La Molina,Cardiología,2022-09-24,164.88
+P1408,Luis Pérez,71,M,Cajamarca,Ginecología,2020-07-21,198.53
+P1409,Ana Torres,43,F,Surco,Cardiología,2022-01-13,255.31
+P1410,María Gómez,61,M,Callao,Medicina General,2020-09-05,286.77
+P1411,Sofía Díaz,74,F,Surco,Medicina General,2025-11-20,246.31
+P1412,María Gómez,32,F,Cajamarca,Cardiología,2022-03-04,123.61
+P1413,Carlos Ruiz,51,M,San Isidro,Ginecología,2024-04-25,446.3
+P1414,Ana Torres,88,F,Callao,Medicina General,2019-11-30,460.76
+P1415,Ana Torres,4,F,Miraflores,Ginecología,2021-10-20,242.32
+P1416,Carlos Ruiz,46,M,Callao,Cardiología,2019-12-21,163.23
+P1417,María Gómez,89,F,La Molina,Cardiología,2019-09-19,309.69
+P1418,Luis Pérez,80,M,San Isidro,Pediatría,2020-04-27,118.24
+P1419,Carlos Ruiz,90,F,Miraflores,Ginecología,2019-07-29,415.05
+P1420,Luis Pérez,11,M,Callao,Medicina General,2018-01-05,245.77
+P1421,María Gómez,56,F,San Isidro,Medicina General,2025-08-05,179.23
+P1422,Sofía Díaz,70,M,Surco,Cardiología,2024-11-09,485.75
+P1423,Luis Pérez,87,F,Callao,Cardiología,2025-07-15,451.79
+P1424,María Gómez,29,M,Callao,Medicina General,2025-03-06,327.43
+P1425,Carlos Ruiz,77,M,Cajamarca,Medicina General,2020-07-14,79.7
+P1426,Ana Torres,28,F,Miraflores,Odontología,2022-09-05,413.22
+P1427,SIN_NOMBRE,16,F,Miraflores,Medicina General,2019-02-04,207.65
+P1428,Ana Torres,10,M,Miraflores,Medicina General,2022-07-01,66.53
+P1429,Carlos Ruiz,66,F,Cajamarca,Odontología,2023-01-17,75.56
+P1430,Sofía Díaz,89,M,San Isidro,Cardiología,2018-08-18,484.3
+P1431,Sofía Díaz,81,M,San Isidro,Odontología,2020-01-14,244.61
+P1432,Sofía Díaz,88,M,Callao,Medicina General,2019-06-13,160.59
+P1433,Luis Pérez,15,M,Cajamarca,Medicina General,2019-05-29,420.12
+P1434,Luis Pérez,18,M,Surco,Ginecología,2025-01-05,222.06
+P1435,Ana Torres,31,M,Callao,Medicina General,2021-04-20,235.38
+P1436,Sofía Díaz,11,M,Miraflores,Ginecología,2024-01-24,441.03
+P1437,Sofía Díaz,27,F,La Molina,Ginecología,2019-11-02,418.12
+P1438,Carlos Ruiz,36,F,San Isidro,Odontología,2022-12-01,234.02
+P1439,Sofía Díaz,15,F,Miraflores,Cardiología,2022-04-24,146.22
+P1440,Ana Torres,8,M,San Isidro,Ginecología,2022-08-12,147.22
+P1441,SIN_NOMBRE,47,ND,Cajamarca,Medicina General,2020-02-09,335.65
+P1442,María Gómez,18,F,Cajamarca,Pediatría,2024-02-25,410.64
+P1443,Ana Torres,52,M,San Isidro,Medicina General,2023-12-20,265.73
+P1444,Carlos Ruiz,28,F,La Molina,Ginecología,2020-04-18,140.85
+P1445,Sofía Díaz,6,M,Surco,Odontología,2018-09-09,305.59
+P1446,Carlos Ruiz,12,F,La Molina,Pediatría,2022-06-16,381.13
+P1447,Luis Pérez,18,M,Surco,Pediatría,2025-02-15,123.36
+P1448,Luis Pérez,25,F,Cajamarca,Medicina General,2018-12-23,356.73
+P1449,Ana Torres,22,F,Surco,Pediatría,2025-08-23,440.46
+P1450,Luis Pérez,48,F,Cajamarca,Medicina General,2023-07-03,223.29
+P1451,Sofía Díaz,30,M,Callao,Medicina General,2019-06-20,435.84
+P1452,Ana Torres,6,M,Cajamarca,Pediatría,2018-11-07,101.32
+P1453,Luis Pérez,34,M,Miraflores,Cardiología,2024-05-25,144.67
+P1454,María Gómez,12,F,Miraflores,Pediatría,2019-02-26,162.05
+P1455,Luis Pérez,20,F,Miraflores,Ginecología,2021-03-17,179.64
+P1456,María Gómez,45,F,La Molina,Cardiología,2020-03-23,77.01
+P1457,María Gómez,2,M,La Molina,Cardiología,2021-06-26,360.68
+P1458,Ana Torres,20,M,Miraflores,Pediatría,2021-10-30,61.63
+P1459,Sofía Díaz,61,M,La Molina,Odontología,2025-01-08,417.37
+P1460,Luis Pérez,56,M,Callao,Ginecología,2019-06-23,257.26
+P1461,Ana Torres,13,M,Cajamarca,Medicina General,2022-12-11,194.53
+P1462,Ana Torres,4,F,La Molina,Pediatría,2023-10-18,481.93
+P1463,María Gómez,57,F,Callao,Ginecología,2020-11-27,138.3
+P1464,Luis Pérez,52,F,Surco,Cardiología,2019-05-05,300.62
+P0001,Sofía Díaz,69,M,La Molina,Pediatría,2024-06-01,402.22
+P1466,María Gómez,15,F,Miraflores,Medicina General,2018-10-06,197.14
+P1467,Sofía Díaz,50,M,La Molina,Ginecología,2025-09-29,412.5
+P1468,Ana Torres,18,M,Miraflores,Ginecología,2023-09-23,0.0
+P1469,María Gómez,18,F,Callao,Medicina General,2021-06-15,438.66
+P0001,Sofía Díaz,69,M,Cajamarca,Cardiología,2023-02-17,362.98
+P1471,Luis Pérez,41,F,Miraflores,Ginecología,2019-12-05,307.49
+P1472,Sofía Díaz,17,M,Cajamarca,Ginecología,2019-02-06,335.18
+P1473,Sofía Díaz,3,F,San Isidro,Pediatría,2025-03-31,427.58
+P1474,Luis Pérez,48,F,La Molina,Odontología,2022-02-06,399.24
+P1475,Luis Pérez,68,M,Callao,Medicina General,2019-08-29,391.37
+P1476,Carlos Ruiz,15,F,Miraflores,Odontología,2021-04-08,130.89
+P1477,Luis Pérez,74,F,Cajamarca,Cardiología,2022-02-03,453.53
+P1478,Carlos Ruiz,61,M,Cajamarca,Cardiología,2023-10-24,72.93
+P1479,Sofía Díaz,52,F,Miraflores,Pediatría,2019-04-19,80.48
+P1480,María Gómez,90,M,La Molina,Odontología,2021-10-25,210.94
+P1481,Ana Torres,89,F,Surco,Odontología,2022-03-04,217.92
+P1482,Ana Torres,57,M,Miraflores,Odontología,2023-01-10,371.99
+P1483,Carlos Ruiz,84,M,La Molina,Cardiología,2018-12-02,180.81
+P1484,María Gómez,58,F,Surco,Odontología,2020-08-24,67.83
+P1485,Luis Pérez,53,ND,Miraflores,Ginecología,2025-08-22,192.51
+P1486,Ana Torres,24,M,Callao,Medicina General,2019-01-27,273.15
+P1487,Sofía Díaz,14,M,Callao,Odontología,2021-09-02,332.61
+P1488,Ana Torres,41,M,Surco,Odontología,2021-07-28,281.41
+P1489,Ana Torres,42,M,San Isidro,Odontología,2023-01-04,370.37
+P1490,Ana Torres,11,M,Cajamarca,Cardiología,2022-06-25,411.31
+P1491,María Gómez,12,F,La Molina,Cardiología,2020-05-21,288.15
+P1492,Ana Torres,49,M,Miraflores,Medicina General,2025-11-04,413.77
+P1493,Sofía Díaz,20,M,La Molina,Ginecología,2020-01-31,392.92
+P1494,María Gómez,47,F,San Isidro,Ginecología,2018-06-10,261.46
+P1495,Luis Pérez,71,F,Surco,Odontología,2018-05-17,67.19
+P1496,María Gómez,12,F,Surco,Ginecología,2024-08-25,317.74
+P1497,Sofía Díaz,82,M,La Molina,Medicina General,2022-08-12,406.03
+P1498,María Gómez,89,M,Surco,Odontología,2025-11-04,105.7
+P1499,María Gómez,54,M,Miraflores,Ginecología,2025-11-14,473.63
+P1500,Sofía Díaz,61,M,La Molina,Ginecología,2021-04-06,386.58
+P1501,Carlos Ruiz,47,F,Cajamarca,Cardiología,2021-07-04,387.3
+P1502,María Gómez,11,F,Cajamarca,Cardiología,2019-01-30,293.98
+P1503,María Gómez,5,M,La Molina,Medicina General,2021-03-04,239.57
+P1504,Luis Pérez,83,M,La Molina,Cardiología,2019-12-26,423.71
+P1505,Luis Pérez,54,ND,La Molina,Medicina General,2019-09-04,429.09
+P1506,Luis Pérez,42,F,Callao,Ginecología,2022-10-30,185.59
+P1507,SIN_NOMBRE,60,ND,San Isidro,Odontología,2021-07-20,349.23
+P1508,María Gómez,8,M,Miraflores,Ginecología,2019-03-08,278.82
+P1509,Luis Pérez,34,F,Miraflores,Cardiología,2025-03-17,203.06
+P1510,Carlos Ruiz,22,M,La Molina,Ginecología,2024-10-26,91.52
+P1511,Carlos Ruiz,17,F,Callao,Odontología,2019-12-23,146.59
+P1512,Sofía Díaz,21,F,San Isidro,Cardiología,2025-02-25,306.33
+P1513,Sofía Díaz,64,M,Miraflores,Odontología,2024-02-12,374.29
+P1514,Ana Torres,86,F,San Isidro,Medicina General,2025-07-11,392.72
+P1515,Sofía Díaz,28,F,Miraflores,Ginecología,2023-05-16,259.61
+P1516,Sofía Díaz,20,F,San Isidro,Medicina General,2025-11-01,409.31
+P1517,Ana Torres,72,F,San Isidro,Ginecología,2023-07-22,481.45
+P1518,Sofía Díaz,42,F,Cajamarca,Odontología,2022-04-02,331.07
+P1519,Sofía Díaz,37,M,Surco,Odontología,2019-03-01,233.42
+P1520,María Gómez,62,M,Callao,Odontología,2025-02-16,430.56
+P1521,Luis Pérez,46,F,San Isidro,Cardiología,2018-11-17,94.76
+P1522,Ana Torres,80,F,San Isidro,Cardiología,2019-06-08,496.13
+P1523,Ana Torres,15,M,Miraflores,Ginecología,2019-08-25,195.02
+P1524,Carlos Ruiz,18,M,Miraflores,Pediatría,2019-12-18,321.2
+P0001,Carlos Ruiz,47,M,La Molina,Ginecología,2019-05-15,239.94
+P1526,Ana Torres,9,M,Surco,Cardiología,2024-05-16,164.28
+P1527,Sofía Díaz,88,F,Callao,Cardiología,2024-05-02,263.72
+P1528,Carlos Ruiz,58,F,Miraflores,Odontología,2025-06-30,107.03
+P1529,Ana Torres,81,F,Miraflores,Pediatría,2018-08-20,270.52
+P1530,Ana Torres,5,M,Surco,Odontología,2025-05-27,116.73
+P1531,María Gómez,84,F,Cajamarca,Medicina General,2019-07-05,358.94
+P1532,Carlos Ruiz,28,F,La Molina,Medicina General,2024-08-30,224.09
+P1533,Ana Torres,7,F,San Isidro,Ginecología,2018-08-14,387.53
+P1534,Sofía Díaz,41,F,Callao,Cardiología,2021-06-01,0.0
+P1535,Luis Pérez,86,F,La Molina,Cardiología,2018-06-07,194.91
+P1536,María Gómez,59,F,La Molina,Ginecología,2021-02-07,202.1
+P1537,Carlos Ruiz,72,M,Cajamarca,Medicina General,2022-07-04,190.74
+P1538,SIN_NOMBRE,2,F,Cajamarca,Odontología,2024-02-01,445.39
+P1539,Sofía Díaz,72,F,San Isidro,Medicina General,2023-06-28,482.45
+P1540,Ana Torres,49,F,Surco,Ginecología,2018-07-20,384.76
+P1541,Sofía Díaz,80,F,Cajamarca,Ginecología,2020-01-09,244.26
+P1542,María Gómez,15,F,Surco,Medicina General,2021-12-02,140.94
+P1543,María Gómez,56,F,San Isidro,Cardiología,2022-10-21,274.05
+P1544,Sofía Díaz,15,M,La Molina,Odontología,2021-02-05,255.19
+P1545,Sofía Díaz,45,F,Cajamarca,Medicina General,2023-05-16,326.47
+P1546,María Gómez,27,F,Miraflores,Odontología,2023-12-10,167.62
+P1547,Ana Torres,45,M,La Molina,Medicina General,2020-02-20,410.33
+P1548,Carlos Ruiz,70,F,Callao,Odontología,2019-05-12,487.41
+P1549,Sofía Díaz,27,M,San Isidro,Pediatría,2019-03-23,438.66
+P1550,Sofía Díaz,12,F,San Isidro,Medicina General,2020-08-03,262.98
+P1551,Ana Torres,1,ND,Surco,Medicina General,2021-02-24,398.33
+P1552,Carlos Ruiz,52,M,Miraflores,Cardiología,2018-09-25,447.91
+P1553,María Gómez,41,F,Callao,Odontología,2018-04-10,447.91
+P1554,Carlos Ruiz,17,M,La Molina,Medicina General,2019-08-21,230.71
+P1555,Sofía Díaz,4,M,Miraflores,Odontología,2021-11-08,92.66
+P1556,Luis Pérez,32,M,Miraflores,Pediatría,2020-02-12,93.82
+P1557,María Gómez,60,ND,Miraflores,Odontología,2023-07-21,495.65
+P1558,Ana Torres,86,F,Callao,Ginecología,2022-10-03,193.75
+P1559,Ana Torres,10,F,Cajamarca,Medicina General,2019-04-19,384.88
+P1560,Luis Pérez,31,F,La Molina,Pediatría,2022-09-05,107.3
+P1561,María Gómez,82,F,Callao,Cardiología,2019-01-18,83.15
+P1562,Sofía Díaz,54,M,Cajamarca,Medicina General,2024-03-02,318.35
+P1563,Sofía Díaz,38,M,Callao,Ginecología,2019-04-01,411.53
+P1564,María Gómez,23,F,Surco,Cardiología,2022-12-02,349.55
+P1565,Carlos Ruiz,67,F,Callao,Ginecología,2022-02-22,52.06
+P1566,Carlos Ruiz,45,F,Miraflores,Medicina General,2019-12-30,488.43
+P1567,Ana Torres,67,F,San Isidro,Medicina General,2018-04-07,292.21
+P1568,Ana Torres,1,M,Callao,Medicina General,2020-05-23,104.93
+P1569,Carlos Ruiz,26,M,Miraflores,Odontología,2021-07-09,429.14
+P1570,Carlos Ruiz,13,M,San Isidro,Cardiología,2021-10-10,290.39
+P1571,Carlos Ruiz,35,M,La Molina,Pediatría,2019-06-17,83.47
+P1572,María Gómez,34,F,La Molina,Medicina General,2019-12-25,354.02
+P1573,Sofía Díaz,60,M,La Molina,Pediatría,2025-08-28,181.58
+P1574,Sofía Díaz,82,F,San Isidro,Cardiología,2018-08-17,440.53
+P1575,Ana Torres,48,M,Surco,Medicina General,2019-08-30,326.82
+P1576,Ana Torres,20,F,Callao,Odontología,2022-10-16,221.22
+P1577,Ana Torres,67,M,Cajamarca,Ginecología,2020-12-07,481.26
+P1578,Luis Pérez,81,M,Miraflores,Pediatría,2022-01-27,240.03
+P1579,María Gómez,12,F,San Isidro,Pediatría,2021-10-22,356.32
+P1580,Ana Torres,36,M,Callao,Pediatría,2018-06-19,224.9
+P1581,Ana Torres,57,M,Miraflores,Ginecología,2022-08-08,388.21
+P1582,Ana Torres,4,M,Miraflores,Medicina General,2019-10-20,82.75
+P1583,Luis Pérez,66,M,La Molina,Ginecología,2018-06-12,92.04
+P1584,María Gómez,17,M,Callao,Ginecología,2019-01-20,198.65
+P1585,Sofía Díaz,50,F,Cajamarca,Pediatría,2023-01-28,256.93
+P1586,Carlos Ruiz,54,F,Surco,Medicina General,2024-09-13,476.3
+P0001,Luis Pérez,81,M,San Isidro,Ginecología,2019-04-21,169.04
+P1588,Sofía Díaz,60,F,Cajamarca,Odontología,2018-04-07,334.33
+P1589,Luis Pérez,32,F,Surco,Cardiología,2019-08-20,63.77
+P1590,Carlos Ruiz,78,F,Callao,Pediatría,2019-11-07,156.94
+P1591,Carlos Ruiz,14,F,Callao,Pediatría,2021-04-07,256.46
+P1592,Sofía Díaz,87,M,La Molina,Odontología,2022-01-16,456.52
+P1593,Sofía Díaz,14,M,San Isidro,Pediatría,2020-03-21,455.6
+P1594,Luis Pérez,35,F,Callao,Pediatría,2023-04-06,52.66
+P1595,Ana Torres,87,F,Surco,Ginecología,2019-11-21,262.29
+P1596,María Gómez,79,M,Surco,Ginecología,2019-10-23,323.25
+P1597,Luis Pérez,35,F,La Molina,Pediatría,2019-01-20,101.73
+P1598,Sofía Díaz,24,F,La Molina,Odontología,2021-12-06,208.31
+P1599,Luis Pérez,74,F,San Isidro,Ginecología,2025-12-25,105.19
+P1600,Ana Torres,71,F,Cajamarca,Odontología,2023-08-29,215.48
+P1601,Luis Pérez,90,F,San Isidro,Odontología,2022-01-05,399.59
+P1602,Ana Torres,33,F,Callao,Ginecología,2021-07-23,302.07
+P1603,Sofía Díaz,25,M,San Isidro,Medicina General,2025-06-20,264.16
+P1604,María Gómez,85,M,La Molina,Ginecología,2022-03-26,79.56
+P1605,Ana Torres,11,M,San Isidro,Odontología,2025-11-22,376.22
+P1606,Ana Torres,3,F,Callao,Odontología,2021-04-22,436.95
+P1607,Carlos Ruiz,71,F,San Isidro,Ginecología,2021-11-05,294.02
+P1608,Sofía Díaz,26,F,Callao,Ginecología,2021-01-13,459.63
+P1609,María Gómez,15,F,La Molina,Pediatría,2021-02-15,146.34
+P1610,Carlos Ruiz,27,M,La Molina,Ginecología,2023-02-20,132.67
+P1611,Sofía Díaz,49,F,Cajamarca,Ginecología,2023-10-09,104.03
+P1612,Sofía Díaz,25,F,Surco,Pediatría,2022-04-06,0.0
+P1613,Carlos Ruiz,81,F,San Isidro,Ginecología,2018-01-16,267.17
+P1614,Sofía Díaz,5,F,Miraflores,Pediatría,2024-03-14,261.32
+P1615,Luis Pérez,16,M,Miraflores,Pediatría,2020-12-08,396.56
+P0001,Carlos Ruiz,68,F,Cajamarca,Cardiología,2020-12-05,144.69
+P1617,Luis Pérez,56,F,Surco,Cardiología,2018-11-01,408.48
+P1618,Carlos Ruiz,15,F,Miraflores,Odontología,2023-03-25,361.43
+P1619,Luis Pérez,2,M,San Isidro,Pediatría,2018-05-29,211.32
+P1620,Sofía Díaz,53,F,Surco,Odontología,2023-10-20,91.21
+P1621,Ana Torres,5,M,La Molina,Medicina General,2018-01-23,436.07
+P1622,Ana Torres,30,F,Surco,Medicina General,2018-05-07,355.38
+P1623,Luis Pérez,44,M,Callao,Pediatría,2022-09-22,469.2
+P1624,Sofía Díaz,63,M,Miraflores,Medicina General,2018-03-18,96.21
+P1625,Luis Pérez,52,F,San Isidro,Ginecología,2025-10-06,343.67
+P1626,Ana Torres,19,M,Miraflores,Medicina General,2019-05-25,110.25
+P1627,Ana Torres,78,F,La Molina,Pediatría,2018-04-28,467.68
+P1628,Carlos Ruiz,62,M,Miraflores,Pediatría,2018-01-12,272.41
+P1629,Sofía Díaz,34,F,La Molina,Medicina General,2024-10-29,406.03
+P1630,Carlos Ruiz,36,F,San Isidro,Medicina General,2023-11-24,72.68
+P1631,María Gómez,84,M,Surco,Pediatría,2025-10-01,370.79
+P1632,Sofía Díaz,56,M,Cajamarca,Cardiología,2025-09-25,498.15
+P1633,Ana Torres,18,ND,Callao,Pediatría,2021-05-24,337.98
+P1634,Luis Pérez,75,F,Surco,Pediatría,2020-07-16,415.55
+P1635,Ana Torres,26,F,San Isidro,Medicina General,2021-10-16,51.58
+P1636,Carlos Ruiz,33,M,Callao,Ginecología,2020-09-11,166.73
+P1637,Sofía Díaz,49,M,La Molina,Medicina General,2023-09-29,273.38
+P1638,Ana Torres,17,M,La Molina,Ginecología,2019-11-02,466.98
+P1639,Carlos Ruiz,68,F,La Molina,Odontología,2020-11-13,248.34
+P1640,María Gómez,24,F,Cajamarca,Ginecología,2020-11-27,339.93
+P1641,Carlos Ruiz,16,M,Miraflores,Pediatría,2025-08-02,394.16
+P1642,María Gómez,18,F,Cajamarca,Pediatría,2024-10-31,328.64
+P1643,Luis Pérez,8,M,Surco,Cardiología,2023-01-26,141.6
+P1644,María Gómez,3,F,Surco,Ginecología,2022-09-28,177.6
+P1645,Luis Pérez,12,M,San Isidro,Medicina General,2024-11-09,441.64
+P1646,María Gómez,10,M,Miraflores,Ginecología,2022-09-19,313.06
+P1647,María Gómez,60,M,Callao,Cardiología,2025-08-24,155.8
+P1648,Sofía Díaz,65,F,San Isidro,Cardiología,2023-12-18,276.83
+P1649,Sofía Díaz,23,M,San Isidro,Pediatría,2023-10-06,100.76
+P1650,Carlos Ruiz,51,M,Callao,Medicina General,2024-07-03,468.89
+P1651,Sofía Díaz,22,F,Callao,Cardiología,2023-10-19,476.51
+P1652,Luis Pérez,1,M,Surco,Cardiología,2019-10-17,180.83
+P1653,SIN_NOMBRE,90,M,Callao,Odontología,2021-06-09,465.77
+P1654,Carlos Ruiz,62,F,Callao,Odontología,2023-08-19,350.37
+P1655,Sofía Díaz,75,F,Miraflores,Cardiología,2025-12-03,167.23
+P1656,Ana Torres,34,M,Surco,Pediatría,2023-11-10,396.15
+P1657,María Gómez,12,F,Surco,Pediatría,2022-12-20,159.93
+P1658,Carlos Ruiz,70,M,Cajamarca,Medicina General,2025-12-09,114.54
+P1659,María Gómez,74,F,Callao,Odontología,2022-02-09,96.13
+P1660,Ana Torres,25,M,Surco,Odontología,2019-06-25,323.64
+P1661,Carlos Ruiz,15,F,Surco,Medicina General,2025-12-09,236.54
+P1662,Sofía Díaz,68,M,Surco,Ginecología,2023-05-21,202.17
+P1663,Ana Torres,37,M,Callao,Cardiología,2019-06-02,410.55
+P1664,María Gómez,81,M,San Isidro,Medicina General,2025-01-04,219.93
+P1665,María Gómez,80,M,Callao,Ginecología,2023-09-24,192.29
+P1666,Ana Torres,62,F,La Molina,Pediatría,2021-04-11,481.19
+P1667,Ana Torres,29,M,Callao,Pediatría,2023-03-31,66.04
+P1668,María Gómez,39,F,Callao,Cardiología,2019-12-17,495.9
+P1669,Ana Torres,89,M,Cajamarca,Medicina General,2019-01-26,339.11
+P1670,SIN_NOMBRE,89,M,La Molina,Ginecología,2023-08-25,204.98
+P1671,Ana Torres,1,F,Surco,Cardiología,2019-04-30,241.51
+P1672,Carlos Ruiz,28,F,Miraflores,Medicina General,2018-07-09,160.62
+P1673,María Gómez,59,F,Callao,Medicina General,2024-07-19,211.99
+P1674,María Gómez,54,F,Callao,Ginecología,2025-05-05,454.02
+P1675,Luis Pérez,52,M,Cajamarca,Pediatría,2023-01-28,398.65
+P1676,Carlos Ruiz,56,ND,Cajamarca,Odontología,2022-02-17,389.97
+P1677,Carlos Ruiz,18,ND,Miraflores,Ginecología,2020-01-11,417.28
+P1678,Luis Pérez,90,M,San Isidro,Ginecología,2024-06-01,321.94
+P1679,Luis Pérez,28,M,Surco,Medicina General,2024-06-09,269.9
+P1680,Ana Torres,65,F,Cajamarca,Odontología,2019-03-02,291.1
+P1681,María Gómez,57,F,Surco,Pediatría,2021-04-06,270.56
+P1682,Carlos Ruiz,7,M,Cajamarca,Pediatría,2023-04-27,219.41
+P1683,Carlos Ruiz,46,F,Surco,Medicina General,2025-05-30,53.55
+P1684,Sofía Díaz,87,F,Surco,Medicina General,2023-05-30,200.98
+P1685,María Gómez,14,M,Cajamarca,Odontología,2019-05-10,125.53
+P1686,Luis Pérez,8,F,Surco,Medicina General,2024-07-03,418.17
+P1687,Sofía Díaz,9,F,San Isidro,Medicina General,2020-10-16,345.36
+P1688,María Gómez,33,M,Cajamarca,Cardiología,2025-09-29,408.35
+P1689,Luis Pérez,74,M,La Molina,Ginecología,2023-02-23,497.85
+P1690,María Gómez,16,M,San Isidro,Odontología,2021-11-24,219.53
+P1691,María Gómez,25,F,Cajamarca,Cardiología,2023-04-10,115.18
+P1692,María Gómez,61,M,Callao,Odontología,2021-01-13,110.24
+P1693,María Gómez,81,M,Cajamarca,Cardiología,2018-01-22,334.58
+P1694,Carlos Ruiz,42,F,Miraflores,Odontología,2024-07-29,375.75
+P1695,Ana Torres,30,M,Callao,Ginecología,2022-05-14,284.42
+P1696,Sofía Díaz,35,F,Callao,Pediatría,2023-08-09,204.52
+P1697,María Gómez,53,F,Miraflores,Pediatría,2021-04-02,319.25
+P1698,Luis Pérez,31,M,Surco,Ginecología,2025-09-19,474.49
+P1699,Carlos Ruiz,38,F,San Isidro,Cardiología,2024-05-01,468.65
+P1700,Carlos Ruiz,90,M,Callao,Odontología,2022-06-17,439.7
+P1701,Sofía Díaz,72,F,Cajamarca,Odontología,2025-04-24,152.24
+P1702,Luis Pérez,30,F,San Isidro,Ginecología,2023-04-14,415.91
+P1703,Carlos Ruiz,63,M,La Molina,Cardiología,2019-05-24,422.91
+P1704,Ana Torres,61,F,Cajamarca,Pediatría,2025-07-07,442.8
+P1705,Ana Torres,24,F,Surco,Odontología,2021-11-19,192.29
+P1706,Sofía Díaz,2,F,Callao,Odontología,2020-07-26,484.88
+P1707,Carlos Ruiz,21,F,San Isidro,Odontología,2024-05-17,124.99
+P1708,María Gómez,68,M,Surco,Odontología,2018-01-23,250.4
+P1709,Luis Pérez,75,M,La Molina,Odontología,2018-04-28,457.07
+P1710,Carlos Ruiz,32,ND,Surco,Odontología,2018-03-18,125.62
+P1711,Carlos Ruiz,28,F,Miraflores,Cardiología,2018-11-02,54.34
+P1712,Ana Torres,56,F,San Isidro,Cardiología,2023-09-02,159.61
+P1713,Sofía Díaz,82,F,San Isidro,Medicina General,2024-07-30,193.57
+P1714,Sofía Díaz,85,F,Surco,Ginecología,2025-03-15,479.65
+P1715,Luis Pérez,0,M,La Molina,Medicina General,2018-04-20,235.46
+P1716,María Gómez,30,M,Miraflores,Medicina General,2025-03-12,331.99
+P1717,María Gómez,4,F,Surco,Ginecología,2025-11-11,440.09
+P1718,Sofía Díaz,81,F,San Isidro,Cardiología,2025-08-13,65.82
+P1719,Sofía Díaz,90,F,Callao,Cardiología,2021-08-26,72.09
+P1720,Luis Pérez,35,ND,La Molina,Medicina General,2019-06-05,223.58
+P1721,Ana Torres,78,F,Miraflores,Medicina General,2025-09-02,0.0
+P1722,Carlos Ruiz,59,M,Surco,Ginecología,2020-04-08,333.57
+P1723,Luis Pérez,50,F,Surco,Odontología,2024-10-21,316.96
+P1724,Sofía Díaz,35,F,Cajamarca,Medicina General,2024-03-31,189.77
+P1725,Sofía Díaz,90,F,Callao,Ginecología,2023-06-18,485.7
+P1726,Ana Torres,1,F,San Isidro,Pediatría,2022-01-08,351.87
+P1727,Ana Torres,54,F,San Isidro,Ginecología,2018-12-09,0.0
+P1728,María Gómez,57,F,Cajamarca,Ginecología,2021-08-02,260.21
+P1729,Sofía Díaz,66,F,Callao,Cardiología,2018-04-09,146.1
+P1730,María Gómez,8,M,Miraflores,Ginecología,2023-05-25,86.35
+P1731,Sofía Díaz,52,F,Cajamarca,Medicina General,2019-02-19,188.48
+P1732,Sofía Díaz,78,F,Miraflores,Pediatría,2019-11-21,149.2
+P1733,Ana Torres,27,F,Cajamarca,Pediatría,2024-09-01,132.1
+P1734,Ana Torres,42,M,Miraflores,Cardiología,2023-08-27,387.16
+P1735,Ana Torres,1,F,San Isidro,Pediatría,2025-02-23,152.92
+P1736,Sofía Díaz,41,M,La Molina,Pediatría,2022-06-30,251.35
+P1737,María Gómez,52,F,Callao,Pediatría,2021-01-27,469.94
+P1738,Carlos Ruiz,72,F,La Molina,Pediatría,2023-09-18,422.51
+P1739,Ana Torres,39,M,La Molina,Medicina General,2024-05-22,71.31
+P1740,Sofía Díaz,0,F,La Molina,Odontología,2019-07-09,353.93
+P1741,Ana Torres,33,F,La Molina,Medicina General,2023-03-20,416.18
+P1742,Carlos Ruiz,20,M,Miraflores,Ginecología,2021-10-15,426.74
+P1743,Carlos Ruiz,48,M,Surco,Odontología,2023-05-03,320.06
+P1744,Ana Torres,31,F,Callao,Cardiología,2025-12-11,71.79
+P1745,Carlos Ruiz,28,M,Cajamarca,Pediatría,2025-01-27,203.53
+P1746,Luis Pérez,2,M,La Molina,Ginecología,2018-04-09,490.21
+P1747,Carlos Ruiz,57,F,Surco,Medicina General,2019-08-09,68.2
+P1748,Luis Pérez,48,M,Cajamarca,Odontología,2018-07-10,107.23
+P1749,Ana Torres,13,M,Cajamarca,Pediatría,2019-08-20,459.25
+P1750,Sofía Díaz,78,M,La Molina,Odontología,2018-11-03,65.0
+P1751,Luis Pérez,10,F,Miraflores,Pediatría,2019-10-13,417.79
+P1752,Sofía Díaz,28,M,San Isidro,Medicina General,2024-04-05,431.21
+P1753,Carlos Ruiz,45,F,Cajamarca,Odontología,2020-05-31,241.87
+P1754,Ana Torres,13,M,San Isidro,Cardiología,2019-09-08,150.51
+P1755,Luis Pérez,6,M,San Isidro,Medicina General,2018-11-05,332.76
+P1756,María Gómez,55,M,Callao,Ginecología,2020-04-27,110.69
+P1757,Sofía Díaz,42,F,Miraflores,Odontología,2024-01-16,442.63
+P1758,Ana Torres,39,M,Surco,Cardiología,2022-07-09,357.35
+P1759,Ana Torres,82,F,Callao,Odontología,2024-04-14,201.16
+P1760,Luis Pérez,61,M,Cajamarca,Cardiología,2020-11-11,307.16
+P1761,Carlos Ruiz,37,M,Cajamarca,Odontología,2024-05-08,279.53
+P1762,María Gómez,55,M,Cajamarca,Pediatría,2024-04-09,230.66
+P1763,María Gómez,26,F,La Molina,Odontología,2018-03-07,309.68
+P1764,Sofía Díaz,17,F,San Isidro,Cardiología,2024-03-22,495.6
+P1765,Carlos Ruiz,68,M,Miraflores,Ginecología,2018-05-03,332.26
+P1766,Ana Torres,14,F,Surco,Ginecología,2019-07-13,369.04
+P1767,Sofía Díaz,54,F,Callao,Pediatría,2020-10-07,273.29
+P1768,Ana Torres,67,F,Surco,Medicina General,2025-09-12,399.58
+P1769,Sofía Díaz,0,M,Miraflores,Medicina General,2019-07-05,180.31
+P1770,Ana Torres,68,M,Callao,Pediatría,2024-08-16,106.23
+P1771,Carlos Ruiz,26,ND,Callao,Odontología,2019-01-18,450.39
+P1772,Carlos Ruiz,2,F,Callao,Ginecología,2022-10-15,241.79
+P1773,Sofía Díaz,45,M,Miraflores,Pediatría,2020-03-08,0.0
+P1774,Sofía Díaz,39,F,Surco,Odontología,2018-08-21,490.96
+P1775,María Gómez,60,M,La Molina,Cardiología,2024-12-08,482.46
+P1776,Sofía Díaz,49,M,Miraflores,Cardiología,2023-04-24,490.38
+P1777,Ana Torres,38,M,Cajamarca,Pediatría,2021-10-25,131.22
+P1778,Ana Torres,12,M,San Isidro,Ginecología,2025-12-30,60.56
+P1779,Ana Torres,65,F,Cajamarca,Cardiología,2024-09-21,190.47
+P1780,Ana Torres,29,M,Miraflores,Pediatría,2018-08-13,153.09
+P1781,Carlos Ruiz,14,M,La Molina,Cardiología,2025-02-27,324.63
+P1782,Luis Pérez,35,F,Callao,Odontología,2018-04-09,279.38
+P1783,Luis Pérez,85,M,Miraflores,Pediatría,2018-11-09,0.0
+P1784,Carlos Ruiz,72,M,Surco,Cardiología,2018-11-09,72.91
+P1785,Carlos Ruiz,70,M,San Isidro,Medicina General,2018-01-16,149.02
+P1786,Ana Torres,32,M,Miraflores,Medicina General,2018-12-31,53.52
+P1787,Carlos Ruiz,20,F,San Isidro,Ginecología,2022-03-30,465.06
+P0001,Carlos Ruiz,43,F,Surco,Cardiología,2025-01-28,318.79
+P1789,Carlos Ruiz,17,F,Cajamarca,Cardiología,2021-07-30,160.45
+P1790,María Gómez,7,M,Miraflores,Medicina General,2018-11-01,481.82
+P1791,Ana Torres,42,F,San Isidro,Pediatría,2020-02-01,495.14
+P1792,Ana Torres,63,F,La Molina,Odontología,2020-01-29,237.37
+P1793,Sofía Díaz,40,F,La Molina,Medicina General,2018-02-22,262.89
+P1794,María Gómez,59,F,Miraflores,Ginecología,2019-01-22,249.54
+P1795,María Gómez,90,F,Cajamarca,Pediatría,2022-03-08,366.51
+P1796,Luis Pérez,80,M,Callao,Ginecología,2024-06-08,277.43
+P1797,María Gómez,15,M,La Molina,Cardiología,2023-08-28,432.0
+P1798,María Gómez,52,M,Miraflores,Pediatría,2021-05-18,269.36
+P1799,Ana Torres,10,M,Callao,Ginecología,2019-01-04,383.23
+P1800,Ana Torres,24,M,Cajamarca,Pediatría,2025-08-25,488.71
+P1801,Luis Pérez,35,F,Surco,Medicina General,2022-08-20,306.69
+P1802,Sofía Díaz,34,F,Miraflores,Pediatría,2019-05-19,362.78
+P1803,María Gómez,0,M,Miraflores,Pediatría,2018-06-11,154.52
+P1804,María Gómez,80,M,La Molina,Medicina General,2024-10-20,385.19
+P1805,Carlos Ruiz,65,M,San Isidro,Ginecología,2024-04-09,448.51
+P1806,SIN_NOMBRE,47,F,Surco,Odontología,2023-09-08,375.17
+P1807,Luis Pérez,62,M,San Isidro,Pediatría,2020-09-26,71.79
+P1808,Sofía Díaz,72,F,Surco,Cardiología,2019-10-28,444.33
+P1809,Carlos Ruiz,29,F,La Molina,Odontología,2023-06-17,246.33
+P1810,Carlos Ruiz,17,F,Cajamarca,Pediatría,2023-01-15,191.83
+P1811,Carlos Ruiz,10,M,Miraflores,Odontología,2018-11-29,457.07
+P1812,María Gómez,3,M,Surco,Ginecología,2022-01-11,425.95
+P1813,Ana Torres,3,M,La Molina,Cardiología,2025-05-22,54.68
+P1814,Ana Torres,50,F,Cajamarca,Pediatría,2021-10-13,111.22
+P1815,María Gómez,63,M,La Molina,Ginecología,2018-01-07,306.58
+P1816,Luis Pérez,61,M,Cajamarca,Medicina General,2021-08-05,481.2
+P1817,María Gómez,15,M,San Isidro,Medicina General,2020-10-31,290.38
+P1818,Ana Torres,10,M,Surco,Odontología,2023-11-19,343.0
+P1819,Luis Pérez,67,F,Cajamarca,Cardiología,2024-02-19,75.32
+P1820,Sofía Díaz,90,F,Miraflores,Medicina General,2023-11-17,78.35
+P1821,Luis Pérez,33,M,Cajamarca,Cardiología,2021-12-08,101.99
+P1822,Sofía Díaz,2,M,La Molina,Pediatría,2018-01-26,183.31
+P1823,María Gómez,80,M,Miraflores,Cardiología,2018-11-08,295.62
+P1824,Luis Pérez,56,F,Cajamarca,Cardiología,2018-07-15,464.12
+P1825,Ana Torres,39,M,Cajamarca,Medicina General,2020-10-24,86.0
+P1826,Luis Pérez,49,F,Miraflores,Medicina General,2024-09-10,438.86
+P1827,SIN_NOMBRE,43,M,Cajamarca,Cardiología,2019-09-26,295.9
+P1828,Ana Torres,55,M,San Isidro,Medicina General,2023-06-01,439.52
+P1829,Carlos Ruiz,40,M,La Molina,Cardiología,2019-02-25,241.13
+P1830,Luis Pérez,69,F,Miraflores,Medicina General,2018-05-11,369.34
+P1831,Sofía Díaz,87,M,Surco,Cardiología,2025-05-17,388.05
+P1832,Carlos Ruiz,2,M,Cajamarca,Odontología,2021-05-27,179.94
+P1833,Luis Pérez,6,F,San Isidro,Pediatría,2022-07-28,359.45
+P1834,Luis Pérez,73,M,Callao,Pediatría,2019-12-09,218.09
+P1835,Carlos Ruiz,59,M,Cajamarca,Pediatría,2019-04-26,429.15
+P1836,Ana Torres,47,F,San Isidro,Cardiología,2018-08-22,105.95
+P1837,Carlos Ruiz,90,F,Miraflores,Cardiología,2022-11-24,419.16
+P1838,Carlos Ruiz,6,F,La Molina,Cardiología,2020-04-13,363.63
+P1839,Sofía Díaz,87,F,Surco,Cardiología,2019-03-06,446.79
+P1840,Luis Pérez,85,M,La Molina,Pediatría,2020-11-08,86.75
+P1841,Sofía Díaz,66,M,Callao,Odontología,2019-06-23,482.49
+P1842,María Gómez,19,M,Callao,Pediatría,2020-06-21,176.91
+P1843,SIN_NOMBRE,24,M,San Isidro,Ginecología,2025-04-20,364.54
+P1844,Sofía Díaz,11,M,Callao,Ginecología,2020-10-01,447.11
+P1845,María Gómez,3,F,Cajamarca,Odontología,2025-09-05,401.66
+P1846,Luis Pérez,13,F,Cajamarca,Pediatría,2019-08-09,365.32
+P1847,Carlos Ruiz,24,F,La Molina,Ginecología,2020-07-20,247.59
+P0001,Luis Pérez,10,F,Surco,Medicina General,2023-08-20,291.84
+P1849,Ana Torres,7,M,Cajamarca,Medicina General,2023-02-23,99.39
+P1850,María Gómez,4,M,Surco,Odontología,2019-03-30,487.5
+P1851,Carlos Ruiz,55,M,Cajamarca,Pediatría,2022-05-21,221.79
+P1852,Sofía Díaz,59,F,La Molina,Medicina General,2024-01-13,252.33
+P1853,Luis Pérez,52,M,San Isidro,Cardiología,2020-04-12,488.8
+P1854,Sofía Díaz,6,F,San Isidro,Medicina General,2019-01-13,268.69
+P1855,Luis Pérez,1,M,La Molina,Ginecología,2019-02-06,470.75
+P1856,Luis Pérez,65,F,San Isidro,Medicina General,2021-07-13,327.93
+P1857,Luis Pérez,87,M,Miraflores,Medicina General,2021-11-01,0.0
+P1858,Ana Torres,52,F,Surco,Medicina General,2018-04-11,202.63
+P1859,Luis Pérez,58,F,La Molina,Odontología,2023-06-24,332.69
+P1860,Sofía Díaz,53,M,La Molina,Medicina General,2025-11-18,347.96
+P1861,Carlos Ruiz,28,F,Surco,Odontología,2022-04-11,100.69
+P1862,María Gómez,33,F,Callao,Medicina General,2024-10-29,86.97
+P1863,Ana Torres,14,M,La Molina,Odontología,2023-03-13,356.89
+P1864,Sofía Díaz,6,F,Surco,Cardiología,2020-02-24,238.7
+P1865,María Gómez,49,M,Surco,Ginecología,2019-12-19,315.29
+P1866,María Gómez,79,M,Miraflores,Pediatría,2019-10-24,246.52
+P1867,Carlos Ruiz,16,ND,Miraflores,Medicina General,2021-11-12,355.93
+P1868,Luis Pérez,9,M,Surco,Medicina General,2022-01-12,448.07
+P1869,Luis Pérez,67,F,Cajamarca,Ginecología,2023-11-04,398.68
+P1870,Luis Pérez,36,M,Miraflores,Pediatría,2020-06-07,223.98
+P1871,Sofía Díaz,0,F,San Isidro,Pediatría,2024-04-04,163.92
+P1872,Sofía Díaz,5,M,Miraflores,Cardiología,2020-01-09,453.44
+P1873,Sofía Díaz,53,M,Callao,Medicina General,2022-11-06,140.19
+P1874,Sofía Díaz,40,M,San Isidro,Cardiología,2019-04-27,213.55
+P1875,Ana Torres,38,M,La Molina,Ginecología,2019-10-25,404.71
+P1876,Ana Torres,29,M,Miraflores,Medicina General,2018-09-27,105.32
+P1877,Carlos Ruiz,81,M,Callao,Odontología,2019-12-27,457.1
+P1878,Luis Pérez,3,F,Callao,Odontología,2025-08-29,397.7
+P1879,Ana Torres,82,F,Miraflores,Ginecología,2019-04-18,90.11
+P1880,María Gómez,83,M,Surco,Odontología,2019-03-30,0.0
+P1881,Sofía Díaz,69,F,Cajamarca,Odontología,2018-06-27,147.45
+P1882,Carlos Ruiz,81,M,Miraflores,Ginecología,2019-11-05,100.95
+P1883,Ana Torres,76,F,Miraflores,Cardiología,2021-01-18,268.19
+P1884,María Gómez,7,F,Surco,Odontología,2025-04-03,271.52
+P1885,Sofía Díaz,74,F,La Molina,Pediatría,2024-10-07,50.01
+P1886,María Gómez,24,F,La Molina,Medicina General,2024-10-02,374.07
+P1887,Carlos Ruiz,22,F,Miraflores,Cardiología,2020-12-02,394.83
+P1888,Ana Torres,33,M,La Molina,Ginecología,2018-07-05,309.56
+P1889,Ana Torres,76,M,Cajamarca,Cardiología,2020-01-02,231.91
+P1890,Luis Pérez,66,F,Cajamarca,Odontología,2019-05-30,133.89
+P1891,Ana Torres,6,M,Callao,Odontología,2020-08-05,99.35
+P1892,Sofía Díaz,18,ND,Callao,Pediatría,2025-06-07,352.87
+P1893,Carlos Ruiz,58,F,San Isidro,Pediatría,2020-06-17,54.7
+P1894,Luis Pérez,38,F,Callao,Medicina General,2024-12-08,229.97
+P1895,Luis Pérez,34,F,Cajamarca,Ginecología,2024-12-14,356.83
+P1896,Carlos Ruiz,61,F,Cajamarca,Pediatría,2024-12-16,285.42
+P1897,Carlos Ruiz,79,F,Miraflores,Cardiología,2022-11-10,415.78
+P1898,María Gómez,60,F,Cajamarca,Medicina General,2022-08-09,237.83
+P1899,Sofía Díaz,28,M,Miraflores,Odontología,2022-10-21,337.17
+P1900,Carlos Ruiz,16,F,Miraflores,Cardiología,2019-09-23,252.77
+P1901,Ana Torres,55,M,Miraflores,Medicina General,2019-04-15,358.6
+P1902,Luis Pérez,4,F,San Isidro,Pediatría,2024-02-29,301.98
+P1903,Carlos Ruiz,1,M,La Molina,Cardiología,2020-10-14,205.08
+P1904,María Gómez,37,F,La Molina,Cardiología,2025-12-10,496.62
+P1905,Carlos Ruiz,0,F,Cajamarca,Medicina General,2020-06-14,402.23
+P1906,SIN_NOMBRE,4,ND,Miraflores,Cardiología,2021-09-20,355.49
+P1907,María Gómez,56,M,Callao,Cardiología,2018-12-18,439.64
+P1908,Sofía Díaz,86,F,La Molina,Pediatría,2020-06-12,241.17
+P1909,Sofía Díaz,82,F,Surco,Pediatría,2020-04-06,346.72
+P1910,Luis Pérez,37,F,La Molina,Odontología,2020-10-14,475.42
+P1911,Carlos Ruiz,6,M,Surco,Odontología,2018-08-03,319.65
+P1912,Carlos Ruiz,12,F,La Molina,Ginecología,2025-10-06,122.38
+P1913,Luis Pérez,29,M,La Molina,Pediatría,2024-07-13,152.85
+P1914,Luis Pérez,81,M,San Isidro,Odontología,2020-03-29,167.03
+P1915,Carlos Ruiz,70,M,San Isidro,Odontología,2021-02-14,404.21
+P1916,Sofía Díaz,9,M,Callao,Pediatría,2023-10-25,481.66
+P1917,María Gómez,0,M,Miraflores,Medicina General,2020-03-16,143.37
+P1918,Ana Torres,5,M,San Isidro,Medicina General,2018-09-12,374.8
+P1919,Ana Torres,78,F,La Molina,Medicina General,2020-03-28,292.27
+P1920,Ana Torres,89,ND,Miraflores,Odontología,2021-05-21,52.83
+P1921,María Gómez,20,F,Surco,Cardiología,2021-01-22,107.37
+P1922,Ana Torres,44,M,Callao,Cardiología,2021-12-25,111.75
+P1923,Ana Torres,45,F,Surco,Cardiología,2018-07-20,319.63
+P1924,Carlos Ruiz,90,M,La Molina,Ginecología,2019-04-13,499.95
+P1925,Luis Pérez,83,M,Cajamarca,Medicina General,2021-12-14,87.71
+P1926,Luis Pérez,40,M,La Molina,Ginecología,2019-05-12,119.24
+P1927,Sofía Díaz,1,M,Cajamarca,Odontología,2024-03-13,352.34
+P1928,María Gómez,16,M,Cajamarca,Ginecología,2018-09-16,235.15
+P1929,María Gómez,24,F,La Molina,Pediatría,2024-12-02,283.95
+P1930,Ana Torres,83,F,Miraflores,Pediatría,2025-09-12,337.95
+P1931,Carlos Ruiz,52,M,San Isidro,Ginecología,2019-10-15,382.91
+P1932,María Gómez,42,M,San Isidro,Ginecología,2020-10-08,191.88
+P1933,Carlos Ruiz,61,ND,Miraflores,Pediatría,2019-12-21,317.88
+P1934,Luis Pérez,39,F,Miraflores,Cardiología,2020-10-28,364.56
+P1935,Luis Pérez,44,M,La Molina,Pediatría,2025-11-26,168.37
+P1936,Luis Pérez,85,M,Miraflores,Odontología,2019-07-08,202.7
+P1937,Carlos Ruiz,7,F,Callao,Odontología,2019-01-06,399.75
+P1938,María Gómez,7,M,Surco,Medicina General,2020-04-07,375.58
+P1939,María Gómez,73,M,Miraflores,Odontología,2019-08-16,430.78
+P1940,Ana Torres,75,M,Cajamarca,Odontología,2023-02-18,105.14
+P1941,Luis Pérez,14,F,Miraflores,Cardiología,2023-03-02,132.74
+P1942,Sofía Díaz,29,M,Cajamarca,Ginecología,2018-12-08,379.89
+P1943,SIN_NOMBRE,51,F,Cajamarca,Cardiología,2020-02-25,437.82
+P1944,Sofía Díaz,72,F,Surco,Cardiología,2020-02-14,316.76
+P1945,Ana Torres,14,M,Callao,Medicina General,2018-07-25,469.06
+P1946,Sofía Díaz,20,M,La Molina,Pediatría,2018-06-16,488.21
+P1947,Luis Pérez,43,F,Miraflores,Cardiología,2023-06-05,218.15
+P1948,Sofía Díaz,43,M,San Isidro,Ginecología,2021-01-05,211.28
+P1949,Ana Torres,66,M,Cajamarca,Medicina General,2021-04-22,225.73
+P1950,Carlos Ruiz,64,F,La Molina,Pediatría,2020-08-24,53.06
+P1951,Sofía Díaz,82,F,Surco,Ginecología,2025-05-05,408.13
+P1952,Sofía Díaz,74,F,Cajamarca,Odontología,2023-05-29,480.96
+P1953,Luis Pérez,69,F,San Isidro,Ginecología,2023-10-08,241.17
+P1954,María Gómez,6,F,Miraflores,Ginecología,2018-08-19,364.36
+P1955,María Gómez,88,M,Miraflores,Medicina General,2019-12-12,90.33
+P1956,Ana Torres,38,F,Miraflores,Pediatría,2021-09-14,221.22
+P1957,Sofía Díaz,75,M,Cajamarca,Pediatría,2022-11-09,450.07
+P1958,Sofía Díaz,65,M,La Molina,Ginecología,2024-08-15,263.38
+P1959,María Gómez,38,M,Callao,Medicina General,2025-10-06,340.87
+P1960,Luis Pérez,45,F,La Molina,Medicina General,2020-10-03,388.56
+P1961,Sofía Díaz,61,M,Cajamarca,Medicina General,2024-08-24,462.74
+P1962,Carlos Ruiz,57,F,San Isidro,Odontología,2020-04-02,462.05
+P1963,Ana Torres,15,F,Cajamarca,Ginecología,2023-02-08,429.77
+P1964,Luis Pérez,66,F,Callao,Ginecología,2024-08-31,70.24
+P1965,SIN_NOMBRE,38,F,Miraflores,Odontología,2025-05-31,173.86
+P1966,Carlos Ruiz,55,F,Callao,Odontología,2022-09-06,354.96
+P1967,SIN_NOMBRE,18,M,San Isidro,Pediatría,2023-11-02,291.1
+P1968,Sofía Díaz,57,ND,Miraflores,Ginecología,2022-04-25,98.61
+P1969,Luis Pérez,64,M,Cajamarca,Odontología,2024-04-23,124.19
+P1970,Luis Pérez,38,F,La Molina,Odontología,2019-11-21,252.8
+P1971,Carlos Ruiz,73,M,La Molina,Pediatría,2021-01-19,253.33
+P1972,Luis Pérez,15,F,Surco,Cardiología,2018-02-17,156.63
+P1973,Luis Pérez,67,F,Callao,Odontología,2023-05-02,59.99
+P1974,Ana Torres,1,F,La Molina,Pediatría,2023-09-19,475.6
+P1975,Sofía Díaz,51,M,Cajamarca,Pediatría,2020-06-03,323.03
+P1976,María Gómez,83,M,San Isidro,Odontología,2019-11-26,82.39
+P1977,Luis Pérez,32,F,Miraflores,Cardiología,2022-02-13,292.69
+P1978,Luis Pérez,23,F,Surco,Odontología,2025-06-16,152.66
+P1979,Sofía Díaz,9,F,La Molina,Pediatría,2025-09-17,262.64
+P1980,Ana Torres,34,F,Miraflores,Cardiología,2021-03-14,392.08
+P1981,SIN_NOMBRE,48,M,Callao,Cardiología,2019-01-25,373.06
+P1982,Carlos Ruiz,69,M,San Isidro,Cardiología,2020-09-08,127.18
+P1983,Ana Torres,74,M,La Molina,Ginecología,2022-01-29,104.93
+P1984,Carlos Ruiz,66,M,Cajamarca,Ginecología,2019-03-26,328.14
+P1985,María Gómez,38,M,Cajamarca,Medicina General,2025-01-19,380.83
+P1986,Sofía Díaz,23,M,Callao,Medicina General,2020-04-18,359.01
+P1987,Carlos Ruiz,26,ND,Cajamarca,Pediatría,2021-11-06,325.56
+P1988,Sofía Díaz,47,F,Callao,Cardiología,2020-03-26,370.25
+P1989,Sofía Díaz,44,M,Cajamarca,Pediatría,2018-06-26,217.39
+P1990,María Gómez,50,F,Callao,Ginecología,2019-07-22,187.56
+P1991,Sofía Díaz,9,M,Surco,Medicina General,2021-06-16,306.51
+P1992,Ana Torres,78,M,Surco,Pediatría,2018-03-23,333.39
+P1993,Ana Torres,9,F,San Isidro,Ginecología,2022-01-05,286.6
+P1994,María Gómez,33,M,Miraflores,Odontología,2022-05-12,351.91
+P1995,Carlos Ruiz,61,M,Surco,Cardiología,2020-12-02,406.45
+P1996,María Gómez,56,M,San Isidro,Medicina General,2020-11-22,432.58
+P1997,Carlos Ruiz,24,M,La Molina,Pediatría,2024-09-22,0.0
+P1998,Sofía Díaz,11,F,Callao,Ginecología,2025-03-30,425.65
+P1999,Ana Torres,66,M,Cajamarca,Ginecología,2019-09-27,381.56
+P2000,Luis Pérez,64,F,Cajamarca,Pediatría,2025-05-12,107.57
+P2001,Luis Pérez,52,F,San Isidro,Ginecología,2025-10-22,433.47
+P2002,Sofía Díaz,47,F,Miraflores,Cardiología,2023-01-20,233.22
+P2003,Ana Torres,80,M,Cajamarca,Pediatría,2019-05-28,210.63
+P2004,Luis Pérez,40,F,Surco,Odontología,2024-06-15,203.12
+P2005,Luis Pérez,25,M,Cajamarca,Cardiología,2024-11-15,157.72
+P2006,Luis Pérez,48,M,Surco,Pediatría,2019-03-20,68.5
+P2007,Luis Pérez,90,M,Surco,Medicina General,2020-02-18,0.0
+P2008,Luis Pérez,73,M,Surco,Odontología,2023-09-18,100.36
+P2009,Ana Torres,23,M,Miraflores,Cardiología,2025-03-17,217.78
+P2010,María Gómez,8,M,Callao,Pediatría,2021-05-28,428.92
+P2011,Luis Pérez,6,F,San Isidro,Pediatría,2018-09-29,102.05
+P2012,Ana Torres,59,M,La Molina,Medicina General,2025-10-16,478.84
+P0001,María Gómez,64,F,Callao,Odontología,2023-06-05,354.6
+P2014,Carlos Ruiz,42,F,Miraflores,Odontología,2020-04-11,246.19
+P2015,María Gómez,75,F,Miraflores,Medicina General,2020-08-19,364.25
+P2016,Luis Pérez,37,F,Surco,Odontología,2024-05-18,402.53
+P2017,María Gómez,68,F,San Isidro,Odontología,2025-07-29,209.84
+P2018,Ana Torres,60,M,San Isidro,Medicina General,2022-06-12,334.12
+P2019,Carlos Ruiz,70,M,San Isidro,Ginecología,2023-05-18,403.92
+P2020,Sofía Díaz,67,F,Callao,Pediatría,2022-09-24,489.5
+P2021,María Gómez,9,M,Surco,Ginecología,2021-06-06,358.48
+P2022,Sofía Díaz,36,F,La Molina,Cardiología,2019-08-26,96.49
+P2023,Carlos Ruiz,37,F,Miraflores,Odontología,2020-12-29,420.45
+P2024,Ana Torres,37,F,Surco,Medicina General,2024-07-05,183.74
+P2025,SIN_NOMBRE,14,F,Callao,Cardiología,2022-05-17,492.22
+P2026,Luis Pérez,77,F,San Isidro,Medicina General,2018-01-08,87.16
+P2027,Ana Torres,5,F,San Isidro,Odontología,2023-01-08,321.27
+P2028,Luis Pérez,80,F,Miraflores,Cardiología,2019-07-20,363.31
+P2029,María Gómez,11,F,La Molina,Ginecología,2020-12-21,280.89
+P2030,María Gómez,34,F,San Isidro,Odontología,2023-01-17,80.72
+P2031,Carlos Ruiz,66,M,La Molina,Ginecología,2024-09-23,167.55
+P2032,Sofía Díaz,17,F,Miraflores,Medicina General,2020-02-23,57.87
+P2033,Carlos Ruiz,68,M,Surco,Cardiología,2019-09-05,247.2
+P2034,María Gómez,49,F,Cajamarca,Pediatría,2024-12-01,420.77
+P2035,Sofía Díaz,60,ND,Cajamarca,Ginecología,2025-09-03,282.66
+P2036,SIN_NOMBRE,75,M,La Molina,Cardiología,2019-03-31,474.77
+P2037,SIN_NOMBRE,11,M,Callao,Odontología,2021-07-05,344.01
+P2038,Ana Torres,11,M,Cajamarca,Ginecología,2019-07-15,431.39
+P2039,Ana Torres,83,M,Surco,Odontología,2024-07-30,398.6
+P2040,Ana Torres,44,M,Cajamarca,Ginecología,2021-02-13,236.12
+P2041,María Gómez,1,F,Miraflores,Medicina General,2022-08-24,415.25
+P2042,Carlos Ruiz,33,F,La Molina,Ginecología,2021-11-11,450.15
+P2043,Luis Pérez,12,ND,Miraflores,Pediatría,2023-01-12,63.99
+P2044,María Gómez,43,M,La Molina,Pediatría,2023-08-02,215.1
+P2045,SIN_NOMBRE,88,M,La Molina,Cardiología,2022-09-15,378.38
+P2046,María Gómez,88,F,Callao,Ginecología,2020-12-20,194.72
+P2047,María Gómez,82,M,San Isidro,Medicina General,2024-03-16,464.71
+P2048,Carlos Ruiz,26,M,Miraflores,Pediatría,2020-12-18,406.35
+P2049,Ana Torres,66,F,La Molina,Cardiología,2019-12-04,387.63
+P2050,María Gómez,62,M,Cajamarca,Odontología,2020-10-21,388.37
+P2051,Sofía Díaz,89,M,La Molina,Cardiología,2018-05-11,74.49
+P2052,Luis Pérez,88,F,San Isidro,Odontología,2018-12-10,498.64
+P2053,Luis Pérez,43,F,Callao,Odontología,2022-07-12,71.24
+P2054,Carlos Ruiz,28,F,La Molina,Cardiología,2022-03-28,441.06
+P2055,Luis Pérez,65,F,La Molina,Odontología,2024-05-03,394.35
+P2056,Sofía Díaz,38,M,San Isidro,Ginecología,2021-09-04,378.92
+P2057,Sofía Díaz,4,M,La Molina,Odontología,2020-08-03,349.7
+P2058,Sofía Díaz,71,M,Callao,Medicina General,2023-07-03,290.03
+P2059,Sofía Díaz,71,M,Cajamarca,Medicina General,2019-09-01,480.88
+P2060,Luis Pérez,35,M,Miraflores,Medicina General,2024-12-05,327.02
+P2061,Carlos Ruiz,81,M,Surco,Odontología,2019-12-06,325.3
+P2062,Luis Pérez,59,F,Cajamarca,Ginecología,2018-01-17,110.02
+P2063,Luis Pérez,35,F,Callao,Cardiología,2018-03-20,132.48
+P2064,Ana Torres,60,M,Miraflores,Ginecología,2022-05-14,457.76
+P2065,Sofía Díaz,36,M,Cajamarca,Pediatría,2025-07-12,475.24
+P2066,Luis Pérez,69,M,Callao,Odontología,2025-03-14,350.16
+P2067,Carlos Ruiz,62,F,La Molina,Pediatría,2019-09-08,161.16
+P2068,Luis Pérez,1,M,Callao,Odontología,2021-01-16,468.95
+P2069,Sofía Díaz,61,M,La Molina,Medicina General,2025-01-15,469.26
+P2070,Ana Torres,70,M,Cajamarca,Medicina General,2019-09-28,224.14
+P2071,Luis Pérez,54,M,Cajamarca,Pediatría,2024-05-18,141.5
+P2072,Sofía Díaz,50,M,Callao,Medicina General,2021-10-23,416.73
+P2073,Luis Pérez,36,M,Surco,Medicina General,2025-11-10,395.17
+P2074,Sofía Díaz,37,F,Surco,Ginecología,2024-01-10,115.56
+P2075,Carlos Ruiz,88,F,Callao,Cardiología,2022-01-01,186.51
+P2076,María Gómez,21,F,La Molina,Pediatría,2022-12-21,220.39
+P2077,Sofía Díaz,21,M,Callao,Ginecología,2019-03-03,111.44
+P2078,Ana Torres,35,F,Surco,Ginecología,2021-10-20,90.13
+P2079,Sofía Díaz,53,F,San Isidro,Cardiología,2020-01-16,98.25
+P2080,Carlos Ruiz,43,F,Callao,Ginecología,2020-10-23,53.68
+P2081,María Gómez,25,F,San Isidro,Pediatría,2020-12-25,140.16
+P2082,María Gómez,72,F,Surco,Medicina General,2024-10-22,180.19
+P2083,María Gómez,6,F,Cajamarca,Cardiología,2018-04-04,51.47
+P2084,María Gómez,73,F,Miraflores,Pediatría,2022-02-02,218.8
+P2085,María Gómez,39,M,Callao,Odontología,2022-06-06,374.97
+P2086,Sofía Díaz,55,M,Callao,Medicina General,2023-11-24,117.05
+P2087,Ana Torres,35,M,Callao,Medicina General,2022-08-24,455.5
+P2088,María Gómez,80,ND,Cajamarca,Odontología,2023-01-19,138.68
+P2089,Carlos Ruiz,67,M,Surco,Medicina General,2025-01-04,498.48
+P2090,Sofía Díaz,54,M,Surco,Ginecología,2024-01-25,261.56
+P2091,Carlos Ruiz,74,M,Surco,Ginecología,2018-11-18,427.67
+P2092,Sofía Díaz,32,F,San Isidro,Medicina General,2024-04-16,417.56
+P2093,Luis Pérez,36,F,La Molina,Cardiología,2020-03-08,480.11
+P2094,Luis Pérez,28,F,Cajamarca,Medicina General,2023-08-15,401.62
+P2095,Carlos Ruiz,12,F,Miraflores,Ginecología,2022-12-13,326.27
+P2096,Carlos Ruiz,64,M,Miraflores,Pediatría,2023-05-23,130.68
+P2097,Sofía Díaz,86,F,La Molina,Odontología,2020-03-09,81.77
+P2098,Carlos Ruiz,3,F,Cajamarca,Medicina General,2021-10-08,133.73
+P2099,Sofía Díaz,4,M,Surco,Odontología,2018-12-08,285.89
+P2100,Ana Torres,86,F,La Molina,Ginecología,2024-06-27,478.01
+P2101,María Gómez,40,M,La Molina,Ginecología,2023-05-22,286.89
+P2102,Carlos Ruiz,77,M,Cajamarca,Ginecología,2024-02-26,387.74
+P2103,Luis Pérez,25,M,La Molina,Medicina General,2023-09-08,120.47
+P2104,Ana Torres,57,F,Cajamarca,Cardiología,2022-07-09,131.24
+P2105,Carlos Ruiz,18,M,Surco,Ginecología,2018-09-26,321.26
+P2106,Ana Torres,40,M,Surco,Pediatría,2020-07-12,359.23
+P2107,Sofía Díaz,43,M,Callao,Pediatría,2023-12-15,479.42
+P2108,Luis Pérez,50,M,Callao,Medicina General,2021-10-27,228.67
+P2109,María Gómez,1,M,La Molina,Ginecología,2018-11-30,339.89
+P2110,Sofía Díaz,74,M,La Molina,Odontología,2023-06-28,418.66
+P2111,María Gómez,81,M,Surco,Medicina General,2018-04-12,315.93
+P0001,María Gómez,71,F,Surco,Ginecología,2021-04-02,411.13
+P2113,Carlos Ruiz,36,F,Callao,Cardiología,2020-03-08,439.77
+P2114,María Gómez,6,F,La Molina,Cardiología,2020-02-20,393.6
+P2115,Sofía Díaz,88,F,Miraflores,Odontología,2023-06-17,191.57
+P2116,María Gómez,70,M,Miraflores,Cardiología,2021-07-17,198.42
+P2117,Ana Torres,47,F,Callao,Odontología,2025-03-16,356.64
+P2118,Luis Pérez,40,M,Miraflores,Cardiología,2018-05-16,56.71
+P2119,Carlos Ruiz,12,M,Cajamarca,Ginecología,2021-08-11,91.93
+P2120,Ana Torres,0,F,Miraflores,Cardiología,2024-11-09,448.76
+P2121,SIN_NOMBRE,8,M,Callao,Odontología,2023-04-23,489.8
+P2122,Sofía Díaz,22,F,Cajamarca,Medicina General,2024-07-12,461.02
+P2123,Luis Pérez,79,F,Surco,Cardiología,2020-12-14,295.11
+P2124,Luis Pérez,79,F,La Molina,Pediatría,2021-01-04,61.87
+P2125,Sofía Díaz,6,F,Miraflores,Pediatría,2018-06-16,79.1
+P2126,María Gómez,60,F,La Molina,Cardiología,2018-08-26,141.7
+P2127,Ana Torres,75,F,San Isidro,Odontología,2022-02-04,436.86
+P2128,María Gómez,35,M,Miraflores,Cardiología,2020-02-14,250.84
+P2129,Ana Torres,17,M,San Isidro,Ginecología,2021-04-08,327.16
+P2130,Luis Pérez,90,F,Miraflores,Cardiología,2020-04-01,222.47
+P2131,Ana Torres,55,M,Miraflores,Odontología,2021-12-04,457.05
+P2132,Sofía Díaz,19,F,Callao,Medicina General,2022-04-19,262.89
+P2133,María Gómez,79,M,Callao,Odontología,2021-06-16,101.81
+P2134,Luis Pérez,12,M,Miraflores,Medicina General,2024-03-13,458.39
+P2135,Carlos Ruiz,47,ND,La Molina,Cardiología,2020-03-12,136.03
+P2136,María Gómez,85,M,Miraflores,Odontología,2022-07-22,234.61
+P2137,Carlos Ruiz,18,F,Callao,Odontología,2022-10-02,123.58
+P2138,Carlos Ruiz,2,F,Callao,Cardiología,2020-07-17,396.71
+P2139,Sofía Díaz,70,F,Miraflores,Ginecología,2018-03-06,444.08
+P2140,Luis Pérez,1,F,Surco,Cardiología,2019-10-08,319.52
+P2141,María Gómez,27,F,Surco,Pediatría,2019-07-14,411.0
+P2142,Carlos Ruiz,87,M,La Molina,Pediatría,2024-06-04,115.24
+P2143,SIN_NOMBRE,33,F,Callao,Odontología,2018-11-29,75.98
+P2144,Ana Torres,25,F,San Isidro,Ginecología,2025-09-21,268.75
+P2145,María Gómez,88,F,Callao,Pediatría,2024-09-15,194.12
+P2146,María Gómez,53,M,Surco,Cardiología,2021-06-09,439.17
+P2147,Carlos Ruiz,56,M,La Molina,Pediatría,2022-03-11,304.76
+P2148,Ana Torres,12,F,San Isidro,Pediatría,2018-04-02,310.29
+P2149,Luis Pérez,32,M,Surco,Ginecología,2019-09-01,338.38
+P2150,Ana Torres,67,F,Surco,Odontología,2022-02-18,395.49
+P2151,Luis Pérez,82,M,San Isidro,Medicina General,2021-07-24,400.71
+P2152,SIN_NOMBRE,3,M,Surco,Medicina General,2021-03-13,270.79
+P2153,Ana Torres,75,M,La Molina,Medicina General,2018-07-17,388.15
+P2154,Ana Torres,38,F,San Isidro,Pediatría,2018-01-27,178.17
+P2155,Sofía Díaz,85,F,Miraflores,Medicina General,2020-02-20,106.71
+P2156,Carlos Ruiz,1,M,Miraflores,Ginecología,2024-09-04,353.66
+P2157,Luis Pérez,48,F,Cajamarca,Pediatría,2021-04-08,338.17
+P2158,Luis Pérez,49,M,Cajamarca,Odontología,2023-08-18,152.53
+P2159,Carlos Ruiz,65,F,Miraflores,Medicina General,2019-03-02,381.67
+P2160,María Gómez,88,F,San Isidro,Cardiología,2020-08-07,344.62
+P2161,Sofía Díaz,84,M,Miraflores,Pediatría,2018-01-15,230.09
+P2162,Sofía Díaz,59,F,Miraflores,Odontología,2019-05-10,164.75
+P2163,Luis Pérez,80,F,Miraflores,Odontología,2024-01-09,227.8
+P2164,Sofía Díaz,20,M,Miraflores,Pediatría,2023-11-18,123.83
+P2165,María Gómez,83,F,Miraflores,Odontología,2018-01-16,123.61
+P2166,Sofía Díaz,67,F,Surco,Odontología,2023-05-13,95.29
+P2167,Sofía Díaz,13,F,Surco,Medicina General,2021-04-24,117.03
+P2168,Luis Pérez,6,F,Cajamarca,Ginecología,2025-06-02,76.39
+P2169,Ana Torres,89,F,La Molina,Ginecología,2024-06-14,383.29
+P2170,María Gómez,35,M,Surco,Cardiología,2024-10-29,328.64
+P2171,Sofía Díaz,7,M,Miraflores,Pediatría,2020-03-02,235.65
+P2172,Sofía Díaz,70,M,Surco,Pediatría,2025-11-28,201.73
+P2173,Ana Torres,69,F,Surco,Cardiología,2025-11-13,114.04
+P2174,Sofía Díaz,58,F,Callao,Medicina General,2022-05-18,321.0
+P2175,María Gómez,88,F,Surco,Cardiología,2024-06-17,167.93
+P2176,María Gómez,53,M,Miraflores,Cardiología,2018-05-13,389.1
+P2177,Ana Torres,57,F,Surco,Ginecología,2023-03-01,187.09
+P2178,Carlos Ruiz,15,M,Callao,Odontología,2022-11-06,483.66
+P2179,María Gómez,51,F,Surco,Pediatría,2018-05-08,68.29
+P2180,Luis Pérez,65,M,Surco,Odontología,2022-03-16,217.33
+P2181,Carlos Ruiz,47,M,Surco,Medicina General,2022-10-05,131.37
+P2182,María Gómez,35,F,Surco,Medicina General,2024-11-15,188.75
+P2183,Sofía Díaz,64,F,Callao,Odontología,2023-03-28,485.47
+P2184,Carlos Ruiz,20,F,Cajamarca,Cardiología,2019-08-05,224.99
+P2185,María Gómez,10,F,La Molina,Medicina General,2020-11-09,407.38
+P2186,Carlos Ruiz,22,M,Callao,Odontología,2023-11-16,388.79
+P2187,Ana Torres,12,F,Cajamarca,Medicina General,2018-01-04,165.74
+P2188,Sofía Díaz,24,M,San Isidro,Medicina General,2019-11-29,60.89
+P2189,Sofía Díaz,62,F,San Isidro,Medicina General,2019-12-08,300.16
+P2190,Ana Torres,37,F,San Isidro,Medicina General,2018-01-29,457.16
+P2191,Carlos Ruiz,77,F,Surco,Pediatría,2022-12-11,147.01
+P2192,Carlos Ruiz,77,F,Surco,Medicina General,2020-03-17,384.52
+P2193,Ana Torres,89,F,Callao,Odontología,2020-03-03,460.19
+P2194,Carlos Ruiz,19,M,Surco,Medicina General,2018-09-03,346.96
+P2195,María Gómez,34,M,Surco,Cardiología,2018-04-05,336.53
+P2196,Carlos Ruiz,55,M,Cajamarca,Ginecología,2022-04-28,471.04
+P2197,Ana Torres,29,M,Surco,Odontología,2021-09-04,65.0
+P2198,Luis Pérez,5,M,Surco,Cardiología,2019-05-20,394.24
+P2199,Carlos Ruiz,3,M,San Isidro,Medicina General,2023-02-03,445.99
+P2200,Ana Torres,63,F,Callao,Cardiología,2023-06-30,79.25
+P2201,María Gómez,50,M,Cajamarca,Odontología,2019-12-07,200.48
+P2202,Luis Pérez,51,F,Callao,Odontología,2022-01-18,242.68
+P2203,Ana Torres,10,ND,La Molina,Odontología,2023-02-05,482.65
+P2204,Ana Torres,50,F,Surco,Pediatría,2023-03-27,436.41
+P2205,Carlos Ruiz,65,F,Miraflores,Odontología,2022-09-29,130.85
+P2206,Luis Pérez,71,F,Callao,Pediatría,2018-07-30,130.46
+P2207,Carlos Ruiz,11,M,Callao,Ginecología,2019-05-24,273.28
+P2208,SIN_NOMBRE,71,F,La Molina,Odontología,2020-10-31,69.68
+P2209,Carlos Ruiz,34,M,Callao,Cardiología,2020-07-01,328.69
+P2210,María Gómez,35,F,San Isidro,Ginecología,2019-12-09,100.11
+P2211,Luis Pérez,44,M,San Isidro,Pediatría,2025-02-14,225.94
+P2212,Carlos Ruiz,53,M,San Isidro,Cardiología,2021-05-13,289.81
+P2213,María Gómez,2,F,La Molina,Odontología,2021-12-13,152.16
+P0001,Carlos Ruiz,69,F,Callao,Medicina General,2022-11-24,312.23
+P2215,María Gómez,52,F,La Molina,Medicina General,2024-04-08,142.08
+P2216,Luis Pérez,50,M,Callao,Medicina General,2023-02-14,148.43
+P2217,María Gómez,37,F,Miraflores,Cardiología,2021-10-06,398.03
+P2218,Ana Torres,88,M,Cajamarca,Pediatría,2020-04-24,460.08
+P2219,María Gómez,75,M,Callao,Cardiología,2025-12-20,282.32
+P2220,Luis Pérez,61,F,Callao,Ginecología,2019-11-20,150.69
+P2221,Ana Torres,74,M,Miraflores,Odontología,2023-02-25,210.94
+P2222,Carlos Ruiz,56,M,Cajamarca,Cardiología,2024-09-16,320.29
+P2223,Ana Torres,64,M,Callao,Cardiología,2021-03-04,469.77
+P2224,María Gómez,38,M,Cajamarca,Odontología,2024-05-03,181.6
+P2225,Carlos Ruiz,64,F,Miraflores,Cardiología,2021-11-11,451.79
+P2226,María Gómez,50,M,San Isidro,Medicina General,2018-08-21,120.4
+P2227,Sofía Díaz,33,M,La Molina,Ginecología,2020-12-07,339.07
+P2228,Sofía Díaz,88,F,Cajamarca,Ginecología,2018-02-21,402.82
+P2229,Luis Pérez,5,M,Callao,Odontología,2024-02-01,113.95
+P2230,María Gómez,61,M,La Molina,Odontología,2025-05-02,234.53
+P2231,Carlos Ruiz,47,M,Callao,Cardiología,2022-02-05,166.12
+P2232,María Gómez,26,F,San Isidro,Pediatría,2021-12-08,258.82
+P2233,Sofía Díaz,49,F,La Molina,Pediatría,2019-09-19,96.74
+P2234,Luis Pérez,59,F,Surco,Cardiología,2022-11-19,136.48
+P2235,Carlos Ruiz,55,F,La Molina,Ginecología,2019-07-06,249.56
+P2236,Sofía Díaz,30,F,Miraflores,Ginecología,2025-12-11,310.51
+P2237,Carlos Ruiz,63,M,Miraflores,Cardiología,2018-08-10,252.11
+P2238,Ana Torres,42,F,La Molina,Pediatría,2021-11-06,183.39
+P2239,María Gómez,5,M,Miraflores,Medicina General,2020-01-25,251.49
+P2240,SIN_NOMBRE,50,F,San Isidro,Medicina General,2024-05-01,386.69
+P2241,Luis Pérez,61,F,Surco,Medicina General,2022-01-05,239.9
+P2242,Carlos Ruiz,40,M,Surco,Medicina General,2020-10-27,280.82
+P2243,SIN_NOMBRE,29,M,Surco,Ginecología,2023-03-22,318.51
+P2244,Ana Torres,49,ND,Callao,Medicina General,2022-08-01,433.54
+P2245,Luis Pérez,14,F,Miraflores,Odontología,2024-01-17,251.98
+P2246,Sofía Díaz,30,M,Surco,Pediatría,2019-02-23,96.93
+P2247,Luis Pérez,33,M,La Molina,Ginecología,2021-09-09,266.77
+P2248,Carlos Ruiz,49,M,Surco,Odontología,2025-01-13,206.61
+P2249,María Gómez,61,M,Miraflores,Ginecología,2023-01-29,428.27
+P2250,Ana Torres,34,F,La Molina,Odontología,2018-10-11,361.32
+P2251,María Gómez,21,M,Callao,Odontología,2023-12-11,108.71
+P2252,Ana Torres,80,F,Callao,Medicina General,2025-10-17,119.55
+P2253,Ana Torres,52,F,Cajamarca,Odontología,2021-10-20,110.98
+P2254,Luis Pérez,40,F,Surco,Pediatría,2022-06-30,82.0
+P2255,Sofía Díaz,81,F,Cajamarca,Odontología,2023-10-22,119.33
+P2256,María Gómez,14,M,Callao,Ginecología,2021-09-10,463.79
+P2257,María Gómez,1,M,La Molina,Pediatría,2019-07-04,192.81
+P2258,Carlos Ruiz,42,F,Cajamarca,Cardiología,2025-08-26,301.81
+P2259,Sofía Díaz,14,F,Miraflores,Odontología,2025-09-07,179.47
+P2260,María Gómez,20,F,Cajamarca,Odontología,2022-07-14,446.65
+P2261,Carlos Ruiz,30,F,Callao,Pediatría,2018-09-08,466.29
+P2262,Carlos Ruiz,75,F,Cajamarca,Odontología,2024-06-30,71.9
+P2263,Carlos Ruiz,68,M,Callao,Ginecología,2019-08-18,422.1
+P0001,Sofía Díaz,32,M,San Isidro,Cardiología,2019-03-11,440.51
+P2265,Carlos Ruiz,58,F,Callao,Odontología,2022-06-22,230.45
+P2266,Luis Pérez,42,M,San Isidro,Medicina General,2019-07-13,133.81
+P2267,Sofía Díaz,0,M,Surco,Odontología,2022-08-21,209.19
+P2268,María Gómez,44,F,Callao,Medicina General,2024-01-03,271.45
+P2269,Ana Torres,11,M,La Molina,Pediatría,2020-10-10,111.9
+P2270,Luis Pérez,9,M,Cajamarca,Ginecología,2024-09-07,475.47
+P2271,Carlos Ruiz,24,M,San Isidro,Ginecología,2024-03-30,485.12
+P2272,María Gómez,57,M,La Molina,Odontología,2022-05-16,291.81
+P2273,María Gómez,31,F,Callao,Ginecología,2023-09-10,73.15
+P2274,Ana Torres,79,F,Miraflores,Cardiología,2023-08-17,211.14
+P2275,Luis Pérez,50,F,San Isidro,Ginecología,2019-02-07,465.38
+P2276,Sofía Díaz,26,F,Cajamarca,Ginecología,2018-08-12,163.01
+P2277,Carlos Ruiz,77,M,Surco,Pediatría,2025-07-10,434.5
+P2278,Ana Torres,57,F,Miraflores,Odontología,2020-07-12,292.72
+P2279,Carlos Ruiz,36,F,Cajamarca,Odontología,2018-12-21,406.32
+P2280,Ana Torres,52,M,Miraflores,Ginecología,2025-08-25,298.21
+P2281,Luis Pérez,1,F,San Isidro,Pediatría,2025-03-18,387.51
+P2282,Luis Pérez,76,M,Cajamarca,Ginecología,2018-07-02,231.71
+P2283,Ana Torres,82,F,San Isidro,Odontología,2025-03-16,280.25
+P2284,María Gómez,83,M,La Molina,Pediatría,2020-07-11,338.42
+P2285,Ana Torres,79,M,San Isidro,Ginecología,2025-08-20,118.41
+P2286,María Gómez,7,F,Miraflores,Ginecología,2022-02-09,0.0
+P2287,María Gómez,76,M,Callao,Medicina General,2023-11-30,430.82
+P2288,Ana Torres,9,M,Callao,Medicina General,2023-10-10,289.07
+P2289,Carlos Ruiz,73,M,San Isidro,Ginecología,2024-06-26,176.46
+P2290,Luis Pérez,38,F,Callao,Cardiología,2021-05-05,126.97
+P2291,Ana Torres,18,ND,San Isidro,Odontología,2020-02-03,292.25
+P2292,María Gómez,32,M,San Isidro,Odontología,2019-06-14,203.3
+P2293,Carlos Ruiz,38,F,La Molina,Cardiología,2022-01-10,169.98
+P2294,Ana Torres,86,F,Cajamarca,Odontología,2024-11-10,188.34
+P2295,SIN_NOMBRE,51,M,Callao,Ginecología,2023-10-22,348.85
+P2296,Ana Torres,79,F,Miraflores,Odontología,2021-11-23,187.65
+P2297,Carlos Ruiz,21,F,Miraflores,Pediatría,2021-01-08,143.26
+P0001,Carlos Ruiz,41,F,La Molina,Pediatría,2022-11-23,113.55
+P2299,Ana Torres,4,M,Callao,Cardiología,2020-08-14,331.89
+P2300,Sofía Díaz,43,M,Callao,Pediatría,2018-01-13,347.5
+P0001,Sofía Díaz,44,M,La Molina,Cardiología,2018-07-06,448.33
+P2302,Carlos Ruiz,25,M,Cajamarca,Medicina General,2019-05-05,367.64
+P2303,Sofía Díaz,19,M,Cajamarca,Pediatría,2024-12-25,445.86
+P2304,Ana Torres,36,M,Surco,Cardiología,2023-06-26,267.65
+P2305,Luis Pérez,44,M,San Isidro,Ginecología,2018-03-16,54.12
+P2306,Luis Pérez,46,M,Cajamarca,Odontología,2023-10-21,364.24
+P2307,Sofía Díaz,21,F,San Isidro,Cardiología,2019-05-05,489.62
+P2308,Luis Pérez,10,M,Cajamarca,Odontología,2023-08-18,390.89
+P2309,Luis Pérez,83,M,Surco,Cardiología,2020-11-22,153.44
+P2310,Sofía Díaz,34,F,Miraflores,Cardiología,2024-12-23,267.21
+P2311,Carlos Ruiz,62,F,La Molina,Odontología,2018-05-17,239.36
+P2312,Luis Pérez,38,F,Surco,Medicina General,2018-07-04,93.76
+P2313,Sofía Díaz,35,F,La Molina,Medicina General,2020-11-12,146.05
+P2314,María Gómez,53,M,Callao,Pediatría,2025-08-24,52.08
+P2315,Ana Torres,77,F,Surco,Medicina General,2024-01-26,116.01
+P2316,Luis Pérez,89,M,San Isidro,Pediatría,2018-01-14,340.63
+P2317,Luis Pérez,55,F,Callao,Odontología,2021-04-05,304.99
+P2318,Luis Pérez,56,M,Miraflores,Medicina General,2025-01-07,422.21
+P2319,Carlos Ruiz,65,M,Surco,Ginecología,2024-04-28,78.66
+P2320,Carlos Ruiz,0,F,Miraflores,Medicina General,2022-08-18,238.06
+P2321,María Gómez,64,M,Surco,Pediatría,2025-08-01,479.39
+P2322,Ana Torres,16,F,Callao,Ginecología,2019-09-26,325.72
+P2323,Carlos Ruiz,7,F,Surco,Odontología,2023-05-31,433.12
+P2324,Sofía Díaz,54,M,La Molina,Cardiología,2019-09-01,222.93
+P2325,Sofía Díaz,55,M,Cajamarca,Pediatría,2022-07-11,428.74
+P2326,Carlos Ruiz,82,M,Miraflores,Medicina General,2021-09-22,450.5
+P2327,Ana Torres,2,M,Surco,Medicina General,2023-06-01,223.88
+P2328,Ana Torres,0,M,La Molina,Ginecología,2018-06-04,130.54
+P2329,Ana Torres,17,F,San Isidro,Cardiología,2022-05-10,211.49
+P2330,Luis Pérez,50,M,Surco,Odontología,2021-10-18,191.2
+P2331,Carlos Ruiz,81,M,Surco,Odontología,2024-06-20,458.62
+P2332,Carlos Ruiz,18,F,Surco,Odontología,2024-12-25,341.69
+P2333,Carlos Ruiz,88,M,La Molina,Medicina General,2019-11-20,255.36
+P2334,Sofía Díaz,14,M,Surco,Odontología,2023-05-09,65.93
+P2335,Ana Torres,49,M,Surco,Medicina General,2024-11-03,431.33
+P2336,Ana Torres,31,M,Miraflores,Medicina General,2025-09-21,101.76
+P2337,Luis Pérez,82,M,Callao,Odontología,2024-01-22,247.3
+P2338,Luis Pérez,27,ND,Surco,Ginecología,2025-10-05,108.0
+P2339,María Gómez,13,ND,La Molina,Ginecología,2020-06-13,58.77
+P2340,Sofía Díaz,0,F,Callao,Medicina General,2023-08-24,156.79
+P2341,María Gómez,55,M,Surco,Ginecología,2025-03-01,416.57
+P2342,Ana Torres,65,M,La Molina,Ginecología,2019-12-24,56.34
+P2343,Luis Pérez,88,M,Cajamarca,Odontología,2018-05-28,405.79
+P2344,Sofía Díaz,28,F,Callao,Odontología,2021-02-09,487.67
+P2345,María Gómez,32,M,Cajamarca,Odontología,2021-01-13,130.03
+P2346,María Gómez,77,M,Miraflores,Cardiología,2019-03-03,124.2
+P2347,Carlos Ruiz,31,M,San Isidro,Medicina General,2021-01-27,224.66
+P2348,Luis Pérez,87,M,Callao,Cardiología,2019-11-11,349.82
+P2349,Carlos Ruiz,9,M,Cajamarca,Odontología,2021-03-29,70.75
+P2350,María Gómez,15,F,Miraflores,Odontología,2022-02-26,67.28
+P2351,María Gómez,21,M,La Molina,Pediatría,2020-07-04,408.44
+P2352,SIN_NOMBRE,83,F,Cajamarca,Medicina General,2020-12-02,382.8
+P2353,Luis Pérez,73,F,Cajamarca,Odontología,2021-12-21,347.97
+P2354,Sofía Díaz,88,F,San Isidro,Medicina General,2021-11-06,484.02
+P2355,Luis Pérez,54,M,Miraflores,Odontología,2025-01-08,411.4
+P2356,Ana Torres,24,F,San Isidro,Cardiología,2019-12-25,192.43
+P2357,Ana Torres,70,M,Surco,Cardiología,2023-08-31,126.03
+P2358,Ana Torres,55,M,Surco,Ginecología,2020-08-26,300.49
+P2359,Ana Torres,10,M,Callao,Cardiología,2021-10-25,107.87
+P2360,María Gómez,3,F,Callao,Cardiología,2021-09-24,299.6
+P2361,Sofía Díaz,51,M,Cajamarca,Pediatría,2019-12-26,130.64
+P2362,Sofía Díaz,5,F,Cajamarca,Odontología,2020-06-22,89.56
+P2363,Sofía Díaz,14,ND,San Isidro,Ginecología,2019-04-12,70.4
+P2364,Carlos Ruiz,18,F,Miraflores,Ginecología,2024-01-22,456.04
+P2365,Luis Pérez,31,F,San Isidro,Cardiología,2022-03-14,212.07
+P2366,María Gómez,74,M,Surco,Odontología,2020-02-27,495.58
+P2367,Ana Torres,78,M,San Isidro,Ginecología,2025-06-19,131.76
+P2368,Carlos Ruiz,79,ND,La Molina,Cardiología,2018-07-01,401.45
+P2369,María Gómez,55,M,Surco,Cardiología,2021-06-06,53.49
+P2370,María Gómez,68,M,Miraflores,Medicina General,2021-01-15,472.11
+P2371,Sofía Díaz,65,F,Surco,Cardiología,2022-11-05,200.26
+P2372,Carlos Ruiz,2,M,Miraflores,Odontología,2019-03-04,493.48
+P2373,Luis Pérez,0,M,San Isidro,Pediatría,2025-02-14,396.37
+P2374,Sofía Díaz,12,M,Surco,Odontología,2025-04-04,0.0
+P2375,Luis Pérez,80,M,Cajamarca,Ginecología,2025-12-09,237.86
+P2376,Carlos Ruiz,28,F,La Molina,Pediatría,2022-11-18,487.02
+P2377,María Gómez,86,M,Cajamarca,Pediatría,2025-11-24,52.93
+P2378,Ana Torres,26,M,Surco,Cardiología,2025-11-16,409.21
+P2379,Luis Pérez,7,F,San Isidro,Pediatría,2023-11-29,123.35
+P2380,Sofía Díaz,38,F,Cajamarca,Cardiología,2019-04-20,384.41
+P2381,Ana Torres,23,F,San Isidro,Pediatría,2024-09-27,120.92
+P2382,Sofía Díaz,7,M,Callao,Pediatría,2022-08-31,278.0
+P2383,Sofía Díaz,65,M,La Molina,Pediatría,2023-05-08,259.72
+P2384,Carlos Ruiz,10,F,San Isidro,Ginecología,2022-07-18,395.19
+P2385,Luis Pérez,39,M,Miraflores,Pediatría,2024-08-10,138.39
+P2386,Luis Pérez,41,F,Surco,Odontología,2018-03-08,349.98
+P2387,Sofía Díaz,87,F,Surco,Odontología,2019-04-16,0.0
+P2388,Luis Pérez,30,M,Miraflores,Odontología,2020-07-24,486.25
+P0001,Ana Torres,16,M,La Molina,Ginecología,2021-05-21,243.95
+P2390,Ana Torres,6,M,San Isidro,Pediatría,2019-09-20,327.67
+P0001,Luis Pérez,51,M,Surco,Medicina General,2019-10-23,106.39
+P2392,Carlos Ruiz,62,F,Miraflores,Medicina General,2018-12-15,379.18
+P2393,Luis Pérez,75,M,La Molina,Pediatría,2020-10-22,270.86
+P2394,Sofía Díaz,42,M,Callao,Pediatría,2019-04-16,385.24
+P2395,Sofía Díaz,0,M,Callao,Ginecología,2019-05-16,52.23
+P2396,Sofía Díaz,22,F,Surco,Medicina General,2024-01-13,204.04
+P2397,Sofía Díaz,33,F,Surco,Medicina General,2021-04-29,108.47
+P2398,Carlos Ruiz,68,F,La Molina,Cardiología,2024-10-26,394.79
+P2399,Sofía Díaz,35,F,La Molina,Cardiología,2024-01-01,231.83
+P2400,Luis Pérez,11,F,San Isidro,Ginecología,2024-10-03,235.11
+P2401,Sofía Díaz,84,M,Cajamarca,Ginecología,2025-08-19,298.76
+P2402,Sofía Díaz,69,M,Cajamarca,Pediatría,2020-09-22,497.44
+P2403,Luis Pérez,84,F,Callao,Odontología,2024-06-17,100.28
+P2404,Carlos Ruiz,49,F,Cajamarca,Ginecología,2023-12-08,68.5
+P2405,Luis Pérez,28,M,La Molina,Pediatría,2024-08-10,366.44
+P2406,María Gómez,35,M,San Isidro,Ginecología,2021-03-25,379.13
+P2407,Ana Torres,32,M,La Molina,Medicina General,2018-08-02,436.57
+P2408,Carlos Ruiz,22,F,Cajamarca,Ginecología,2018-09-04,333.27
+P2409,Ana Torres,17,F,Surco,Ginecología,2018-06-24,347.55
+P2410,Carlos Ruiz,12,F,Miraflores,Cardiología,2024-04-25,250.92
+P2411,María Gómez,41,F,Miraflores,Pediatría,2023-06-15,419.83
+P2412,Luis Pérez,87,M,Callao,Odontología,2021-11-14,310.17
+P2413,María Gómez,57,F,Surco,Medicina General,2021-03-22,390.56
+P2414,Ana Torres,33,F,San Isidro,Pediatría,2019-09-26,67.01
+P2415,Luis Pérez,51,F,Miraflores,Odontología,2024-01-01,65.25
+P2416,Ana Torres,18,F,Callao,Pediatría,2023-03-08,303.69
+P2417,Ana Torres,71,F,La Molina,Odontología,2023-07-04,194.95
+P2418,Ana Torres,65,M,Miraflores,Ginecología,2018-06-23,487.39
+P2419,Luis Pérez,58,F,Surco,Ginecología,2020-10-25,468.75
+P2420,Sofía Díaz,39,M,Miraflores,Odontología,2019-07-02,450.09
+P2421,María Gómez,39,F,Cajamarca,Ginecología,2023-12-22,176.2
+P2422,Ana Torres,89,F,La Molina,Ginecología,2021-10-15,267.8
+P2423,Carlos Ruiz,23,F,La Molina,Ginecología,2020-08-10,325.9
+P2424,Sofía Díaz,81,M,La Molina,Pediatría,2019-04-29,225.33
+P2425,María Gómez,1,F,La Molina,Ginecología,2018-02-16,54.44
+P2426,Luis Pérez,12,F,La Molina,Odontología,2025-03-25,443.94
+P2427,Ana Torres,50,M,Surco,Ginecología,2025-04-20,194.2
+P2428,Sofía Díaz,28,M,Callao,Odontología,2023-04-08,339.45
+P2429,Ana Torres,71,F,Surco,Pediatría,2021-01-01,376.01
+P2430,Luis Pérez,10,F,Surco,Cardiología,2021-09-30,309.79
+P2431,Luis Pérez,21,M,Surco,Ginecología,2022-05-29,226.47
+P2432,Sofía Díaz,87,M,Callao,Odontología,2021-01-15,284.85
+P2433,Luis Pérez,31,M,La Molina,Ginecología,2020-11-12,174.56
+P2434,Ana Torres,70,F,La Molina,Ginecología,2022-03-27,346.56
+P2435,Carlos Ruiz,42,M,San Isidro,Pediatría,2021-08-12,273.91
+P2436,Ana Torres,77,M,Miraflores,Pediatría,2025-05-20,196.66
+P0001,Sofía Díaz,55,F,La Molina,Cardiología,2021-08-08,449.15
+P2438,Ana Torres,57,M,Surco,Odontología,2021-08-18,63.11
+P2439,María Gómez,85,F,Miraflores,Ginecología,2022-06-02,50.48
+P2440,Sofía Díaz,40,F,La Molina,Medicina General,2021-05-07,282.55
+P2441,Sofía Díaz,36,M,Miraflores,Ginecología,2025-04-12,355.84
+P2442,María Gómez,75,F,Callao,Ginecología,2018-05-07,344.13
+P2443,Carlos Ruiz,35,M,Cajamarca,Ginecología,2025-03-30,368.45
+P2444,Sofía Díaz,18,F,San Isidro,Cardiología,2019-04-09,246.83
+P2445,Carlos Ruiz,17,F,Cajamarca,Ginecología,2024-01-03,227.67
+P2446,Carlos Ruiz,51,M,La Molina,Pediatría,2018-03-16,449.31
+P2447,Carlos Ruiz,65,F,San Isidro,Medicina General,2025-09-03,181.48
+P2448,Carlos Ruiz,35,F,San Isidro,Pediatría,2023-01-21,469.05
+P2449,María Gómez,3,M,Cajamarca,Pediatría,2018-11-11,209.35
+P2450,Carlos Ruiz,10,M,La Molina,Ginecología,2025-12-03,420.02
+P2451,Ana Torres,46,ND,Surco,Odontología,2021-03-12,328.46
+P2452,Sofía Díaz,26,F,Surco,Cardiología,2023-03-08,385.04
+P2453,Ana Torres,1,M,Miraflores,Ginecología,2023-03-07,137.03
+P2454,SIN_NOMBRE,71,M,San Isidro,Pediatría,2019-06-03,63.91
+P2455,Ana Torres,59,F,San Isidro,Pediatría,2023-12-17,132.17
+P2456,Carlos Ruiz,88,M,Surco,Odontología,2022-07-17,148.55
+P2457,Ana Torres,19,M,Cajamarca,Ginecología,2018-12-25,204.51
+P2458,Carlos Ruiz,54,M,Cajamarca,Medicina General,2024-06-30,74.53
+P2459,Luis Pérez,54,F,Miraflores,Odontología,2019-03-04,200.27
+P2460,Carlos Ruiz,79,F,La Molina,Ginecología,2020-02-05,219.45
+P2461,Luis Pérez,83,M,Surco,Cardiología,2018-07-23,244.04
+P2462,Sofía Díaz,4,F,La Molina,Ginecología,2024-03-12,265.72
+P2463,SIN_NOMBRE,11,F,Miraflores,Ginecología,2022-03-24,84.43
+P2464,Luis Pérez,55,F,Cajamarca,Odontología,2021-09-05,455.23
+P2465,Sofía Díaz,82,M,Surco,Pediatría,2018-07-03,91.88
+P2466,Carlos Ruiz,28,M,Callao,Ginecología,2021-04-18,370.26
+P2467,Luis Pérez,72,F,Callao,Odontología,2023-01-02,187.05
+P2468,María Gómez,54,M,Surco,Medicina General,2022-11-08,490.52
+P2469,Carlos Ruiz,86,F,Miraflores,Odontología,2023-11-23,129.56
+P2470,Carlos Ruiz,21,F,Surco,Cardiología,2022-06-05,88.66
+P2471,Sofía Díaz,88,F,La Molina,Odontología,2018-07-15,470.83
+P2472,Luis Pérez,8,M,Callao,Medicina General,2021-11-09,324.12
+P2473,Sofía Díaz,85,F,La Molina,Pediatría,2022-09-07,348.09
+P2474,Carlos Ruiz,15,F,San Isidro,Ginecología,2020-02-15,328.54
+P2475,Sofía Díaz,11,M,Cajamarca,Ginecología,2022-01-22,171.54
+P2476,Carlos Ruiz,18,M,Miraflores,Pediatría,2022-03-13,277.54
+P2477,Sofía Díaz,41,M,Surco,Pediatría,2024-10-13,206.51
+P2478,Carlos Ruiz,58,M,Callao,Ginecología,2022-08-21,224.2
+P2479,Ana Torres,19,M,La Molina,Cardiología,2023-06-09,479.5
+P2480,María Gómez,61,ND,Surco,Ginecología,2018-11-08,143.97
+P2481,María Gómez,4,F,La Molina,Cardiología,2020-10-31,366.93
+P2482,Ana Torres,90,F,Miraflores,Medicina General,2025-06-25,415.42
+P2483,Ana Torres,65,M,Cajamarca,Cardiología,2019-08-06,485.04
+P2484,Luis Pérez,68,F,Callao,Pediatría,2023-07-12,151.21
+P2485,Ana Torres,67,M,San Isidro,Ginecología,2023-07-01,415.51
+P2486,María Gómez,57,F,Surco,Cardiología,2023-05-09,185.82
+P2487,Sofía Díaz,75,F,Callao,Pediatría,2018-12-29,192.05
+P2488,Luis Pérez,48,M,Miraflores,Odontología,2024-03-10,351.93
+P2489,María Gómez,55,ND,Miraflores,Ginecología,2025-05-21,441.05
+P2490,Ana Torres,63,M,San Isidro,Ginecología,2019-07-02,274.06
+P2491,Luis Pérez,78,M,San Isidro,Pediatría,2025-09-09,461.9
+P2492,Ana Torres,2,F,Miraflores,Pediatría,2024-12-27,253.43
+P2493,Ana Torres,76,F,Miraflores,Odontología,2025-11-26,406.29
+P2494,Sofía Díaz,85,F,San Isidro,Medicina General,2025-01-04,339.48
+P2495,Carlos Ruiz,55,F,San Isidro,Cardiología,2018-02-10,422.5
+P2496,Ana Torres,10,M,San Isidro,Odontología,2020-04-01,320.77
+P2497,María Gómez,85,F,Miraflores,Ginecología,2023-04-22,95.96
+P2498,María Gómez,87,F,Cajamarca,Ginecología,2025-09-02,377.23
+P2499,Ana Torres,29,F,Callao,Pediatría,2018-11-30,197.0
+P2500,Carlos Ruiz,18,F,Miraflores,Medicina General,2022-01-13,195.04
+P2501,María Gómez,35,M,San Isidro,Cardiología,2018-06-05,115.63
+P2502,María Gómez,4,F,San Isidro,Cardiología,2025-09-10,199.38
+P2503,Sofía Díaz,64,F,Miraflores,Odontología,2024-11-10,460.27
+P2504,Ana Torres,65,F,La Molina,Cardiología,2018-08-31,377.71
+P2505,Sofía Díaz,42,ND,Callao,Odontología,2022-01-04,395.9
+P2506,Sofía Díaz,6,F,Miraflores,Medicina General,2024-07-29,319.89
+P2507,Sofía Díaz,31,M,La Molina,Cardiología,2019-04-07,144.45
+P2508,Carlos Ruiz,11,F,Cajamarca,Pediatría,2018-07-21,419.25
+P2509,Ana Torres,74,M,Miraflores,Odontología,2025-02-21,111.83
+P2510,Sofía Díaz,53,M,San Isidro,Odontología,2018-06-21,314.55
+P2511,Sofía Díaz,89,F,Miraflores,Cardiología,2023-11-11,428.54
+P2512,Luis Pérez,8,F,La Molina,Cardiología,2024-10-13,376.07
+P2513,Luis Pérez,7,F,La Molina,Cardiología,2025-08-14,321.99
+P2514,Ana Torres,16,M,Callao,Odontología,2018-05-10,141.98
+P2515,Sofía Díaz,32,F,Miraflores,Medicina General,2018-03-05,186.23
+P2516,María Gómez,16,M,Surco,Cardiología,2022-06-21,287.29
+P2517,Carlos Ruiz,7,M,Miraflores,Ginecología,2023-09-04,51.29
+P2518,Luis Pérez,63,F,Callao,Ginecología,2019-10-04,241.25
+P2519,Ana Torres,10,F,Miraflores,Cardiología,2020-09-04,243.82
+P2520,María Gómez,75,M,San Isidro,Medicina General,2019-10-21,407.22
+P2521,Sofía Díaz,53,F,San Isidro,Odontología,2020-12-25,251.25
+P2522,Sofía Díaz,76,F,La Molina,Ginecología,2023-02-24,292.81
+P2523,Carlos Ruiz,27,F,Callao,Odontología,2018-06-08,399.97
+P2524,María Gómez,40,M,Cajamarca,Odontología,2024-06-26,326.23
+P2525,Luis Pérez,39,F,Cajamarca,Cardiología,2025-09-19,456.77
+P2526,Luis Pérez,17,F,Callao,Cardiología,2018-06-21,136.84
+P2527,Ana Torres,79,F,Callao,Medicina General,2025-02-27,332.49
+P2528,Sofía Díaz,7,F,Miraflores,Cardiología,2025-02-12,470.7
+P2529,Carlos Ruiz,67,F,La Molina,Ginecología,2025-11-05,57.04
+P2530,Carlos Ruiz,15,M,Surco,Pediatría,2020-02-11,67.97
+P2531,Luis Pérez,19,F,Miraflores,Cardiología,2023-05-08,52.82
+P2532,Luis Pérez,72,M,San Isidro,Ginecología,2018-06-20,288.31
+P2533,María Gómez,28,M,Surco,Pediatría,2022-04-22,231.97
+P2534,Sofía Díaz,1,M,Miraflores,Cardiología,2019-04-28,342.65
+P0001,Luis Pérez,4,M,Callao,Pediatría,2024-04-03,400.87
+P2536,Ana Torres,61,F,Surco,Cardiología,2024-07-27,76.13
+P2537,María Gómez,54,F,Callao,Cardiología,2020-03-15,351.54
+P2538,Sofía Díaz,75,M,Callao,Odontología,2019-04-15,255.72
+P2539,Luis Pérez,1,F,Callao,Pediatría,2025-07-31,136.86
+P2540,Luis Pérez,0,M,La Molina,Pediatría,2023-03-04,220.64
+P0001,Ana Torres,89,F,Miraflores,Ginecología,2023-11-23,138.62
+P2542,Ana Torres,19,M,Miraflores,Cardiología,2023-09-28,375.67
+P2543,María Gómez,28,M,Miraflores,Cardiología,2018-04-17,185.93
+P2544,Luis Pérez,67,M,Callao,Odontología,2020-12-14,234.13
+P2545,María Gómez,9,F,San Isidro,Medicina General,2025-07-21,468.45
+P2546,María Gómez,0,F,San Isidro,Odontología,2020-01-10,115.45
+P2547,Ana Torres,10,M,Cajamarca,Pediatría,2025-09-20,0.0
+P2548,María Gómez,71,F,La Molina,Cardiología,2024-08-24,223.53
+P2549,Sofía Díaz,78,M,Miraflores,Cardiología,2018-08-25,255.23
+P2550,Ana Torres,29,F,Cajamarca,Ginecología,2018-10-23,320.5
+P2551,Sofía Díaz,83,F,San Isidro,Pediatría,2020-06-15,244.29
+P2552,Luis Pérez,72,F,Cajamarca,Pediatría,2023-08-25,240.2
+P2553,Carlos Ruiz,56,M,Miraflores,Medicina General,2021-10-23,330.88
+P2554,Carlos Ruiz,59,M,Callao,Medicina General,2023-04-13,386.88
+P2555,Sofía Díaz,21,F,Miraflores,Pediatría,2019-06-18,189.4
+P2556,Ana Torres,12,F,Cajamarca,Cardiología,2023-06-28,407.84
+P2557,Luis Pérez,62,F,La Molina,Odontología,2025-07-15,392.36
+P0001,Sofía Díaz,50,F,Callao,Medicina General,2019-08-08,199.38
+P2559,Sofía Díaz,25,M,Miraflores,Cardiología,2023-01-25,94.41
+P2560,Ana Torres,6,F,Miraflores,Medicina General,2019-08-30,90.91
+P2561,Ana Torres,85,M,Callao,Odontología,2022-01-11,254.65
+P2562,Carlos Ruiz,52,M,La Molina,Ginecología,2020-08-29,442.52
+P2563,Sofía Díaz,21,F,Cajamarca,Medicina General,2024-02-16,70.86
+P2564,María Gómez,60,M,Surco,Medicina General,2024-12-06,167.08
+P2565,María Gómez,45,M,San Isidro,Odontología,2020-04-28,186.98
+P2566,Carlos Ruiz,32,M,Miraflores,Cardiología,2023-06-04,175.24
+P2567,Sofía Díaz,66,F,San Isidro,Ginecología,2023-11-11,319.53
+P2568,Ana Torres,33,M,San Isidro,Ginecología,2018-05-20,263.99
+P2569,Luis Pérez,50,F,Callao,Ginecología,2025-10-15,78.28
+P2570,Ana Torres,13,M,Cajamarca,Odontología,2019-12-08,86.08
+P2571,Ana Torres,22,M,Surco,Cardiología,2023-11-28,275.9
+P2572,Sofía Díaz,17,F,Cajamarca,Pediatría,2025-06-13,370.56
+P2573,Luis Pérez,32,F,La Molina,Pediatría,2024-08-10,303.67
+P2574,Sofía Díaz,25,F,Callao,Medicina General,2023-12-19,113.68
+P2575,Ana Torres,60,M,Miraflores,Medicina General,2018-07-28,416.94
+P2576,Carlos Ruiz,21,M,San Isidro,Ginecología,2021-04-08,471.66
+P2577,Luis Pérez,75,ND,Callao,Odontología,2019-05-05,308.09
+P2578,Sofía Díaz,10,F,Callao,Pediatría,2018-10-24,443.04
+P2579,Carlos Ruiz,50,M,Miraflores,Medicina General,2019-03-26,263.26
+P2580,Sofía Díaz,19,M,Cajamarca,Medicina General,2024-11-24,226.48
+P2581,Luis Pérez,20,F,Surco,Ginecología,2020-04-30,213.64
+P2582,María Gómez,3,M,Miraflores,Odontología,2019-04-16,179.41
+P2583,Carlos Ruiz,2,M,Cajamarca,Medicina General,2020-10-10,342.18
+P2584,María Gómez,79,M,Miraflores,Cardiología,2025-12-20,192.25
+P2585,María Gómez,90,M,Cajamarca,Medicina General,2022-10-07,222.55
+P2586,María Gómez,10,F,Cajamarca,Ginecología,2024-04-15,125.23
+P2587,Sofía Díaz,5,F,Cajamarca,Pediatría,2023-03-10,105.98
+P2588,Luis Pérez,76,F,San Isidro,Cardiología,2019-12-16,424.44
+P2589,María Gómez,76,M,Surco,Pediatría,2024-10-02,178.75
+P2590,Ana Torres,2,ND,San Isidro,Pediatría,2025-06-26,483.26
+P2591,María Gómez,19,F,Callao,Ginecología,2023-11-10,254.9
+P0001,Carlos Ruiz,83,M,Cajamarca,Cardiología,2020-02-11,470.04
+P2593,Sofía Díaz,0,F,Surco,Cardiología,2025-08-01,454.52
+P2594,Ana Torres,33,F,La Molina,Odontología,2018-08-14,433.2
+P2595,María Gómez,83,M,Cajamarca,Pediatría,2018-05-15,231.88
+P2596,Ana Torres,72,F,Callao,Pediatría,2019-04-27,447.04
+P2597,María Gómez,60,M,Cajamarca,Cardiología,2023-12-03,86.28
+P2598,María Gómez,41,M,Surco,Odontología,2024-10-01,412.43
+P2599,Luis Pérez,4,F,Callao,Ginecología,2025-12-15,291.02
+P2600,SIN_NOMBRE,29,F,Callao,Ginecología,2023-02-13,285.26
+P2601,Carlos Ruiz,74,F,Callao,Cardiología,2025-01-19,439.53
+P2602,Sofía Díaz,81,F,Callao,Odontología,2018-02-15,222.75
+P2603,Ana Torres,64,F,San Isidro,Odontología,2023-08-02,116.06
+P2604,Luis Pérez,46,M,La Molina,Pediatría,2019-07-08,148.08
+P2605,María Gómez,64,F,Callao,Pediatría,2018-09-21,66.99
+P2606,Sofía Díaz,21,F,Miraflores,Medicina General,2025-10-14,313.51
+P2607,María Gómez,40,F,Surco,Odontología,2021-12-02,158.16
+P2608,Ana Torres,55,ND,Surco,Pediatría,2023-05-28,406.91
+P2609,Luis Pérez,24,F,Cajamarca,Cardiología,2025-01-04,361.45
+P2610,María Gómez,71,M,Cajamarca,Cardiología,2025-12-29,450.4
+P2611,Carlos Ruiz,87,M,Surco,Ginecología,2022-02-28,333.11
+P2612,Carlos Ruiz,85,M,Callao,Odontología,2025-05-02,238.41
+P2613,Carlos Ruiz,34,M,Callao,Medicina General,2018-12-23,457.67
+P2614,Ana Torres,53,M,Cajamarca,Pediatría,2018-10-20,103.43
+P2615,Sofía Díaz,34,F,La Molina,Ginecología,2023-10-02,316.06
+P2616,Carlos Ruiz,29,F,Cajamarca,Medicina General,2022-11-01,197.57
+P2617,Luis Pérez,50,M,Miraflores,Cardiología,2020-12-10,85.17
+P2618,María Gómez,73,ND,San Isidro,Odontología,2023-11-06,297.63
+P2619,Ana Torres,72,F,Callao,Medicina General,2023-06-03,372.62
+P2620,Luis Pérez,89,M,San Isidro,Pediatría,2022-04-19,234.69
+P2621,Ana Torres,83,M,Surco,Medicina General,2025-09-27,114.31
+P2622,Luis Pérez,87,M,Callao,Cardiología,2020-08-15,79.87
+P2623,María Gómez,11,ND,Miraflores,Pediatría,2018-12-22,403.51
+P2624,Sofía Díaz,0,F,Callao,Cardiología,2018-02-19,460.13
+P2625,María Gómez,73,F,Callao,Ginecología,2025-02-14,467.85
+P2626,Ana Torres,70,M,La Molina,Pediatría,2025-02-22,461.95
+P2627,Ana Torres,81,M,Surco,Medicina General,2024-11-19,456.1
+P2628,Ana Torres,90,M,La Molina,Pediatría,2025-11-07,225.84
+P2629,Sofía Díaz,10,F,Cajamarca,Cardiología,2019-01-02,188.95
+P2630,María Gómez,47,M,San Isidro,Odontología,2020-01-16,229.57
+P2631,María Gómez,23,M,La Molina,Ginecología,2025-08-30,399.76
+P2632,Ana Torres,18,ND,La Molina,Ginecología,2023-05-09,164.9
+P2633,Carlos Ruiz,34,F,La Molina,Ginecología,2018-12-03,71.1
+P2634,Ana Torres,73,F,San Isidro,Pediatría,2021-12-18,296.15
+P2635,Luis Pérez,75,M,Callao,Pediatría,2019-12-29,171.75
+P2636,Ana Torres,55,F,Miraflores,Pediatría,2020-01-23,327.11
+P2637,Luis Pérez,69,M,Callao,Medicina General,2019-07-27,281.72
+P2638,Luis Pérez,43,M,San Isidro,Cardiología,2018-10-08,183.51
+P2639,Luis Pérez,63,ND,Cajamarca,Cardiología,2018-02-19,430.67
+P2640,Ana Torres,76,F,San Isidro,Cardiología,2024-07-02,405.99
+P2641,Ana Torres,43,M,Surco,Cardiología,2025-09-18,279.89
+P2642,Carlos Ruiz,58,F,La Molina,Odontología,2019-08-09,87.12
+P2643,María Gómez,48,M,La Molina,Ginecología,2025-11-03,132.36
+P2644,Carlos Ruiz,3,F,San Isidro,Odontología,2024-04-05,306.4
+P2645,Luis Pérez,86,M,Miraflores,Medicina General,2021-01-11,438.37
+P2646,Ana Torres,86,M,Cajamarca,Medicina General,2019-01-07,400.23
+P2647,María Gómez,68,M,Surco,Ginecología,2024-04-27,130.95
+P2648,Carlos Ruiz,11,F,La Molina,Odontología,2025-09-18,433.11
+P2649,Sofía Díaz,89,F,Surco,Ginecología,2022-10-19,0.0
+P2650,Ana Torres,82,F,La Molina,Odontología,2023-08-19,428.02
+P2651,Sofía Díaz,75,F,Miraflores,Cardiología,2021-02-16,315.21
+P2652,Ana Torres,56,F,Surco,Odontología,2024-07-23,400.38
+P2653,Sofía Díaz,54,M,La Molina,Pediatría,2023-06-03,143.91
+P2654,Luis Pérez,67,F,La Molina,Medicina General,2023-07-23,146.26
+P2655,Carlos Ruiz,51,F,La Molina,Medicina General,2023-08-21,259.85
+P2656,Sofía Díaz,79,M,San Isidro,Medicina General,2019-09-13,255.92
+P2657,María Gómez,35,F,San Isidro,Cardiología,2025-06-30,286.25
+P2658,Sofía Díaz,73,F,San Isidro,Ginecología,2022-02-01,81.91
+P2659,Sofía Díaz,84,F,San Isidro,Medicina General,2025-08-21,369.07
+P2660,María Gómez,57,M,Cajamarca,Ginecología,2023-02-17,491.36
+P2661,Sofía Díaz,12,M,Callao,Ginecología,2021-07-23,333.97
+P2662,Luis Pérez,29,F,Surco,Pediatría,2023-10-19,326.05
+P2663,Luis Pérez,26,F,Miraflores,Odontología,2018-07-30,285.65
+P2664,Luis Pérez,65,F,Miraflores,Pediatría,2025-01-24,161.12
+P2665,María Gómez,76,F,Cajamarca,Cardiología,2019-03-10,87.11
+P2666,Ana Torres,77,F,Callao,Pediatría,2023-10-08,54.64
+P2667,Luis Pérez,88,F,La Molina,Ginecología,2025-02-15,470.56
+P2668,Carlos Ruiz,11,F,Miraflores,Ginecología,2021-04-20,362.58
+P2669,Carlos Ruiz,84,F,Surco,Ginecología,2023-06-25,188.56
+P2670,Sofía Díaz,13,M,Cajamarca,Medicina General,2020-02-11,437.18
+P2671,Carlos Ruiz,58,M,San Isidro,Pediatría,2024-02-29,59.53
+P2672,Luis Pérez,69,M,Callao,Pediatría,2018-01-04,293.71
+P2673,Ana Torres,80,F,La Molina,Medicina General,2022-07-22,241.55
+P2674,Ana Torres,65,M,La Molina,Pediatría,2021-10-02,89.97
+P2675,Sofía Díaz,1,M,La Molina,Odontología,2023-06-02,390.55
+P2676,Ana Torres,54,M,Callao,Pediatría,2022-11-20,55.83
+P2677,María Gómez,47,M,Surco,Pediatría,2022-04-19,367.15
+P2678,María Gómez,84,M,San Isidro,Pediatría,2022-07-14,422.29
+P2679,Sofía Díaz,31,M,Miraflores,Pediatría,2021-02-20,221.34
+P2680,Luis Pérez,45,M,San Isidro,Pediatría,2019-08-11,404.73
+P2681,Sofía Díaz,28,F,San Isidro,Ginecología,2023-06-19,268.13
+P2682,Carlos Ruiz,66,M,San Isidro,Pediatría,2021-05-05,203.9
+P2683,Sofía Díaz,76,M,Cajamarca,Cardiología,2021-07-29,154.67
+P2684,Ana Torres,14,M,La Molina,Odontología,2024-02-09,122.94
+P2685,Luis Pérez,24,M,Miraflores,Pediatría,2020-02-09,427.59
+P2686,Ana Torres,17,M,Surco,Ginecología,2023-02-04,436.63
+P2687,Sofía Díaz,3,F,San Isidro,Odontología,2021-10-14,175.31
+P2688,Carlos Ruiz,82,ND,Cajamarca,Odontología,2025-12-29,64.14
+P2689,Carlos Ruiz,47,F,Callao,Cardiología,2019-04-21,217.26
+P2690,Sofía Díaz,34,F,Surco,Ginecología,2024-11-26,344.28
+P2691,Ana Torres,58,M,La Molina,Cardiología,2024-05-18,344.1
+P2692,Sofía Díaz,87,F,Cajamarca,Pediatría,2021-07-28,437.99
+P2693,Luis Pérez,21,F,Cajamarca,Cardiología,2019-01-18,157.58
+P2694,Ana Torres,9,ND,La Molina,Medicina General,2024-01-27,0.0
+P2695,Ana Torres,82,F,Cajamarca,Medicina General,2024-05-19,395.13
+P2696,María Gómez,76,M,Surco,Ginecología,2021-05-27,347.28
+P2697,Sofía Díaz,20,M,La Molina,Odontología,2019-03-27,310.8
+P2698,Sofía Díaz,12,M,La Molina,Ginecología,2018-12-21,134.3
+P2699,Luis Pérez,24,F,Callao,Medicina General,2019-07-22,395.77
+P2700,Sofía Díaz,62,M,Callao,Ginecología,2018-11-15,220.94
+P2701,Ana Torres,3,F,Surco,Ginecología,2025-11-23,95.59
+P2702,María Gómez,60,M,San Isidro,Pediatría,2024-10-14,408.17
+P2703,Luis Pérez,44,M,San Isidro,Odontología,2019-02-06,493.15
+P2704,Luis Pérez,53,F,San Isidro,Odontología,2019-09-29,389.98
+P2705,Sofía Díaz,31,M,San Isidro,Medicina General,2021-06-02,55.22
+P2706,Carlos Ruiz,37,F,San Isidro,Ginecología,2021-12-28,234.81
+P2707,María Gómez,58,M,Cajamarca,Pediatría,2019-01-31,225.46
+P2708,Carlos Ruiz,21,F,La Molina,Cardiología,2025-12-17,263.18
+P2709,Ana Torres,50,F,Miraflores,Ginecología,2023-08-28,231.9
+P2710,SIN_NOMBRE,83,F,La Molina,Odontología,2018-04-04,480.51
+P2711,Luis Pérez,88,M,Cajamarca,Medicina General,2021-03-04,88.68
+P2712,SIN_NOMBRE,41,F,Callao,Ginecología,2019-09-11,421.91
+P2713,Luis Pérez,0,M,San Isidro,Ginecología,2023-12-10,134.59
+P2714,Sofía Díaz,30,M,Miraflores,Medicina General,2021-02-02,496.53
+P2715,María Gómez,6,F,Miraflores,Odontología,2025-01-08,85.98
+P2716,Luis Pérez,23,M,Callao,Medicina General,2025-03-14,438.05
+P2717,María Gómez,27,F,La Molina,Ginecología,2023-11-02,189.79
+P2718,Carlos Ruiz,37,M,San Isidro,Odontología,2018-03-27,463.65
+P2719,María Gómez,36,F,San Isidro,Odontología,2020-07-08,116.37
+P2720,Carlos Ruiz,55,M,Surco,Cardiología,2019-04-19,218.13
+P2721,Sofía Díaz,41,M,Miraflores,Pediatría,2025-01-25,223.6
+P2722,Luis Pérez,89,F,Miraflores,Odontología,2020-04-10,276.81
+P2723,Carlos Ruiz,26,M,Surco,Odontología,2021-01-04,305.87
+P2724,María Gómez,60,M,San Isidro,Pediatría,2021-07-02,497.28
+P2725,Ana Torres,88,M,Callao,Pediatría,2019-05-18,0.0
+P2726,Luis Pérez,36,F,Miraflores,Cardiología,2018-10-14,419.28
+P2727,Luis Pérez,88,F,San Isidro,Pediatría,2019-12-25,425.21
+P2728,Carlos Ruiz,25,M,San Isidro,Cardiología,2023-07-08,62.25
+P2729,Carlos Ruiz,79,F,Surco,Ginecología,2022-10-19,470.53
+P2730,Carlos Ruiz,18,F,La Molina,Cardiología,2022-03-25,226.96
+P2731,Ana Torres,90,M,Cajamarca,Odontología,2025-08-10,344.71
+P2732,Carlos Ruiz,63,M,La Molina,Cardiología,2018-03-30,160.52
+P2733,Luis Pérez,31,ND,Surco,Ginecología,2020-12-18,121.18
+P2734,Luis Pérez,13,F,Miraflores,Cardiología,2022-11-29,379.17
+P2735,Luis Pérez,55,M,Miraflores,Pediatría,2023-01-17,367.0
+P2736,Luis Pérez,22,F,San Isidro,Ginecología,2020-03-09,154.84
+P2737,Sofía Díaz,0,F,La Molina,Medicina General,2021-06-22,436.31
+P2738,Ana Torres,86,M,Cajamarca,Medicina General,2021-07-02,310.95
+P2739,Ana Torres,62,M,La Molina,Odontología,2018-10-17,286.4
+P2740,Ana Torres,85,ND,La Molina,Ginecología,2022-06-07,314.09
+P2741,María Gómez,89,F,La Molina,Odontología,2020-02-27,152.28
+P2742,María Gómez,41,M,La Molina,Pediatría,2020-02-07,460.48
+P2743,Ana Torres,67,F,Miraflores,Pediatría,2020-06-01,266.01
+P2744,Carlos Ruiz,84,M,Miraflores,Cardiología,2018-01-19,117.41
+P2745,Luis Pérez,41,F,La Molina,Medicina General,2024-03-18,172.02
+P0001,Sofía Díaz,89,M,Callao,Cardiología,2022-07-26,435.46
+P2747,Luis Pérez,59,F,Callao,Ginecología,2022-03-27,425.81
+P2748,Carlos Ruiz,5,F,Callao,Cardiología,2018-04-21,92.54
+P2749,Carlos Ruiz,19,F,Cajamarca,Ginecología,2019-06-17,262.57
+P2750,María Gómez,6,F,Surco,Pediatría,2018-03-26,472.84
+P2751,Carlos Ruiz,24,F,Cajamarca,Ginecología,2019-05-05,209.64
+P2752,Carlos Ruiz,75,F,Surco,Cardiología,2020-06-04,358.24
+P2753,Ana Torres,7,M,San Isidro,Pediatría,2024-09-09,88.97
+P2754,Luis Pérez,55,M,Cajamarca,Ginecología,2019-05-19,262.0
+P2755,Luis Pérez,72,M,Miraflores,Pediatría,2025-08-07,93.19
+P2756,Luis Pérez,12,M,Cajamarca,Cardiología,2018-08-06,307.56
+P2757,Sofía Díaz,52,M,Callao,Pediatría,2022-01-06,329.03
+P2758,Ana Torres,84,F,Miraflores,Cardiología,2019-02-19,257.06
+P2759,Sofía Díaz,24,F,San Isidro,Pediatría,2024-06-20,141.74
+P2760,Sofía Díaz,1,M,Callao,Ginecología,2024-03-07,436.61
+P2761,Ana Torres,52,F,Callao,Odontología,2024-07-03,356.65
+P2762,Luis Pérez,29,F,San Isidro,Odontología,2019-02-27,484.04
+P2763,Ana Torres,4,M,Callao,Odontología,2019-09-30,166.58
+P2764,Luis Pérez,2,F,Callao,Odontología,2025-05-21,302.12
+P2765,María Gómez,19,F,Callao,Odontología,2024-10-29,267.56
+P2766,Luis Pérez,20,F,San Isidro,Odontología,2019-02-20,207.59
+P2767,Luis Pérez,24,ND,San Isidro,Cardiología,2023-07-03,206.06
+P2768,Sofía Díaz,28,M,Cajamarca,Odontología,2023-06-27,343.62
+P2769,Ana Torres,49,M,Surco,Cardiología,2023-11-10,225.74
+P2770,Carlos Ruiz,79,M,Cajamarca,Pediatría,2022-10-01,78.49
+P2771,Sofía Díaz,0,M,Cajamarca,Pediatría,2024-04-09,398.66
+P2772,Luis Pérez,67,M,Cajamarca,Cardiología,2019-09-05,325.49
+P2773,Ana Torres,47,M,Miraflores,Cardiología,2019-06-26,264.66
+P2774,Ana Torres,85,F,Surco,Ginecología,2022-04-09,340.74
+P2775,Sofía Díaz,37,F,San Isidro,Pediatría,2024-11-04,440.03
+P2776,Ana Torres,52,F,Callao,Ginecología,2018-11-09,302.18
+P2777,Luis Pérez,23,F,Callao,Pediatría,2022-02-02,447.35
+P2778,María Gómez,40,M,Surco,Pediatría,2021-05-04,172.29
+P2779,Luis Pérez,11,M,Miraflores,Odontología,2021-06-22,105.73
+P2780,María Gómez,1,M,Cajamarca,Pediatría,2021-01-30,103.98
+P2781,Luis Pérez,13,F,La Molina,Cardiología,2023-05-01,364.94
+P2782,Sofía Díaz,38,M,Cajamarca,Pediatría,2019-10-19,331.08
+P2783,Ana Torres,23,M,San Isidro,Pediatría,2021-06-22,365.6
+P2784,Carlos Ruiz,0,F,Miraflores,Medicina General,2019-04-06,476.39
+P2785,Carlos Ruiz,0,M,Cajamarca,Ginecología,2019-07-10,260.0
+P2786,Luis Pérez,65,F,La Molina,Ginecología,2021-11-28,94.69
+P2787,Sofía Díaz,43,F,Callao,Pediatría,2019-07-31,256.58
+P2788,Carlos Ruiz,19,M,Miraflores,Ginecología,2018-11-12,198.69
+P0001,Ana Torres,4,F,Callao,Medicina General,2025-04-08,73.11
+P2790,Luis Pérez,19,M,Surco,Medicina General,2023-04-15,399.43
+P2791,Carlos Ruiz,37,F,Cajamarca,Odontología,2018-01-31,455.64
+P2792,Luis Pérez,23,M,Surco,Cardiología,2023-01-19,454.42
+P2793,Ana Torres,44,M,Surco,Odontología,2023-06-05,124.85
+P2794,Ana Torres,16,M,Callao,Pediatría,2019-07-10,257.86
+P2795,Ana Torres,52,M,Callao,Pediatría,2024-03-17,231.03
+P2796,Carlos Ruiz,63,F,La Molina,Pediatría,2021-10-30,407.73
+P2797,María Gómez,21,M,Surco,Medicina General,2019-08-31,179.7
+P2798,Luis Pérez,79,M,San Isidro,Medicina General,2020-12-17,382.17
+P2799,María Gómez,68,F,San Isidro,Ginecología,2018-11-16,462.23
+P2800,Luis Pérez,25,F,Callao,Odontología,2025-08-12,467.09
+P2801,Carlos Ruiz,40,M,Miraflores,Medicina General,2022-01-20,231.28
+P2802,Sofía Díaz,9,M,Surco,Medicina General,2024-05-28,50.11
+P2803,Sofía Díaz,0,F,Cajamarca,Ginecología,2025-03-02,204.65
+P2804,Ana Torres,86,M,La Molina,Ginecología,2025-10-10,198.67
+P2805,Sofía Díaz,86,M,Miraflores,Ginecología,2019-09-21,114.84
+P2806,María Gómez,47,F,La Molina,Pediatría,2022-07-24,408.34
+P2807,Carlos Ruiz,0,F,Cajamarca,Odontología,2019-05-30,483.13
+P2808,Carlos Ruiz,32,F,Callao,Ginecología,2019-07-19,62.55
+P2809,Luis Pérez,37,M,San Isidro,Medicina General,2021-03-05,446.33
+P2810,María Gómez,71,M,La Molina,Ginecología,2024-09-12,87.32
+P2811,Carlos Ruiz,73,F,San Isidro,Ginecología,2023-06-02,212.02
+P2812,Luis Pérez,39,F,Miraflores,Pediatría,2018-03-25,236.91
+P2813,Luis Pérez,63,F,Callao,Ginecología,2025-12-27,233.43
+P2814,Carlos Ruiz,10,F,Surco,Medicina General,2023-08-08,391.94
+P2815,Ana Torres,47,F,Surco,Odontología,2019-06-14,352.36
+P2816,Luis Pérez,28,M,Callao,Ginecología,2021-08-07,491.34
+P2817,Luis Pérez,87,F,Surco,Cardiología,2023-10-22,400.17
+P2818,María Gómez,80,F,San Isidro,Medicina General,2024-10-27,177.93
+P2819,María Gómez,64,M,Cajamarca,Medicina General,2025-02-12,251.39
+P2820,Luis Pérez,56,F,Miraflores,Ginecología,2021-07-12,446.33
+P2821,Luis Pérez,20,F,Cajamarca,Ginecología,2018-03-26,85.34
+P2822,Carlos Ruiz,88,F,Surco,Medicina General,2020-07-09,415.84
+P2823,Sofía Díaz,9,M,La Molina,Odontología,2021-01-05,380.38
+P2824,Luis Pérez,30,F,Cajamarca,Odontología,2019-07-13,290.18
+P2825,María Gómez,2,F,Miraflores,Odontología,2024-08-30,71.96
+P2826,Carlos Ruiz,79,M,Callao,Odontología,2022-07-13,78.03
+P2827,Sofía Díaz,37,F,Surco,Pediatría,2022-01-31,79.76
+P2828,Luis Pérez,6,F,Miraflores,Pediatría,2023-10-02,228.99
+P2829,Luis Pérez,53,M,La Molina,Medicina General,2024-04-16,254.71
+P2830,María Gómez,15,M,Callao,Cardiología,2022-12-19,321.88
+P2831,Carlos Ruiz,5,M,Callao,Cardiología,2024-07-15,467.73
+P2832,Ana Torres,39,M,Surco,Odontología,2021-05-21,147.56
+P2833,Sofía Díaz,37,M,Cajamarca,Ginecología,2024-07-25,114.99
+P2834,Carlos Ruiz,52,F,Callao,Odontología,2021-07-25,353.22
+P2835,María Gómez,45,F,La Molina,Odontología,2018-04-06,377.92
+P2836,Carlos Ruiz,74,F,San Isidro,Pediatría,2019-12-17,109.39
+P2837,Luis Pérez,36,F,Surco,Pediatría,2023-12-14,287.62
+P2838,Sofía Díaz,85,F,Cajamarca,Pediatría,2025-04-03,66.5
+P2839,María Gómez,48,M,Surco,Medicina General,2019-04-26,121.69
+P2840,Sofía Díaz,9,M,Surco,Cardiología,2019-01-02,424.58
+P2841,Carlos Ruiz,53,M,Cajamarca,Odontología,2025-10-07,0.0
+P2842,Luis Pérez,79,M,Miraflores,Ginecología,2022-02-28,173.94
+P2843,Luis Pérez,72,M,Surco,Medicina General,2021-11-25,169.57
+P2844,Luis Pérez,72,M,Miraflores,Cardiología,2022-10-10,0.0
+P2845,Carlos Ruiz,75,M,Callao,Cardiología,2024-08-18,487.19
+P2846,María Gómez,78,M,San Isidro,Cardiología,2020-07-13,0.0
+P2847,Sofía Díaz,43,M,Miraflores,Ginecología,2021-12-11,88.51
+P2848,Carlos Ruiz,55,F,Surco,Pediatría,2020-02-26,194.74
+P2849,María Gómez,12,F,Callao,Ginecología,2018-06-13,457.47
+P2850,Carlos Ruiz,20,M,Callao,Medicina General,2024-10-09,186.69
+P2851,María Gómez,71,M,San Isidro,Pediatría,2023-07-02,179.6
+P2852,Luis Pérez,80,M,Cajamarca,Odontología,2022-11-16,148.51
+P2853,Sofía Díaz,89,M,Miraflores,Cardiología,2021-07-28,307.82
+P2854,Ana Torres,78,F,Callao,Cardiología,2019-04-10,492.0
+P2855,Luis Pérez,46,M,San Isidro,Cardiología,2021-01-25,258.63
+P2856,Carlos Ruiz,47,F,Miraflores,Cardiología,2022-01-20,428.89
+P2857,Carlos Ruiz,28,M,San Isidro,Odontología,2018-06-19,0.0
+P2858,Luis Pérez,46,F,Miraflores,Ginecología,2025-05-08,214.46
+P2859,Luis Pérez,59,M,Miraflores,Cardiología,2022-12-11,237.16
+P2860,Ana Torres,17,M,San Isidro,Ginecología,2024-03-16,0.0
+P2861,Ana Torres,4,ND,San Isidro,Cardiología,2025-10-22,406.14
+P2862,Ana Torres,21,M,La Molina,Odontología,2020-04-11,430.88
+P2863,Ana Torres,42,F,La Molina,Ginecología,2025-12-16,429.33
+P2864,Ana Torres,4,F,Miraflores,Pediatría,2018-05-31,264.73
+P2865,María Gómez,83,F,Surco,Medicina General,2020-06-09,298.63
+P2866,María Gómez,22,F,San Isidro,Pediatría,2023-09-01,107.71
+P2867,María Gómez,39,F,San Isidro,Ginecología,2022-04-24,184.56
+P2868,Ana Torres,58,M,San Isidro,Odontología,2018-01-05,127.32
+P2869,Ana Torres,43,M,Surco,Odontología,2021-12-12,435.31
+P2870,Sofía Díaz,16,M,Miraflores,Pediatría,2023-02-15,166.61
+P2871,Sofía Díaz,79,M,Surco,Pediatría,2018-02-13,384.59
+P2872,Carlos Ruiz,78,F,San Isidro,Odontología,2023-04-24,383.73
+P2873,Sofía Díaz,24,F,Miraflores,Ginecología,2018-11-08,365.31
+P2874,María Gómez,10,F,Callao,Cardiología,2018-09-25,126.05
+P2875,Ana Torres,76,F,San Isidro,Cardiología,2024-03-29,208.53
+P2876,Sofía Díaz,85,M,Surco,Odontología,2020-08-07,396.56
+P2877,Carlos Ruiz,77,F,Miraflores,Ginecología,2021-05-28,182.11
+P2878,Ana Torres,61,F,Cajamarca,Cardiología,2024-04-06,455.82
+P2879,María Gómez,86,M,Callao,Ginecología,2022-11-28,272.79
+P2880,Ana Torres,76,M,Cajamarca,Odontología,2023-05-10,164.61
+P2881,María Gómez,3,M,Surco,Medicina General,2024-06-17,342.82
+P2882,María Gómez,7,F,Callao,Cardiología,2018-09-13,324.18
+P2883,Sofía Díaz,5,M,Miraflores,Medicina General,2025-09-16,327.57
+P2884,Carlos Ruiz,12,F,Miraflores,Medicina General,2020-10-22,405.74
+P2885,María Gómez,84,F,Surco,Ginecología,2020-07-30,347.54
+P2886,María Gómez,27,F,Miraflores,Cardiología,2023-07-31,107.87
+P2887,María Gómez,64,M,La Molina,Odontología,2024-10-02,0.0
+P2888,María Gómez,89,F,Callao,Cardiología,2018-10-21,208.24
+P2889,Carlos Ruiz,31,M,La Molina,Ginecología,2018-04-04,457.74
+P2890,Carlos Ruiz,17,M,La Molina,Cardiología,2019-07-24,51.99
+P2891,Luis Pérez,82,M,Callao,Odontología,2020-10-03,463.94
+P2892,Carlos Ruiz,75,F,La Molina,Odontología,2020-03-03,249.7
+P2893,Ana Torres,2,M,Callao,Pediatría,2025-11-01,338.94
+P2894,Luis Pérez,8,F,Miraflores,Ginecología,2020-06-15,468.81
+P2895,Ana Torres,89,M,Miraflores,Cardiología,2021-04-16,285.66
+P2896,María Gómez,74,M,Callao,Odontología,2018-07-28,74.39
+P2897,María Gómez,85,F,Cajamarca,Odontología,2020-09-25,479.87
+P2898,Sofía Díaz,52,M,Surco,Pediatría,2018-04-27,258.58
+P2899,Sofía Díaz,57,F,Surco,Ginecología,2018-08-17,299.12
+P2900,María Gómez,49,F,Callao,Cardiología,2025-11-20,118.98
+P2901,Luis Pérez,75,M,San Isidro,Medicina General,2021-12-11,386.37
+P2902,Sofía Díaz,12,M,Cajamarca,Cardiología,2023-09-01,272.86
+P2903,Ana Torres,8,M,Surco,Ginecología,2020-01-24,327.17
+P2904,Luis Pérez,6,F,Surco,Odontología,2024-01-26,295.29
+P2905,Ana Torres,59,M,Surco,Ginecología,2018-02-14,479.08
+P2906,Sofía Díaz,74,F,Surco,Pediatría,2019-02-22,361.86
+P2907,Luis Pérez,75,F,La Molina,Cardiología,2019-02-27,263.89
+P2908,Carlos Ruiz,41,M,La Molina,Odontología,2022-06-14,56.54
+P2909,Luis Pérez,48,F,Cajamarca,Odontología,2020-10-07,194.07
+P2910,María Gómez,58,F,Cajamarca,Pediatría,2023-09-10,391.12
+P2911,Luis Pérez,36,F,Callao,Ginecología,2021-07-06,0.0
+P2912,Ana Torres,59,F,Surco,Odontología,2022-08-14,429.8
+P2913,Ana Torres,81,M,Cajamarca,Ginecología,2020-08-30,287.69
+P2914,Carlos Ruiz,65,M,Callao,Odontología,2024-08-10,463.01
+P2915,Carlos Ruiz,71,M,Cajamarca,Odontología,2024-07-26,127.89
+P2916,Carlos Ruiz,33,F,Miraflores,Cardiología,2024-09-20,318.71
+P2917,Carlos Ruiz,45,F,Miraflores,Cardiología,2023-01-24,129.63
+P2918,Luis Pérez,35,M,Callao,Ginecología,2018-11-23,166.55
+P2919,Ana Torres,69,M,Surco,Odontología,2022-03-06,168.28
+P2920,María Gómez,3,M,Surco,Ginecología,2022-06-27,326.01
+P2921,Sofía Díaz,76,M,Miraflores,Cardiología,2023-04-24,106.13
+P2922,Luis Pérez,59,M,Callao,Cardiología,2021-06-16,193.61
+P2923,Luis Pérez,46,F,Miraflores,Pediatría,2019-09-03,286.1
+P2924,Luis Pérez,25,M,Surco,Pediatría,2020-11-20,319.27
+P2925,Sofía Díaz,40,M,La Molina,Pediatría,2019-11-24,468.99
+P2926,Ana Torres,53,M,San Isidro,Odontología,2023-05-10,0.0
+P2927,Sofía Díaz,10,M,La Molina,Medicina General,2025-03-23,350.0
+P2928,Ana Torres,52,F,Miraflores,Odontología,2021-01-01,406.36
+P2929,María Gómez,75,M,Cajamarca,Medicina General,2021-01-10,243.1
+P2930,Ana Torres,52,F,Miraflores,Cardiología,2018-01-09,148.48
+P2931,Ana Torres,49,M,Miraflores,Medicina General,2019-10-14,279.58
+P2932,Luis Pérez,24,M,Cajamarca,Medicina General,2025-11-04,225.48
+P2933,Sofía Díaz,48,F,Callao,Ginecología,2021-01-27,137.47
+P2934,Ana Torres,16,F,Cajamarca,Cardiología,2025-05-19,217.49
+P2935,Sofía Díaz,59,F,Surco,Cardiología,2022-09-02,447.6
+P2936,Luis Pérez,72,M,La Molina,Ginecología,2022-12-11,96.46
+P2937,Sofía Díaz,43,M,San Isidro,Ginecología,2018-06-24,187.56
+P2938,María Gómez,13,M,San Isidro,Medicina General,2024-06-18,405.13
+P2939,Sofía Díaz,88,M,Surco,Cardiología,2019-10-19,474.12
+P2940,María Gómez,46,F,Surco,Ginecología,2020-07-11,51.71
+P0001,Ana Torres,72,M,San Isidro,Medicina General,2019-10-01,253.34
+P2942,Sofía Díaz,9,M,Surco,Medicina General,2021-01-15,344.66
+P2943,Carlos Ruiz,77,M,Surco,Ginecología,2024-09-06,437.41
+P2944,María Gómez,72,M,Cajamarca,Pediatría,2025-03-12,283.96
+P2945,Ana Torres,49,M,Cajamarca,Cardiología,2025-03-25,231.68
+P2946,Luis Pérez,36,F,Cajamarca,Cardiología,2023-10-29,420.13
+P2947,Sofía Díaz,82,F,Cajamarca,Cardiología,2025-05-25,175.21
+P2948,Ana Torres,24,M,Cajamarca,Odontología,2019-07-19,335.59
+P2949,Luis Pérez,5,F,Cajamarca,Ginecología,2025-07-16,428.25
+P2950,Carlos Ruiz,76,F,Cajamarca,Pediatría,2024-05-19,109.18
+P2951,Ana Torres,85,M,Surco,Ginecología,2018-04-28,230.99
+P2952,Luis Pérez,53,M,Miraflores,Ginecología,2018-08-26,391.73
+P2953,Luis Pérez,35,F,Callao,Pediatría,2024-09-10,255.41
+P2954,Sofía Díaz,20,F,Callao,Odontología,2022-06-28,482.51
+P2955,Ana Torres,44,F,Miraflores,Odontología,2019-12-11,396.19
+P2956,Luis Pérez,23,F,Cajamarca,Medicina General,2018-03-11,54.93
+P2957,Carlos Ruiz,74,M,Callao,Ginecología,2023-11-19,381.92
+P2958,Sofía Díaz,51,M,La Molina,Cardiología,2024-07-21,270.39
+P2959,Luis Pérez,63,F,Miraflores,Ginecología,2021-09-10,319.29
+P2960,Carlos Ruiz,47,F,Miraflores,Medicina General,2021-11-22,393.89
+P2961,Luis Pérez,34,M,Miraflores,Ginecología,2022-07-24,138.14
+P2962,Carlos Ruiz,25,F,Callao,Ginecología,2025-02-02,172.74
+P2963,Luis Pérez,15,F,San Isidro,Ginecología,2024-01-06,290.57
+P2964,Luis Pérez,8,M,Miraflores,Medicina General,2022-05-24,0.0
+P2965,María Gómez,3,M,Cajamarca,Odontología,2022-05-12,264.8
+P2966,Ana Torres,39,M,Surco,Cardiología,2018-03-19,250.52
+P2967,Carlos Ruiz,86,F,San Isidro,Ginecología,2019-09-07,142.15
+P2968,Carlos Ruiz,56,F,La Molina,Cardiología,2024-09-27,257.21
+P2969,María Gómez,9,F,San Isidro,Pediatría,2021-02-02,446.0
+P2970,Ana Torres,41,M,Surco,Cardiología,2024-11-27,263.07
+P2971,Ana Torres,23,F,Miraflores,Odontología,2021-09-02,359.4
+P2972,María Gómez,5,F,Surco,Odontología,2022-03-03,165.47
+P2973,María Gómez,87,M,La Molina,Medicina General,2019-03-02,108.26
+P2974,Carlos Ruiz,51,M,La Molina,Medicina General,2020-07-06,383.49
+P2975,María Gómez,79,M,Miraflores,Medicina General,2025-10-30,162.33
+P2976,María Gómez,1,M,Callao,Odontología,2025-10-28,74.54
+P2977,Ana Torres,47,F,Miraflores,Medicina General,2021-04-04,54.62
+P2978,Sofía Díaz,2,M,Miraflores,Pediatría,2022-06-29,194.2
+P2979,Ana Torres,47,M,Surco,Medicina General,2022-07-10,64.19
+P2980,Carlos Ruiz,63,F,La Molina,Medicina General,2025-01-05,421.13
+P2981,Sofía Díaz,89,M,Callao,Odontología,2020-04-06,127.89
+P2982,Sofía Díaz,33,F,La Molina,Ginecología,2020-06-28,272.9
+P2983,María Gómez,85,M,San Isidro,Medicina General,2023-06-27,313.85
+P2984,Luis Pérez,71,M,Miraflores,Ginecología,2018-10-29,417.64
+P2985,María Gómez,34,F,Miraflores,Medicina General,2023-06-17,194.76
+P2986,Ana Torres,81,ND,Miraflores,Ginecología,2020-08-31,105.55
+P2987,Carlos Ruiz,56,M,Surco,Pediatría,2025-12-19,345.55
+P2988,María Gómez,22,F,Cajamarca,Pediatría,2022-02-17,84.64
+P2989,Luis Pérez,64,F,La Molina,Ginecología,2021-09-05,193.02
+P2990,Carlos Ruiz,17,F,Cajamarca,Odontología,2022-07-03,422.29
+P2991,Luis Pérez,2,M,Miraflores,Odontología,2022-06-20,223.27
+P2992,Luis Pérez,22,M,San Isidro,Cardiología,2021-02-26,186.98
+P2993,SIN_NOMBRE,62,M,Cajamarca,Odontología,2022-05-15,315.09
+P2994,Carlos Ruiz,11,M,Callao,Pediatría,2022-09-18,355.55
+P2995,Ana Torres,40,ND,Miraflores,Pediatría,2019-04-03,87.47
+P2996,María Gómez,66,F,Surco,Cardiología,2019-01-16,0.0
+P0001,SIN_NOMBRE,8,F,Callao,Medicina General,2021-08-01,270.93
+P2998,María Gómez,8,F,Surco,Ginecología,2022-12-06,203.7
+P2999,Ana Torres,18,F,Callao,Odontología,2022-06-08,321.31
+P3000,Carlos Ruiz,8,F,Callao,Pediatría,2018-08-23,402.07
